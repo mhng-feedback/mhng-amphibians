@@ -1,0 +1,97 @@
+Report for Institution Code MHNG, Resource mhng_amphibians
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 40
+Number of records retrieved in searches: 883
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 10
+	Country: United States ; Times: 18
+	Country: Belgium ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Colombia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 2
+	Date: 2015-12-08 ; Times: 2
+	Date: 2015-12-30 ; Times: 1
+	Date: 2015-12-05 ; Times: 1
+	Date: 2015-12-04 ; Times: 2
+	Date: 2015-12-17 ; Times: 5
+	Date: 2015-12-20 ; Times: 3
+	Date: 2015-12-16 ; Times: 2
+	Date: 2015-12-22 ; Times: 1
+	Date: 2015-12-25 ; Times: 3
+	Date: 2015-12-11 ; Times: 2
+	Date: 2015-12-13 ; Times: 2
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-28 ; Times: 6
+	Date: 2015-12-18 ; Times: 6
+	Date: 2015-12-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "bufo pentoni" ; Times: 1
+	Query: "Craugastor" ; Times: 1
+	Query: "genus:Phyllobates specificepithet:vittatus" ; Times: 1
+	Query: "specificepithet:ruber genus:Scinax" ; Times: 1
+	Query: "Pristimantis w-nigrum" ; Times: 3
+	Query: "eleutherodactylus w-nigrum colombia" ; Times: 1
+	Query: "Chiromantis type:specimen" ; Times: 1
+	Query: "family:hylidae country:&#34;peru&#34;" ; Times: 1
+	Query: "genus:Pyxicephalus specificepithet:adspersus" ; Times: 1
+	Query: "genus:Oophaga specificepithet:pumilio" ; Times: 2
+	Query: "Eleutherodactylus acuminatus" ; Times: 4
+	Query: "genus:Hyperolius specificepithet:argus" ; Times: 1
+	Query: "family:hylidae country:&#34;peru&#34; year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "specificepithet:abitaguae genus:Caecilia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:Proceratophrys specificepithet:boiei" ; Times: 1
+	Query: "genus:Conraua specificepithet:robusta" ; Times: 1
+	Query: "Geotrypetes seraphini" ; Times: 1
+	Query: "Pristimantis acuminatus" ; Times: 1
+	Query: "Pristimantis w-nigrum colombia" ; Times: 1
+	Query: "specificepithet:palmata genus:Bolitoglossa country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "pleurodema thaul" ; Times: 1
+	Query: "eleutherodactylus w-nigrum" ; Times: 1
+	Query: "specificepithet:phyllognathus genus:Hyloscirtus" ; Times: 2
+	Query: "specificepithet:verruciger genus:Osteocephalus" ; Times: 1
+	Query: "epipedobates machalilla" ; Times: 1
+	Query: "genus:Physalaemus specificepithet:cuvieri" ; Times: 2
+	Query: "Herpele squalostoma" ; Times: 4
+	Query: "genus:Bufo specificepithet:bufo" ; Times: 1
+	Query: "acuminatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 889 download events in this period)
+Total number of records downloaded: 26
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-03 ; Times: 2
+	Date: 2015-12-18 ; Times: 1
+	Date: 2015-12-17 ; Times: 2
+	Date: 2015-12-10 ; Times: 1
+	Date: 2015-12-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "bufo compactilis" ; Times: 2
+	Query: "Rana aurora" ; Times: 1
+	Query: "scaphiopus" ; Times: 1
+	Query: "Herpele squalostoma" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "eleutherodactylus w-nigrum colombia" ; Times: 1
+
+
+End of report.
