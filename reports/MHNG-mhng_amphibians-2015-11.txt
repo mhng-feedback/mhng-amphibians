@@ -1,0 +1,102 @@
+Report for Institution Code MHNG, Resource mhng_amphibians
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 40
+Number of records retrieved in searches: 1194
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United Kingdom ; Times: 8
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 18
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 3
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-01 ; Times: 8
+	Date: 2015-11-02 ; Times: 3
+	Date: 2015-11-06 ; Times: 1
+	Date: 2015-11-05 ; Times: 1
+	Date: 2015-11-14 ; Times: 1
+	Date: 2015-11-19 ; Times: 2
+	Date: 2015-11-18 ; Times: 1
+	Date: 2015-11-08 ; Times: 1
+	Date: 2015-11-11 ; Times: 4
+	Date: 2015-11-03 ; Times: 6
+	Date: 2015-11-24 ; Times: 2
+	Date: 2015-11-25 ; Times: 1
+	Date: 2015-11-13 ; Times: 3
+	Date: 2015-11-12 ; Times: 1
+	Date: 2015-11-15 ; Times: 1
+	Date: 2015-11-21 ; Times: 2
+	Date: 2015-11-04 ; Times: 1
+	Date: 2015-11-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pulcher" ; Times: 1
+	Query: "dendropsophus microcephalus" ; Times: 1
+	Query: "discoglossus type:specimen" ; Times: 2
+	Query: "Loreto class:Amphibia country:&#34;Peru&#34; (Yanayacu)" ; Times: 1
+	Query: "craugastor bransfordii" ; Times: 6
+	Query: "leptopelis brevirostris" ; Times: 1
+	Query: "xenopus andrei" ; Times: 1
+	Query: "leptopelis country:&#34;cameroon&#34; year &gt;= 1970 year &lt;= 1972" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:pentadactylus" ; Times: 1
+	Query: "institutioncode:MHNG" ; Times: 2
+	Query: "Guatemala" ; Times: 1
+	Query: "dendrobates auratus" ; Times: 1
+	Query: "Ucayali class:Amphibia country:&#34;Peru&#34;" ; Times: 2
+	Query: "afrixalus fulvovittatus" ; Times: 2
+	Query: "class:Amphibia country:&#34;Peru&#34; (Samiria)" ; Times: 1
+	Query: "Loreto class:Amphibia country:&#34;Peru&#34; (Pancho Mangua)" ; Times: 1
+	Query: "Loreto class:Amphibia country:&#34;Peru&#34; (Puerto Huaman)" ; Times: 1
+	Query: "pseudoeurycea bellii" ; Times: 1
+	Query: "Lithodytes lineatus" ; Times: 1
+	Query: "genus:Rhinella" ; Times: 2
+	Query: "Anura MEXICO" ; Times: 1
+	Query: "class:Amphibia country:&#34;Peru&#34; (Loreto)" ; Times: 2
+	Query: "Ptychadena mascareniensis" ; Times: 1
+	Query: "Dendropsophus microcephalus" ; Times: 1
+	Query: "genus:Amietophrynus class:amphibia" ; Times: 1
+	Query: "telmatobius" ; Times: 1
+	Query: "genus:Bufo specificepithet:bufo" ; Times: 1
+	Query: "Xenopus andrei" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 751 download events in this period)
+Total number of records downloaded: 26781
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 1
+	Country: United States ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-18 ; Times: 1
+	Date: 2015-11-09 ; Times: 1
+	Date: 2015-11-11 ; Times: 1
+	Date: 2015-11-06 ; Times: 1
+	Date: 2015-11-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Amphibia country:&#34;Peru&#34;" ; Times: 1
+	Query: "Dendropsophus microcephalus" ; Times: 1
+	Query: "pseudoeurycea bellii" ; Times: 1
+	Query: "institutioncode:MHNG" ; Times: 1
+	Query: "bufo marinus" ; Times: 1
+	Query: "afrixalus fulvovittatus" ; Times: 1
+
+
+End of report.
