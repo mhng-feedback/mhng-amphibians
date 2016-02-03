@@ -1,0 +1,91 @@
+Report for Institution Code MHNG, Resource mhng_amphibians
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 45
+Number of records retrieved in searches: 976
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 7
+	Country: Colombia ; Times: 2
+	Country: Costa Rica ; Times: 2
+	Country: United Kingdom ; Times: 5
+	Country: Germany ; Times: 6
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 1
+	Date: 2015-10-14 ; Times: 2
+	Date: 2015-10-15 ; Times: 3
+	Date: 2015-10-29 ; Times: 8
+	Date: 2015-10-28 ; Times: 2
+	Date: 2015-10-27 ; Times: 16
+	Date: 2015-10-26 ; Times: 7
+	Date: 2015-10-23 ; Times: 1
+	Date: 2015-10-22 ; Times: 4
+	Date: 2015-10-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Centrolene buckleyi" ; Times: 1
+	Query: "Duellman" ; Times: 1
+	Query: "dendrobates auratus" ; Times: 2
+	Query: "Hymenochirus boettgeri" ; Times: 2
+	Query: "san rafael class:amphibia" ; Times: 1
+	Query: "dendropsophus leucophyllatus" ; Times: 1
+	Query: "Oophaga" ; Times: 1
+	Query: "craugastor" ; Times: 1
+	Query: "hypsiboas punctatus" ; Times: 3
+	Query: "aromobatidae" ; Times: 1
+	Query: "Hymenochirus boulengeri" ; Times: 5
+	Query: "Anomaloglossus" ; Times: 1
+	Query: "petropedetes" ; Times: 1
+	Query: "gastrotheca cornuta" ; Times: 1
+	Query: "dendropsophus" ; Times: 1
+	Query: "Hypsiboas punctatus" ; Times: 3
+	Query: "Atelopus" ; Times: 1
+	Query: "gastrotheca" ; Times: 1
+	Query: "genus:Ptychadena country:&#34;Angola&#34;" ; Times: 6
+	Query: "Pipa carvalhoi" ; Times: 3
+	Query: "melanophryniscus stelzneri" ; Times: 1
+	Query: "Hymenochirus curtipes" ; Times: 4
+	Query: "idiocranium" ; Times: 1
+	Query: "Eleutherodactylus naranjo" ; Times: 1
+	Query: "rheobates" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 823 download events in this period)
+Total number of records downloaded: 26281
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Uganda ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-28 ; Times: 2
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:82a65706-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "dendropsophus leucophyllatus" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "Hymenochirus boulengeri" ; Times: 1
+	Query: "genus:Ptychadena country:&#34;Angola&#34;" ; Times: 1
+	Query: "marmorata" ; Times: 1
+	Query: "melanophryniscus stelzneri" ; Times: 1
+	Query: "uganda" ; Times: 1
+
+
+End of report.
