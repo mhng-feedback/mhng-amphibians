@@ -1,0 +1,100 @@
+Report for Institution Code MHNG, Resource mhng_amphibians
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 558
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 19
+	Country: Colombia ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 4
+	Date: 2016-01-30 ; Times: 1
+	Date: 2016-01-20 ; Times: 10
+	Date: 2016-01-07 ; Times: 1
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-01 ; Times: 4
+	Date: 2016-01-25 ; Times: 3
+	Date: 2016-01-28 ; Times: 2
+	Date: 2016-01-29 ; Times: 3
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-12 ; Times: 1
+	Date: 2016-01-11 ; Times: 2
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Bufo Mexico locality:Mexico" ; Times: 1
+	Query: "Pristimantis w-nigrum country:&#34;Colombia&#34;" ; Times: 1
+	Query: "dendropsophus microcephalus" ; Times: 1
+	Query: "Gastrotheca pseustes" ; Times: 1
+	Query: "vaillanti" ; Times: 1
+	Query: "bufo granulosus" ; Times: 1
+	Query: "Phrynohyas venulosa" ; Times: 1
+	Query: "genus:Rhinella specificepithet:crucifer" ; Times: 1
+	Query: "2135" ; Times: 1
+	Query: "Pristimantis cruentus mappable:1" ; Times: 1
+	Query: "Bolitoglossa altamazonica" ; Times: 10
+	Query: "specificepithet:scutatus genus:Hemiphractus family:Hemiphractidae order:Anura class:Amphibia" ; Times: 1
+	Query: "Pristimantis cruentus" ; Times: 1
+	Query: "hypsiboas geographicus" ; Times: 1
+	Query: "oophaga pumilio" ; Times: 1
+	Query: "pristimantis mendax" ; Times: 1
+	Query: "genus:Hyalinobatrachium specificepithet:bergeri" ; Times: 1
+	Query: "genus:Eupemphix specificepithet:nattereri" ; Times: 1
+	Query: "Eleutherodactylus w-nigrum country:&#34;Colombia&#34;" ; Times: 2
+	Query: "21381" ; Times: 1
+	Query: "genus:Oophaga specificepithet:histrionica" ; Times: 1
+	Query: "Pristimantis" ; Times: 2
+	Query: "genus:Gastrotheca" ; Times: 1
+	Query: "genus:Bufo specificepithet:bufo" ; Times: 2
+	Query: "rheobates" ; Times: 1
+	Query: "Physalaemus pustulosus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 507 download events in this period)
+Total number of records downloaded: 1761
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 2
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-27 ; Times: 2
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-29 ; Times: 3
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-12 ; Times: 1
+	Date: 2016-01-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pristimantis cruentus mappable:1" ; Times: 1
+	Query: "Craugastor rugulosus" ; Times: 1
+	Query: "dendropsophus microcephalus" ; Times: 1
+	Query: "Hyperolius" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "order:CAudata country:&#34;United States&#34;" ; Times: 4
+	Query: "order:caudata continent:north america" ; Times: 1
+	Query: "Puebla type:specimen class:amphibia" ; Times: 1
+	Query: "rheobates" ; Times: 1
+	Query: "Anaxyrus compactilis" ; Times: 1
+
+
+End of report.
