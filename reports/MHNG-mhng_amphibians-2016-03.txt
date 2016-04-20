@@ -1,0 +1,94 @@
+Report for Institution Code MHNG, Resource mhng_amphibians
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 25
+Number of records retrieved in searches: 614
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 7
+	Country: Colombia ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-01 ; Times: 2
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-07 ; Times: 1
+	Date: 2016-03-06 ; Times: 2
+	Date: 2016-03-14 ; Times: 1
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-05 ; Times: 3
+	Date: 2016-03-11 ; Times: 2
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 6
+	Date: 2016-03-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Bolitoglossa adspersa mappable:1" ; Times: 1
+	Query: "Papallacta OR Baeza AND Amphibia" ; Times: 1
+	Query: "Loja Ecuador Amphibia" ; Times: 1
+	Query: "Duellman Amphibia Peru" ; Times: 1
+	Query: "genus:Phyllobates specificepithet:vittatus" ; Times: 1
+	Query: "genus:Schismaderma specificepithet:carens" ; Times: 1
+	Query: "Lynch Amphibia Peru" ; Times: 1
+	Query: "Pternohyla dentata" ; Times: 1
+	Query: "genus:Pelophylax specificepithet:grafi" ; Times: 1
+	Query: "Smilisca dentata" ; Times: 1
+	Query: "Afrixalus paradorsalis" ; Times: 2
+	Query: "phyllomedusa bicolor" ; Times: 1
+	Query: "Plectrohyla glandulosa" ; Times: 1
+	Query: "Leptodactylus bufonius" ; Times: 1
+	Query: "pithecia" ; Times: 1
+	Query: "Ptychohyla" ; Times: 1
+	Query: "pardalis" ; Times: 1
+	Query: "Beni Bolivia Amphibia" ; Times: 1
+	Query: "locality:Tafi country:&#34;Argentina&#34;" ; Times: 1
+	Query: "raniceps" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:americanus" ; Times: 1
+	Query: "Lynch Amphibia Ecuador" ; Times: 1
+	Query: "Dendropsophus microcephalus" ; Times: 1
+	Query: "genus:conraua specificepithet:goliath" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 230 download events in this period)
+Total number of records downloaded: 4564
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Kenya ; Times: 1
+	Country: Spain ; Times: 4
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-11 ; Times: 1
+	Date: 2016-03-08 ; Times: 1
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-07 ; Times: 1
+	Date: 2016-03-04 ; Times: 2
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-13 ; Times: 2
+	Date: 2016-03-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:amphibia country:&#34;Uganda&#34;" ; Times: 1
+	Query: "Papallacta OR Baeza AND Amphibia" ; Times: 1
+	Query: "Duellman Amphibia Ecuador" ; Times: 1
+	Query: "Dendropsophus microcephalus" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Bolitoglossa peruviana mappable:1" ; Times: 1
+	Query: "Limoncocha" ; Times: 1
+	Query: "Smilisca dentata" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "Ptychohyla" ; Times: 1
+
+
+End of report.
