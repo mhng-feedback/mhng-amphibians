@@ -1,0 +1,87 @@
+Report for Institution Code MHNG, Resource mhng_amphibians
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 227
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Colombia ; Times: 7
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 2
+	Country: Malaysia ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-03 ; Times: 1
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-11 ; Times: 2
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-24 ; Times: 2
+	Date: 2016-05-25 ; Times: 1
+	Date: 2016-05-30 ; Times: 3
+	Date: 2016-05-10 ; Times: 2
+	Date: 2016-05-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Eupsophus vertebralis" ; Times: 1
+	Query: "cm 349" ; Times: 1
+	Query: "Cundinamarca" ; Times: 1
+	Query: "Shimba" ; Times: 1
+	Query: "rheobates palmatus" ; Times: 1
+	Query: "genus:Hymenochirus specificepithet:boettgeri" ; Times: 1
+	Query: "genus:Hypsiboas specificepithet:crepitans" ; Times: 2
+	Query: "hildebrandtia" ; Times: 1
+	Query: "phyllomedusa tarsius" ; Times: 1
+	Query: "phyllomedusa bicolor" ; Times: 1
+	Query: "country:&#34;Brazil&#34; bahia" ; Times: 1
+	Query: "genus:Pristimantis specificepithet:ridens" ; Times: 1
+	Query: "phyllomedusa iheringii" ; Times: 1
+	Query: "leptodactylus fuscus" ; Times: 1
+	Query: "genus:Bolitoglossa specificepithet:adspersa" ; Times: 1
+	Query: "genus:Xenopus specificepithet:boumbaensis" ; Times: 2
+	Query: "genus:Craugastor specificepithet:fitzingeri" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 327 download events in this period)
+Total number of records downloaded: 29744
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 3
+	Country: Colombia ; Times: 4
+	Country: Chile ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-15 ; Times: 3
+	Date: 2016-05-05 ; Times: 1
+	Date: 2016-05-11 ; Times: 3
+	Date: 2016-05-07 ; Times: 1
+	Date: 2016-05-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Eupsophus vertebralis" ; Times: 1
+	Query: "specificepithet:crepitans genus:Hypsiboas country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "Telmatobius peruvianus" ; Times: 1
+	Query: "phyllomedusa sauvagii" ; Times: 1
+	Query: "rana draytonii" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "phyllomedusa tarsius" ; Times: 1
+	Query: "class:amphibia" ; Times: 3
+	Query: "Eurycea" ; Times: 1
+
+
+End of report.
