@@ -1,0 +1,152 @@
+Report for Institution Code MHNG, Resource mhng_amphibians
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 88
+Number of records retrieved in searches: 1469
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Portugal ; Times: 8
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 8
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 4
+	Country: Guatemala ; Times: 1
+	Country: Chile ; Times: 5
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 40
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 1
+	Date: 2016-06-24 ; Times: 5
+	Date: 2016-06-09 ; Times: 8
+	Date: 2016-06-18 ; Times: 1
+	Date: 2016-06-21 ; Times: 3
+	Date: 2016-06-20 ; Times: 10
+	Date: 2016-06-16 ; Times: 27
+	Date: 2016-06-17 ; Times: 1
+	Date: 2016-06-14 ; Times: 6
+	Date: 2016-06-15 ; Times: 3
+	Date: 2016-06-01 ; Times: 2
+	Date: 2016-06-13 ; Times: 12
+	Date: 2016-06-10 ; Times: 1
+	Date: 2016-06-11 ; Times: 3
+	Date: 2016-06-05 ; Times: 1
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "johnsoni" ; Times: 1
+	Query: "Dendropsophus labialis" ; Times: 1
+	Query: "Hemiphractus bubalus" ; Times: 1
+	Query: "Hypsiboas punctatus" ; Times: 1
+	Query: "Dendropsophus microcephalus AND (NOT Brazil NOT Jalizco)" ; Times: 1
+	Query: "chiromantis rufescens" ; Times: 1
+	Query: "Dendrobates azureus" ; Times: 2
+	Query: "Hyloxalus subpunctatus mappable:1" ; Times: 2
+	Query: "Dendrobates truncatus" ; Times: 1
+	Query: "lithobates vaillanti" ; Times: 1
+	Query: "scinax squalirostris" ; Times: 3
+	Query: "Hypsiboas crepitans" ; Times: 2
+	Query: "Engystomops pustulosus AND (NOT Ecuador) mappable:1" ; Times: 1
+	Query: "Leptodactylus pentadactylus AND (NOT Costa NOT Panama NOT Bahia NOT Sergipe NOT Grande)" ; Times: 1
+	Query: "Leptodactylus pentadactylus AND (NOT Costa NOT Panama NOT Bahia NOT Sergipe NOT Grande NOT Paraguay NOT Catarina NOT paulo)" ; Times: 1
+	Query: "genus:Ecnomiohyla country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Leptodactylus pentadactylus" ; Times: 1
+	Query: "palenque (amphibia)" ; Times: 1
+	Query: "Leptodactylus pentadactylus AND (NOT Costa NOT Panama NOT Bahia)" ; Times: 1
+	Query: "Rana warszewitschii" ; Times: 1
+	Query: "country:&#34;Colombia&#34; institutioncode:MHNG" ; Times: 1
+	Query: "pleurodema" ; Times: 2
+	Query: "genus:Phyllomedusa specificepithet:tarsius" ; Times: 1
+	Query: "Guatemala" ; Times: 1
+	Query: "Nymphargus truebae" ; Times: 1
+	Query: "Leptodactylus pentadactylus AND (NOT Costa NOT Panama NOT Bahia NOT Sergipe NOT Grande NOT Paraguay)" ; Times: 1
+	Query: "pleurodema diplolister" ; Times: 1
+	Query: "taeniata" ; Times: 1
+	Query: "Leptodactylus pentadactylus AND (NOT Costa NOT Panama NOT Bahia NOT Sergipe)" ; Times: 1
+	Query: "barros chile" ; Times: 2
+	Query: "Leptodactylus pentadactylus AND (NOT Costa NOT Panama NOT Bahia NOT Sergipe NOT Grande NOT Paraguay NOT Catarina NOT paulo NOT minas)" ; Times: 1
+	Query: "genus:Oophaga specificepithet:pumilio" ; Times: 3
+	Query: "Rana palmipes" ; Times: 1
+	Query: "leptodactylus bolivianus country:&#34;panama&#34;" ; Times: 1
+	Query: "nebulosus" ; Times: 1
+	Query: "rheobates palmatus" ; Times: 1
+	Query: "Pristimantis bogotensis" ; Times: 1
+	Query: "Craugastor fitzingeri AND (NOT Brazil)" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "chile" ; Times: 1
+	Query: "Leptodactylus pentadactylus AND (NOT Costa NOT Panama NOT Bahia NOT Serpige)" ; Times: 1
+	Query: "palenque" ; Times: 1
+	Query: "pleurodema borellii" ; Times: 1
+	Query: "Engystomops pustulosus mappable:1" ; Times: 1
+	Query: "Xenopus laevis 1" ; Times: 8
+	Query: "rheobates palmatus mappable:1" ; Times: 2
+	Query: "Craugastor fitzingeri mappable:1" ; Times: 4
+	Query: "atelopus ignescens" ; Times: 2
+	Query: "atelopus" ; Times: 1
+	Query: "Dendropsophus microcephalus" ; Times: 1
+	Query: "allobates talamancae" ; Times: 1
+	Query: "Hemiphractus johnsoni" ; Times: 3
+	Query: "Scinax squalirostris" ; Times: 1
+	Query: "Leptodactylus pentadactylus AND (NOT Costa NOT Panama NOT Bahia NOT Sergipe NOT Grande NOT Paraguay NOT Catarina)" ; Times: 1
+	Query: "Barros Chile" ; Times: 2
+	Query: "Rhinella marinus" ; Times: 1
+	Query: "Leptodactylus pentadactylus AND (NOT Costa)" ; Times: 1
+	Query: "Leptodactylus pentadactylus AND (NOT Costa NOT Panama)" ; Times: 1
+	Query: "Hyalinobatrachium fleischmanni" ; Times: 4
+	Query: "Dendropsophus microcephalus AND (NOT Brazil NOT Jalisco)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1052 download events in this period)
+Total number of records downloaded: 2793
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Colombia ; Times: 19
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 2
+	Date: 2016-06-09 ; Times: 1
+	Date: 2016-06-20 ; Times: 4
+	Date: 2016-06-16 ; Times: 10
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-13 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Hypsiboas punctatus" ; Times: 1
+	Query: "Leptodactylus pentadactylus AND (NOT Costa NOT Panama NOT Bahia NOT Sergipe NOT Grande NOT Paraguay NOT Catarina NOT paulo NOT minas)" ; Times: 1
+	Query: "Dendrobates azureus" ; Times: 1
+	Query: "Pristimantis bogotensis" ; Times: 1
+	Query: "Dendrobates truncatus" ; Times: 1
+	Query: "scinax squalirostris" ; Times: 2
+	Query: "Hypsiboas crepitans" ; Times: 1
+	Query: "Engystomops pustulosus AND (NOT Ecuador) mappable:1" ; Times: 1
+	Query: "Rana warszewitschii" ; Times: 2
+	Query: "pleurodema" ; Times: 1
+	Query: "Nymphargus truebae" ; Times: 1
+	Query: "pleurodema diplolister" ; Times: 1
+	Query: "Rana palmipes" ; Times: 1
+	Query: "Craugastor fitzingeri AND (NOT Brazil)" ; Times: 1
+	Query: "pleurodema borellii" ; Times: 1
+	Query: "Hyloxalus subpunctatus mappable:1" ; Times: 1
+	Query: "rheobates palmatus mappable:1" ; Times: 1
+	Query: "atelopus" ; Times: 1
+	Query: "Dendrobates auratus" ; Times: 1
+	Query: "bufo bufo" ; Times: 1
+	Query: "Rhinella marinus" ; Times: 1
+	Query: "Hyalinobatrachium fleischmanni" ; Times: 1
+	Query: "Dendropsophus microcephalus AND (NOT Brazil NOT Jalisco)" ; Times: 1
+
+
+End of report.
