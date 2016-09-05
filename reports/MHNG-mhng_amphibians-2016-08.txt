@@ -1,0 +1,114 @@
+Report for Institution Code MHNG, Resource mhng_amphibians
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 1548
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 24
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 5
+	Country: Poland ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Panama ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 6
+	Date: 2016-08-12 ; Times: 8
+	Date: 2016-08-14 ; Times: 3
+	Date: 2016-08-15 ; Times: 3
+	Date: 2016-08-18 ; Times: 2
+	Date: 2016-08-24 ; Times: 3
+	Date: 2016-08-21 ; Times: 8
+	Date: 2016-08-20 ; Times: 7
+	Date: 2016-08-30 ; Times: 1
+	Date: 2016-08-22 ; Times: 2
+	Date: 2016-08-23 ; Times: 1
+	Date: 2016-08-19 ; Times: 2
+	Date: 2016-08-29 ; Times: 1
+	Date: 2016-08-31 ; Times: 3
+	Date: 2016-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Craugastor" ; Times: 1
+	Query: "Hyperolius fusciventris mappable:1" ; Times: 1
+	Query: "type:specimen (anaxyrus)" ; Times: 1
+	Query: "(bufo anaxyrus)" ; Times: 1
+	Query: "Conrauidae type:specimen order:Anura" ; Times: 2
+	Query: "country:&#34;Benin&#34;" ; Times: 1
+	Query: "(anaxyrus bufo)" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:pentadactylus" ; Times: 1
+	Query: "Leptodactylus melanonotus" ; Times: 1
+	Query: "Phyllomedusa" ; Times: 1
+	Query: "Mertensi" ; Times: 2
+	Query: "Eurycea bislineata country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "conrauidae type:specimen order:Anura" ; Times: 2
+	Query: "order:Gymnophiona institutioncode:MHNG" ; Times: 4
+	Query: "lithobates" ; Times: 1
+	Query: "Pithecia pithecia 1" ; Times: 1
+	Query: "genus:Noblella specificepithet:myrmecoides" ; Times: 1
+	Query: "Anaxyrus americanus mappable:1" ; Times: 1
+	Query: "Hyperolius riggenbachi mappable:1" ; Times: 1
+	Query: "Hemiphractus fasciatus" ; Times: 1
+	Query: "scotobleps gabonicus" ; Times: 1
+	Query: "CD-05" ; Times: 1
+	Query: "petropedetes type:specimen order:Anura" ; Times: 2
+	Query: "anaxyrus americanus" ; Times: 1
+	Query: "type:specimen (anaxyrus bufo)" ; Times: 1
+	Query: "villavicencio" ; Times: 1
+	Query: "Atelopus balios" ; Times: 1
+	Query: "alexteroon" ; Times: 1
+	Query: "Phyllomedusa azurea" ; Times: 1
+	Query: "hyalinobatrachium" ; Times: 1
+	Query: "hemiphractus fasciatus" ; Times: 1
+	Query: "Hyperolius ocellatus mappable:1" ; Times: 1
+	Query: "burkina faso" ; Times: 3
+	Query: "Hyperolius riggenbachi" ; Times: 1
+	Query: "corrugatus type:specimen order:Anura" ; Times: 1
+	Query: "pternohyla dentata" ; Times: 1
+	Query: "atelopus" ; Times: 1
+	Query: "Hyperolius bolifambae mappable:1" ; Times: 2
+	Query: "anaxyrus" ; Times: 2
+	Query: "genus:Typhlonectes specificepithet:natans" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 924 download events in this period)
+Total number of records downloaded: 3749
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-12 ; Times: 1
+	Date: 2016-08-29 ; Times: 1
+	Date: 2016-08-18 ; Times: 1
+	Date: 2016-08-24 ; Times: 1
+	Date: 2016-08-21 ; Times: 5
+	Date: 2016-08-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Phyllomedusa azurea" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "type:specimen (anaxyrus)" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "type:specimen family:Hyperoliidae" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "scotobleps gabonicus" ; Times: 1
+	Query: "Plethodon cinereus country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "type:specimen (anaxyrus bufo)" ; Times: 1
+
+
+End of report.
