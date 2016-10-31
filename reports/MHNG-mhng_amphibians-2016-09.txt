@@ -1,0 +1,112 @@
+Report for Institution Code MHNG, Resource mhng_amphibians
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 92
+Number of records retrieved in searches: 1311
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 60
+	Country: Colombia ; Times: 2
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 7
+	Country: France ; Times: 1
+	Country: United States ; Times: 8
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Paraguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-01 ; Times: 2
+	Date: 2016-09-13 ; Times: 3
+	Date: 2016-09-12 ; Times: 2
+	Date: 2016-09-11 ; Times: 57
+	Date: 2016-09-08 ; Times: 4
+	Date: 2016-09-09 ; Times: 5
+	Date: 2016-09-14 ; Times: 2
+	Date: 2016-09-04 ; Times: 3
+	Date: 2016-09-23 ; Times: 1
+	Date: 2016-09-05 ; Times: 1
+	Date: 2016-09-07 ; Times: 7
+	Date: 2016-09-26 ; Times: 3
+	Date: 2016-09-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "G. variegatus" ; Times: 1
+	Query: "genus:Leptodactylodon specificepithet:ventrimarmoratus" ; Times: 1
+	Query: "Hypsiboas punctatus" ; Times: 1
+	Query: "Hypsiboas raniceps" ; Times: 1
+	Query: "Hypsiboas crepitans" ; Times: 1
+	Query: "Pristimantis cosnipatae" ; Times: 1
+	Query: "G. variegatus mappable:1" ; Times: 2
+	Query: "Gastrophryne usta" ; Times: 1
+	Query: "country:&#34;Benin&#34;" ; Times: 1
+	Query: "hyalinobatrachium fleischmanni" ; Times: 1
+	Query: "Hypsiboas geographicus" ; Times: 1
+	Query: "centrolene buckleyi" ; Times: 5
+	Query: "pleurodema" ; Times: 1
+	Query: "Pithecia pithecia 1" ; Times: 1
+	Query: "Guatemala" ; Times: 1
+	Query: "Hypsiboas boans" ; Times: 46
+	Query: "newtoni" ; Times: 1
+	Query: "genus:Rhinoderma specificepithet:darwinii" ; Times: 2
+	Query: "allobates" ; Times: 1
+	Query: "Hypsiboas lanciformis" ; Times: 1
+	Query: "Hypsiboas faber" ; Times: 1
+	Query: "Atelopus ignescens" ; Times: 1
+	Query: "nebulosus" ; Times: 1
+	Query: "pseudoeurycea bellii" ; Times: 2
+	Query: "Lithodytes lineatus" ; Times: 1
+	Query: "genus:Siphonops specificepithet:paulensis" ; Times: 1
+	Query: "Xenopus laevis 1" ; Times: 4
+	Query: "atelopus ignescens" ; Times: 1
+	Query: "atelopus zeteki" ; Times: 1
+	Query: "Hypsiboas rosenbergi" ; Times: 1
+	Query: "lithodytes lineatus" ; Times: 1
+	Query: "Hypsiboas pellucens" ; Times: 1
+	Query: "genus:Pelophylax specificepithet:perezi" ; Times: 1
+	Query: "Hypsiboas pardalis" ; Times: 1
+	Query: "Ecnomiohyla miotympanum" ; Times: 1
+	Query: "Hyalinobatrachium fleischmanni" ; Times: 1
+	Query: "Bolitoglossa platydactyla" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 811 download events in this period)
+Total number of records downloaded: 3670
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-08 ; Times: 1
+	Date: 2016-09-09 ; Times: 5
+	Date: 2016-09-05 ; Times: 1
+	Date: 2016-09-07 ; Times: 2
+	Date: 2016-09-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Incilius valliceps" ; Times: 1
+	Query: "rana pipiens" ; Times: 1
+	Query: "atelopus ignescens" ; Times: 1
+	Query: "Rana draytonii" ; Times: 1
+	Query: "type:specimen country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "pseudoeurycea bellii" ; Times: 1
+	Query: "Atelopus ignescens" ; Times: 1
+	Query: "Lithodytes lineatus" ; Times: 1
+	Query: "Pristimantis cosnipatae" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "anaxyrus compactilis" ; Times: 1
+
+
+End of report.
