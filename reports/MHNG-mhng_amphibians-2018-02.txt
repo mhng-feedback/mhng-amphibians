@@ -1,0 +1,176 @@
+Report for Institution Code MHNG, Resource mhng_amphibians
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 138
+Number of records retrieved in searches: 1809
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Portugal ; Times: 11
+	Country: Mexico ; Times: 7
+	Country: Cameroon ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 85
+	Country: Malaysia ; Times: 1
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 9
+	Country: Belgium ; Times: 5
+	Country: China ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: Norway ; Times: 4
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 1
+	Date: 2018-02-20 ; Times: 14
+	Date: 2018-02-16 ; Times: 5
+	Date: 2018-02-17 ; Times: 1
+	Date: 2018-02-25 ; Times: 15
+	Date: 2018-02-24 ; Times: 6
+	Date: 2018-02-27 ; Times: 38
+	Date: 2018-02-26 ; Times: 2
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-18 ; Times: 9
+	Date: 2018-02-23 ; Times: 4
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-08 ; Times: 3
+	Date: 2018-02-22 ; Times: 7
+	Date: 2018-02-01 ; Times: 12
+	Date: 2018-02-04 ; Times: 4
+	Date: 2018-02-06 ; Times: 3
+	Date: 2018-02-05 ; Times: 3
+	Date: 2018-02-21 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "platyceps" ; Times: 2
+	Query: "genus:Hyla specificepithet:arborea" ; Times: 1
+	Query: "genus:plectrohyla class:Amphibia" ; Times: 1
+	Query: "scientificname:&#34;nyctibates corrugatus&#34;" ; Times: 1
+	Query: "Caudiverbera vntype:specimen" ; Times: 1
+	Query: "Pipa pipa" ; Times: 2
+	Query: "genus:Phyllobates specificepithet:vittatus" ; Times: 1
+	Query: "cruziohyla" ; Times: 1
+	Query: "genus:&#34;capensibufo&#34;" ; Times: 1
+	Query: "Hyperolius ocellatus" ; Times: 2
+	Query: "phyllomedusa vaillantii" ; Times: 1
+	Query: "atelopus varius" ; Times: 2
+	Query: "lithobates vaillanti" ; Times: 1
+	Query: "Discoglossus pictus mappable:1" ; Times: 7
+	Query: "Pithecia pithecia " ; Times: 1
+	Query: "Anomaloglossus vntype:specimen mappable:1" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:ornata" ; Times: 1
+	Query: "genus:Pipa" ; Times: 1
+	Query: "hyalinobatrachium fleischmanni" ; Times: 2
+	Query: "genus:Leptodactylus specificepithet:pentadactylus" ; Times: 1
+	Query: "specificepithet:pipa genus:Pipa" ; Times: 5
+	Query: "scientificname:&#34;phyllomedusa bicolor&#34;" ; Times: 1
+	Query: "specificepithet:pipa genus:Pipa country:&#34;Peru&#34;" ; Times: 1
+	Query: "Ceratophrys calcarata" ; Times: 2
+	Query: "noblella vntype:specimen" ; Times: 17
+	Query: "hypsiboas punctatus" ; Times: 3
+	Query: "scientificname:&#34;centrolene buckleyi&#34;" ; Times: 1
+	Query: "scientificname:&#34;acanthixalus spinosus&#34;" ; Times: 1
+	Query: "Hyloxalus lehmanni" ; Times: 1
+	Query: "thoropa" ; Times: 1
+	Query: "scientificname:&#34;hemiphractus fasciatus&#34;" ; Times: 1
+	Query: "hypsiboas crepitans" ; Times: 4
+	Query: "Ceratophrys" ; Times: 2
+	Query: "suriname" ; Times: 1
+	Query: "genus:&#34;anomaloglossus&#34;" ; Times: 1
+	Query: "Hypsiboas fasciatus" ; Times: 1
+	Query: "genus:Rhinoderma specificepithet:darwinii" ; Times: 1
+	Query: "osteocephalus buckleyi" ; Times: 1
+	Query: "Rana ridibunda mappable:1" ; Times: 2
+	Query: "scientificname:&#34;hemiphractus proboscideus&#34;" ; Times: 1
+	Query: "Craugastor rugulosus" ; Times: 1
+	Query: "Cacosternum boettgeri" ; Times: 1
+	Query: "bolitoglossa altamazonica" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:auratus" ; Times: 1
+	Query: "genus:Atelopus specificepithet:varius" ; Times: 2
+	Query: "phyllomedusa bicolor" ; Times: 1
+	Query: "scinax boesemani" ; Times: 1
+	Query: "leptodactylus petersii" ; Times: 1
+	Query: "Scinax nebulosus" ; Times: 2
+	Query: "cruziohyla craspedopus" ; Times: 1
+	Query: "Hyla lindae" ; Times: 4
+	Query: "noblella" ; Times: 3
+	Query: "Rana grafi mappable:1" ; Times: 2
+	Query: "Pipa" ; Times: 1
+	Query: "genus:Scinax specificepithet:ruber" ; Times: 2
+	Query: "Cruziohyla" ; Times: 1
+	Query: "CH 6650" ; Times: 1
+	Query: "agalychnis callidryas" ; Times: 1
+	Query: "hypopachus variolosus" ; Times: 1
+	Query: "Smilisca Dentata" ; Times: 1
+	Query: "genus:Leptodactylodon specificepithet:ornatus" ; Times: 1
+	Query: "genus:Atelopus specificepithet:zeteki" ; Times: 4
+	Query: "specificepithet:laevis genus:Xenopus" ; Times: 1
+	Query: "Hyla granosa" ; Times: 3
+	Query: "scientificname:&#34;batrachyla taeniata&#34;" ; Times: 1
+	Query: "dendropsophus brevifrons" ; Times: 1
+	Query: "scotobleps gabonicus" ; Times: 2
+	Query: "scientificname:&#34;oreobates quixensis&#34;" ; Times: 1
+	Query: "osteocephalus taurinus" ; Times: 1
+	Query: "scinax nebulosus" ; Times: 1
+	Query: "1185" ; Times: 1
+	Query: "hyla arborea" ; Times: 1
+	Query: "osteocephalus leprieurii" ; Times: 2
+	Query: "scientificname:&#34;eupsophus roseus&#34;" ; Times: 1
+	Query: "genus:Diasporus specificepithet:gularis" ; Times: 1
+	Query: "scientificname:&#34;afrixalus orophilus&#34;" ; Times: 1
+	Query: "genus:Nyctimantis specificepithet:rugiceps" ; Times: 1
+	Query: "leptopelis calcaratus" ; Times: 1
+	Query: "Hypsiboas geographicus" ; Times: 1
+	Query: "Hypsiboas crepitans" ; Times: 1
+	Query: "scientificname:&#34;rhinoderma darwinii&#34;" ; Times: 1
+	Query: "scientificname:&#34;alsodes nodosus&#34;" ; Times: 1
+	Query: "specificepithet:crassipes genus:Conraua" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1892 download events in this period)
+Total number of records downloaded: 904
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Unknown ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 1
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-16 ; Times: 2
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-25 ; Times: 2
+	Date: 2018-02-27 ; Times: 4
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-18 ; Times: 1
+	Date: 2018-02-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "genus:Atelopus specificepithet:varius" ; Times: 1
+	Query: "plethodon" ; Times: 1
+	Query: "noblella vntype:specimen" ; Times: 2
+	Query: "hypsiboas punctatus" ; Times: 1
+	Query: "bolitoglossa altamazonica" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Anomaloglossus vntype:specimen mappable:1" ; Times: 1
+	Query: "hypsiboas crepitans" ; Times: 2
+	Query: "dendropsophus brevifrons" ; Times: 1
+	Query: "specificepithet:pipa genus:Pipa" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "genus:Atelopus specificepithet:zeteki" ; Times: 1
+
+
+End of report.
