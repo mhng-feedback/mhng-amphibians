@@ -1,0 +1,295 @@
+Report for Institution Code MHNG, Resource mhng_amphibians
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 529
+Number of records retrieved in searches: 2174
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 475
+	Country: Australia ; Times: 2
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 16
+	Country: Unknown ; Times: 3
+	Country: Czechia ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 9
+	Country: Denmark ; Times: 2
+	Country: Argentina ; Times: 3
+	Country: Bolivia ; Times: 5
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 7
+	Date: 2018-01-18 ; Times: 4
+	Date: 2018-01-31 ; Times: 10
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-11 ; Times: 2
+	Date: 2018-01-10 ; Times: 3
+	Date: 2018-01-13 ; Times: 2
+	Date: 2018-01-12 ; Times: 3
+	Date: 2018-01-15 ; Times: 3
+	Date: 2018-01-17 ; Times: 15
+	Date: 2018-01-16 ; Times: 1
+	Date: 2018-01-24 ; Times: 146
+	Date: 2018-01-25 ; Times: 4
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-27 ; Times: 4
+	Date: 2018-01-29 ; Times: 6
+	Date: 2018-01-02 ; Times: 1
+	Date: 2018-01-03 ; Times: 2
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-01 ; Times: 1
+	Date: 2018-01-21 ; Times: 152
+	Date: 2018-01-22 ; Times: 20
+	Date: 2018-01-23 ; Times: 139
+	Date: 2018-01-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "allobates femoralis" ; Times: 1
+	Query: "Dendropsophus labialis" ; Times: 2
+	Query: "Pristimantis thymalopsoides" ; Times: 2
+	Query: "Centrolene grandisonae" ; Times: 3
+	Query: "Alsodes nodosus" ; Times: 3
+	Query: "Bufo arunco" ; Times: 3
+	Query: "Scinax rostratus" ; Times: 2
+	Query: "Afrixalus fornasini" ; Times: 3
+	Query: "Cardioglossa pulchra" ; Times: 3
+	Query: "Acanthixalus" ; Times: 3
+	Query: "Lepidobatrachus laevis" ; Times: 1
+	Query: "Batrachyla antartandica" ; Times: 3
+	Query: "Scotobleps gabonicus" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "Rana longicrus" ; Times: 2
+	Query: "Pristimantis cryophilius" ; Times: 2
+	Query: "Opisthothylax immaculatus" ; Times: 2
+	Query: "Dendrobates fantasticus" ; Times: 2
+	Query: "Adenomera hylaedactyla" ; Times: 1
+	Query: "Pristimantis conspicillatus" ; Times: 2
+	Query: "Rheobates palmatus" ; Times: 2
+	Query: "Pristimantis altamazonicus" ; Times: 2
+	Query: "Hyloxalus subpunctatus" ; Times: 2
+	Query: "Agalychnis callidryas" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 2
+	Query: "Dendropsophus parviceps" ; Times: 8
+	Query: "Batrachyla leptopus" ; Times: 9
+	Query: "Incilius valliceps" ; Times: 1
+	Query: "Hyloxalus toachi" ; Times: 2
+	Query: "Dendropsophus riveroi" ; Times: 2
+	Query: "Atelopus zeteki" ; Times: 4
+	Query: "rheobates palmatus" ; Times: 2
+	Query: "Silverstoneia nubicola" ; Times: 2
+	Query: "Allobates talamancae" ; Times: 3
+	Query: "Strabomantis biporcatus" ; Times: 8
+	Query: "Cardioglossa leucomystax" ; Times: 1
+	Query: "Pristimantis curtipes" ; Times: 2
+	Query: "Phyllomedusa bicolor" ; Times: 2
+	Query: "Dendropsophus sarayacuensis" ; Times: 2
+	Query: "Hyperolius tuberculatus" ; Times: 2
+	Query: "Hyloscirtus phyllognathus" ; Times: 2
+	Query: "Dendropsophus carnifex" ; Times: 2
+	Query: "Arthroleptis taeniatus" ; Times: 3
+	Query: "Pristimantis lymani" ; Times: 2
+	Query: "Osteocephalus mutabor" ; Times: 2
+	Query: "Ptychohyla leonhardschultzei" ; Times: 2
+	Query: "Chiromantis rufescens" ; Times: 1
+	Query: "Xenopus andrei" ; Times: 2
+	Query: "genus:Leptodactylus specificepithet:laticeps" ; Times: 2
+	Query: "Capensibufo rosei" ; Times: 3
+	Query: "Rana alticola" ; Times: 2
+	Query: "genus:Pelophylax specificepithet:perezi" ; Times: 2
+	Query: "Oreobates quixensis" ; Times: 2
+	Query: "Engystomops pustulosus" ; Times: 1
+	Query: "Craugastor bransfordii" ; Times: 2
+	Query: "distance(location,geopoint(44.9725155310001,-72.6967921945))&lt;41043" ; Times: 2
+	Query: "Leptodactylus griseigularis" ; Times: 2
+	Query: "Hadromophryne natalensis" ; Times: 2
+	Query: "Pristimantis achatinus" ; Times: 2
+	Query: "Ptychadena porosissima" ; Times: 2
+	Query: "genus:Sphaenorhynchus specificepithet:carneus" ; Times: 1
+	Query: "Pristimantis ockendeni" ; Times: 2
+	Query: "Craugastor rugulosus" ; Times: 4
+	Query: "Ameerega bilinguis" ; Times: 3
+	Query: "Rhaebo glaberrimus" ; Times: 6
+	Query: "Pristimantis w-nigrum" ; Times: 2
+	Query: "Gastrotheca psychrophila" ; Times: 2
+	Query: "Leptodactylus melanonotus" ; Times: 1
+	Query: "Rhinoderma darwinii" ; Times: 8
+	Query: "Bufo veraguensis" ; Times: 3
+	Query: "Oreobates cruralis" ; Times: 2
+	Query: "scinax nasicus" ; Times: 3
+	Query: "Hyperolius pardalis" ; Times: 2
+	Query: "Xenopus longipes" ; Times: 2
+	Query: "Dendrobates reticulatus" ; Times: 2
+	Query: "Hypsiboas boans" ; Times: 3
+	Query: "nlonako" ; Times: 1
+	Query: "Pristimantis quinquagesimus" ; Times: 2
+	Query: "Hyloscirtus lindae" ; Times: 8
+	Query: "Craugastor podiciferus" ; Times: 8
+	Query: "Astylosternus schioetzi" ; Times: 3
+	Query: "Hyloxalus awa" ; Times: 2
+	Query: "oophaga histrionica" ; Times: 1
+	Query: "oophaga" ; Times: 1
+	Query: "Hypsiboas balzani" ; Times: 2
+	Query: "Hemiphractus proboscideus" ; Times: 2
+	Query: "Leptodactylodon bicolor" ; Times: 2
+	Query: "Atelognathus reverberii" ; Times: 6
+	Query: "Epipedobates machalilla" ; Times: 2
+	Query: "genus:Bufo specificepithet:bufo" ; Times: 1
+	Query: "Pristimantis" ; Times: 1
+	Query: "Toachi" ; Times: 1
+	Query: "Pristimantis peruvianus" ; Times: 2
+	Query: "Pristimantis riveti" ; Times: 2
+	Query: "Scinax cruentommus" ; Times: 2
+	Query: "Phrynobatrachus sandersoni" ; Times: 2
+	Query: "Epipedobates tricolor" ; Times: 8
+	Query: "Hyalinobatrachium bergeri" ; Times: 2
+	Query: "genus:Epipedobates specificepithet:tricolor" ; Times: 2
+	Query: "Hyloxalus pulchellus" ; Times: 2
+	Query: "Dendrobates biolat" ; Times: 2
+	Query: "Dendropsophus microcephalus" ; Times: 1
+	Query: "Atelopus varius" ; Times: 1
+	Query: "Craugastor fitzingeri" ; Times: 8
+	Query: "Atelopus elegans" ; Times: 3
+	Query: "Batrachyla taeniata" ; Times: 9
+	Query: "Hyalinobatrachium fleischmanni" ; Times: 1
+	Query: "Amietophrynus maculatus" ; Times: 7
+	Query: "Centrolene buckleyi" ; Times: 3
+	Query: "Hyloxalus vertebralis" ; Times: 2
+	Query: "Pristimantis ridens" ; Times: 2
+	Query: "Pristimantis surdus" ; Times: 2
+	Query: "Pristimantis rhabdolaemus" ; Times: 2
+	Query: "dendropsophus microcephalus" ; Times: 1
+	Query: "Pristimantis lanthanites" ; Times: 2
+	Query: "Pristimantis duellmani" ; Times: 2
+	Query: "Hypsiboas crepitans" ; Times: 2
+	Query: "Eupsophus roseus" ; Times: 2
+	Query: "Xenopus amieti" ; Times: 2
+	Query: "Ameerega simulans" ; Times: 3
+	Query: "iptrecordid:&#34;urn:catalog:MHNG:Amphibians:MHNG-AMP/ERPI-1033.075&#34;" ; Times: 8
+	Query: "Alexteroon obstetricans" ; Times: 3
+	Query: "Cacosternum platys" ; Times: 3
+	Query: "grandisonae" ; Times: 1
+	Query: "Engystomops petersi" ; Times: 2
+	Query: "Hyalinobatrachium" ; Times: 2
+	Query: "Dendropsophus brevifrons" ; Times: 2
+	Query: "petropedetes" ; Times: 1
+	Query: "Silurana epitropicalis" ; Times: 2
+	Query: "Pristimantis unistrigatus" ; Times: 2
+	Query: "Nyctibates corrugatus" ; Times: 8
+	Query: "Pristimantis latidiscus" ; Times: 2
+	Query: "Gastrotheca plumbea" ; Times: 2
+	Query: "Hypsiboas lanciformis" ; Times: 2
+	Query: "Werneria mertensiana" ; Times: 2
+	Query: "Hypsiboas faber" ; Times: 2
+	Query: "Alsodes barrioi" ; Times: 3
+	Query: "Pristimantis danae" ; Times: 2
+	Query: "Hypsiboas fasciatus" ; Times: 8
+	Query: "Craugastor rhodopis" ; Times: 1
+	Query: "Craugastor punctariolus" ; Times: 2
+	Query: "Hyloxalus sauli" ; Times: 2
+	Query: "Pristimantis simonbolivari" ; Times: 2
+	Query: "Dendrobates truncatus" ; Times: 2
+	Query: "Adenomera andreae" ; Times: 1
+	Query: "Pristimantis walkeri" ; Times: 2
+	Query: "Craugastor crassidigitus" ; Times: 2
+	Query: "bolitoglossa adspersa" ; Times: 1
+	Query: "Ceratophrys ornata" ; Times: 9
+	Query: "Rhaebo" ; Times: 1
+	Query: "Hypsiboas pellucens" ; Times: 2
+	Query: "Ptychadena pumilio" ; Times: 2
+	Query: "craspedopus" ; Times: 1
+	Query: "Dendropsophus triangulum" ; Times: 2
+	Query: "Pristimantis chalceus" ; Times: 2
+	Query: "Hypsiboas raniceps" ; Times: 2
+	Query: "Dendropsophus leucophyllatus" ; Times: 2
+	Query: "Ameerega macero" ; Times: 3
+	Query: "genus:Afrixalus specificepithet:paradorsalis" ; Times: 2
+	Query: "atelopus varius" ; Times: 2
+	Query: "Dendropsophus sanborni" ; Times: 2
+	Query: "ockendeni" ; Times: 1
+	Query: "Colostethus jacobuspetersi" ; Times: 6
+	Query: "Lithobates vaillanti" ; Times: 1
+	Query: "Toachi Ecuador" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:melanonotus" ; Times: 2
+	Query: "Hypsiboas geographicus" ; Times: 2
+	Query: "Pristimantis caprifer" ; Times: 2
+	Query: "Bufo atacamensis" ; Times: 3
+	Query: "Anomaloglossus stepheni" ; Times: 3
+	Query: "Haddadus binotatus" ; Times: 2
+	Query: "Telmatobius marmoratus" ; Times: 4
+	Query: "Silurana tropicalis" ; Times: 2
+	Query: "Pristimantis phoxocephalus" ; Times: 2
+	Query: "Pristimantis diadematus" ; Times: 2
+	Query: "Pristimantis cruentus" ; Times: 2
+	Query: "2808 vntype:specimen" ; Times: 1
+	Query: "Hyloxalus elachyhistus" ; Times: 2
+	Query: "Plectrohyla glandulosa" ; Times: 2
+	Query: "Hyloxalus infraguttatus" ; Times: 2
+	Query: "Pristimantis acuminatus" ; Times: 2
+	Query: "Scinax nebulosus" ; Times: 2
+	Query: "Hyperolius mosaicus" ; Times: 2
+	Query: "Strabomantis sulcatus" ; Times: 8
+	Query: "Leptodactylus gracilis" ; Times: 3
+	Query: "Cardioglossa gratiosa" ; Times: 3
+	Query: "Pristimantis eriphus" ; Times: 2
+	Query: "Xenopus boumbaensis" ; Times: 2
+	Query: "Pristimantis toftae" ; Times: 2
+	Query: "genus:Craugastor specificepithet:fitzingeri" ; Times: 2
+	Query: "Pristimantis acerus" ; Times: 2
+	Query: "Eupsophus vertebralis" ; Times: 2
+	Query: "Allobates femoralis" ; Times: 10
+	Query: "Pristimantis croceoinguinis" ; Times: 2
+	Query: "genus:Hypsiboas specificepithet:raniceps" ; Times: 2
+	Query: "Atelopus lynchi" ; Times: 1
+	Query: "Hypsiboas rosenbergi" ; Times: 2
+	Query: "Phyllomedusa vaillantii" ; Times: 2
+	Query: "Acanthixalus spinosus" ; Times: 20
+	Query: "Craugastor longirostris" ; Times: 2
+	Query: "oreobates" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1398 download events in this period)
+Total number of records downloaded: 572
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 6
+	Country: Argentina ; Times: 1
+	Country: Colombia ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-18 ; Times: 1
+	Date: 2018-01-31 ; Times: 6
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-02 ; Times: 1
+	Date: 2018-01-25 ; Times: 1
+	Date: 2018-01-13 ; Times: 2
+	Date: 2018-01-27 ; Times: 1
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-17 ; Times: 1
+	Date: 2018-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "oophaga histrionica" ; Times: 2
+	Query: "allobates femoralis" ; Times: 1
+	Query: "colombia" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "scinax nasicus" ; Times: 1
+	Query: "Rana draytonii" ; Times: 1
+	Query: "rheobates palmatus" ; Times: 1
+	Query: "Rana pipiens vntype:specimen" ; Times: 1
+	Query: "Atelopus varius" ; Times: 2
+	Query: "atelopus varius" ; Times: 1
+	Query: "petropedetes" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Toachi Ecuador" ; Times: 1
+	Query: "genus:Smilisca country:&#34;Mexico&#34;" ; Times: 1
+
+
+End of report.
