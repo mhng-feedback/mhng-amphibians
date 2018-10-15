@@ -1,0 +1,104 @@
+Report for Institution Code MHNG, Resource mhng_amphibians
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 1030
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 38
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-16 ; Times: 1
+	Date: 2017-12-28 ; Times: 1
+	Date: 2017-12-26 ; Times: 9
+	Date: 2017-12-24 ; Times: 1
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-20 ; Times: 2
+	Date: 2017-12-05 ; Times: 3
+	Date: 2017-12-04 ; Times: 3
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-06 ; Times: 2
+	Date: 2017-12-12 ; Times: 21
+	Date: 2017-12-11 ; Times: 1
+	Date: 2017-12-01 ; Times: 2
+	Date: 2017-12-08 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(45.004155559357,-72.6720390447798))&lt;38772" ; Times: 2
+	Query: "Hemiphractus proboscideus mappable:1" ; Times: 2
+	Query: "Heleophryne" ; Times: 1
+	Query: "genus:Pristimantis specificepithet:elegans" ; Times: 1
+	Query: "genus:Phyllobates specificepithet:vittatus" ; Times: 1
+	Query: "Cacosternum boettgeri mappable:1" ; Times: 2
+	Query: "Trachycephalus jordani mappable:1" ; Times: 1
+	Query: "genus:Hypsiboas specificepithet:geographicus" ; Times: 3
+	Query: "Schismaderma carens mappable:1" ; Times: 1
+	Query: "atelopus elegans" ; Times: 2
+	Query: "Nectophryne afra mappable:1" ; Times: 1
+	Query: "Arthroleptis wahlbergii" ; Times: 1
+	Query: "Capensibufo rosei mappable:1" ; Times: 2
+	Query: "country:&#34;Democratic Republic of the Congo&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "grandisonae" ; Times: 1
+	Query: "hypopachus variolosus" ; Times: 1
+	Query: "Wolterstorffina parvipalmata mappable:1" ; Times: 1
+	Query: "institutioncode:MHNG" ; Times: 1
+	Query: "Nyctimantis rugiceps mappable:1" ; Times: 1
+	Query: "Odontophrynus americanus mappable:1" ; Times: 1
+	Query: "Osteocephalus taurinus mappable:1" ; Times: 1
+	Query: "Lepidobatrachus laevis mappable:1" ; Times: 2
+	Query: "Pyxicephalus adspersus mappable:1" ; Times: 1
+	Query: "thoropa" ; Times: 1
+	Query: "Melanophryniscus stelzneri mappable:1" ; Times: 2
+	Query: "Pristimantis elegans" ; Times: 1
+	Query: "distance(location,geopoint(44.9926500945,-72.6738853945))&lt;38731" ; Times: 2
+	Query: "Atelopus coynei" ; Times: 1
+	Query: "Werneria tandyi mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(44.9984028269285,-72.6710200295))&lt;38736" ; Times: 2
+	Query: "genus:Leptodactylus specificepithet:mystaceus" ; Times: 1
+	Query: "wahlbergii" ; Times: 1
+	Query: "Ameerega" ; Times: 1
+	Query: "genus:Caecilia specificepithet:abitaguae" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:podicipinus" ; Times: 1
+	Query: "Smilisca phaeota mappable:1" ; Times: 1
+	Query: "leptopelis notatus" ; Times: 1
+	Query: "distance(location,geopoint(44.9725155310001,-72.6967921945))&lt;41043" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 674 download events in this period)
+Total number of records downloaded: 69
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-04 ; Times: 1
+	Date: 2017-12-07 ; Times: 1
+	Date: 2017-12-06 ; Times: 1
+	Date: 2017-12-13 ; Times: 1
+	Date: 2017-12-20 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen class:Amphibia country:&#34;Bolivia&#34; mappable:1" ; Times: 1
+	Query: "class:Amphibia country:&#34;Angola&#34;" ; Times: 1
+	Query: "class:Amphibia country:&#34;Bolivia&#34; mappable:1" ; Times: 1
+	Query: "Incilius marmoreus" ; Times: 1
+	Query: "nicaragua vntype:specimen" ; Times: 1
+	Query: "class:Amphibia country:&#34;Bolivia&#34; basisofrecord:PreservedSpecimen mappable:1" ; Times: 1
+	Query: "Anaxyrus compactilis" ; Times: 1
+
+
+End of report.
