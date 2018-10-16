@@ -1,0 +1,125 @@
+Report for Institution Code MHNG, Resource mhng_amphibians
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 1259
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 4
+	Country: Czechia ; Times: 5
+	Country: United States ; Times: 24
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 9
+	Country: Argentina ; Times: 3
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-01 ; Times: 2
+	Date: 2018-04-12 ; Times: 2
+	Date: 2018-04-10 ; Times: 4
+	Date: 2018-04-02 ; Times: 3
+	Date: 2018-04-05 ; Times: 4
+	Date: 2018-04-15 ; Times: 2
+	Date: 2018-04-07 ; Times: 1
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-09 ; Times: 3
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-13 ; Times: 3
+	Date: 2018-04-29 ; Times: 1
+	Date: 2018-04-11 ; Times: 7
+	Date: 2018-04-19 ; Times: 6
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-30 ; Times: 2
+	Date: 2018-04-20 ; Times: 5
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-25 ; Times: 5
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ranitomeya" ; Times: 2
+	Query: "Pristimantis altamazonicus" ; Times: 1
+	Query: "genus:Hyalinobatrachium specificepithet:fleischmanni" ; Times: 1
+	Query: "Pseudoeurycea bellii" ; Times: 1
+	Query: "odontophrynus" ; Times: 2
+	Query: "country:&#34;Benin&#34;" ; Times: 1
+	Query: "institutioncode:MHNG" ; Times: 1
+	Query: "genus:Geotrypetes specificepithet:seraphini" ; Times: 1
+	Query: "leptopelis brevirostris" ; Times: 1
+	Query: "dendropsophus labialis" ; Times: 1
+	Query: "Asuncion (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "institutioncode:MHNG Ceratophrys" ; Times: 2
+	Query: "specificepithet:crassipes genus:Conraua" ; Times: 1
+	Query: "institutioncode:MHNG Lepidobatrachus" ; Times: 2
+	Query: "specificepithet:plumbea genus:Gastrotheca" ; Times: 1
+	Query: "lepidobatrachus" ; Times: 1
+	Query: "Osteocephalus buckleyi" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 1
+	Query: "9061" ; Times: 2
+	Query: "scientificname:Atelopus nanay " ; Times: 1
+	Query: "genus:Conraua" ; Times: 1
+	Query: "Atelopus ignescens" ; Times: 1
+	Query: "Arthroleptis variabilis" ; Times: 2
+	Query: "genus:Agalychnis specificepithet:callidryas" ; Times: 5
+	Query: "genus:Herpele specificepithet:squalostoma" ; Times: 2
+	Query: "phrynobatrachus auritus" ; Times: 3
+	Query: "scientificname:Scinax quinquefasciatus " ; Times: 2
+	Query: "specificepithet:riobambae genus:Gastrotheca" ; Times: 1
+	Query: "Pristimantis year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "Melanophryniscus" ; Times: 2
+	Query: "36218" ; Times: 1
+	Query: "scientificname:Atelopus elegans " ; Times: 1
+	Query: "Phrynopus" ; Times: 1
+	Query: "5892" ; Times: 1
+	Query: "DIAGLENA" ; Times: 1
+	Query: "atelopus nanay" ; Times: 1
+	Query: "Conraua crassipes" ; Times: 1
+	Query: "Pristimantis Colombia" ; Times: 1
+	Query: "leptopelis notatus" ; Times: 1
+	Query: "genus:Dendropsophus specificepithet:leucophyllatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1359 download events in this period)
+Total number of records downloaded: 709
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 12
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 2
+	Date: 2018-04-05 ; Times: 2
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-19 ; Times: 1
+	Date: 2018-04-28 ; Times: 2
+	Date: 2018-04-23 ; Times: 3
+	Date: 2018-04-27 ; Times: 2
+	Date: 2018-04-25 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "incilius valliceps" ; Times: 2
+	Query: "scaphiopus couchii" ; Times: 1
+	Query: "Asuncion (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "Pseudoeurycea bellii" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 2
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "leptopelis brevirostris" ; Times: 1
+	Query: "specificepithet:riobambae genus:Gastrotheca" ; Times: 2
+	Query: "specificepithet:plumbea genus:Gastrotheca" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 1
+	Query: "leptopelis notatus" ; Times: 1
+	Query: "country:&#34;brazil&#34;" ; Times: 1
+
+
+End of report.
