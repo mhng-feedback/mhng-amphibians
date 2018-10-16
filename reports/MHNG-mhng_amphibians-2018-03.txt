@@ -1,0 +1,211 @@
+Report for Institution Code MHNG, Resource mhng_amphibians
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 610
+Number of records retrieved in searches: 19998
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: United States ; Times: 533
+	Country: Unknown ; Times: 26
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 20
+	Country: Colombia ; Times: 7
+	Country: Belgium ; Times: 8
+	Country: Taiwan ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 45
+	Date: 2018-03-07 ; Times: 6
+	Date: 2018-03-26 ; Times: 162
+	Date: 2018-03-15 ; Times: 2
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-12 ; Times: 1
+	Date: 2018-03-27 ; Times: 98
+	Date: 2018-03-30 ; Times: 2
+	Date: 2018-03-19 ; Times: 6
+	Date: 2018-03-18 ; Times: 1
+	Date: 2018-03-01 ; Times: 4
+	Date: 2018-03-02 ; Times: 51
+	Date: 2018-03-03 ; Times: 9
+	Date: 2018-03-04 ; Times: 3
+	Date: 2018-03-05 ; Times: 39
+	Date: 2018-03-28 ; Times: 39
+	Date: 2018-03-29 ; Times: 6
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-09 ; Times: 4
+	Date: 2018-03-22 ; Times: 2
+	Date: 2018-03-23 ; Times: 33
+	Date: 2018-03-20 ; Times: 40
+	Date: 2018-03-21 ; Times: 55
+
+List of queries that retrieved data from the resource: 
+	Query: "MHNG 2314" ; Times: 1
+	Query: "Dendropsophus labialis" ; Times: 2
+	Query: "genus:Hypodactylus" ; Times: 3
+	Query: "genus=Osteocephalus " ; Times: 1
+	Query: "genus:Batrachyla specificepithet:taeniata" ; Times: 5
+	Query: "MHNG Epicrionops" ; Times: 2
+	Query: "specificepithet:quinquefasciatus genus:Scinax" ; Times: 1
+	Query: "genus:Amietophrynus specificepithet:gracilipes" ; Times: 6
+	Query: "genus:Nectophryne specificepithet:afra" ; Times: 5
+	Query: "genus:Oreobates specificepithet:quixensis" ; Times: 5
+	Query: "Rheobates palmatus" ; Times: 2
+	Query: "genus:Hoplobatrachus specificepithet:occipitalis" ; Times: 5
+	Query: "Caecilia" ; Times: 1
+	Query: "genus:Rhinoderma specificepithet:darwinii" ; Times: 5
+	Query: "specificepithet=taurinus" ; Times: 2
+	Query: "2544 MHNG" ; Times: 3
+	Query: "MHNG 2492" ; Times: 2
+	Query: "8221" ; Times: 1
+	Query: "genus:Atelopus specificepithet:varius" ; Times: 6
+	Query: "genus:Idiocranium specificepithet:russeli" ; Times: 3
+	Query: "MHNG 2554" ; Times: 1
+	Query: "Physalaemus cuvieri" ; Times: 2
+	Query: "genus:Herpele specificepithet:squalostoma" ; Times: 6
+	Query: "genus:Atelopus specificepithet:ignescens" ; Times: 5
+	Query: "Hypsiboas crepitans mappable:1" ; Times: 1
+	Query: "genus:Hypsiboas specificepithet:faber" ; Times: 1
+	Query: "genus:Cryptothylax specificepithet:greshoffii" ; Times: 6
+	Query: "genus:Nyctibates specificepithet:corrugatus" ; Times: 5
+	Query: "genus:Discoglossus specificepithet:pictus" ; Times: 5
+	Query: "pristimantis" ; Times: 1
+	Query: "genus:Trichobatrachus specificepithet:robustus" ; Times: 5
+	Query: "specificepithet:nanay" ; Times: 3
+	Query: "genus:Melanophryniscus specificepithet:stelzneri" ; Times: 5
+	Query: "genus:Conraua specificepithet:goliath" ; Times: 5
+	Query: "genus:Elachistocleis specificepithet:bicolor" ; Times: 5
+	Query: "MHNG 2544" ; Times: 3
+	Query: "genus:Leptodactylus specificepithet:gracilis" ; Times: 2
+	Query: "genus:Nymphargus specificepithet:griffithsi" ; Times: 6
+	Query: "genus:Hyalinobatrachium specificepithet:fleischmanni" ; Times: 5
+	Query: "genus:Mannophryne specificepithet:trinitatis" ; Times: 5
+	Query: "genus:Barycholos specificepithet:pulcher" ; Times: 5
+	Query: "genus:Incilius specificepithet:coniferus" ; Times: 6
+	Query: "genus:Rhinella specificepithet:arenarum" ; Times: 5
+	Query: "genus:Pyxicephalus specificepithet:adspersus" ; Times: 5
+	Query: "genus:Phyllomedusa specificepithet:sauvagii" ; Times: 1
+	Query: "Ceratophrys" ; Times: 3
+	Query: "nlonako" ; Times: 1
+	Query: "MHNG Epicrionops 2554" ; Times: 2
+	Query: "specificepithet:taurinus" ; Times: 5
+	Query: "Lithobates pipiens" ; Times: 1
+	Query: "genus:Hemiphractus specificepithet:fasciatus" ; Times: 9
+	Query: "specificepithet:taurinus " ; Times: 51
+	Query: "Pristimantis" ; Times: 1
+	Query: "ceratophrys" ; Times: 1
+	Query: "genus:Allobates specificepithet:kingsburyi" ; Times: 5
+	Query: "genus:Atelopus specificepithet:zeteki" ; Times: 6
+	Query: "genus:Afrixalus specificepithet:fornasini" ; Times: 2
+	Query: "specificepithet=talamancae " ; Times: 1
+	Query: "capensibufo" ; Times: 2
+	Query: "Taurinus" ; Times: 1
+	Query: "genus:Nectophryne specificepithet:batesii" ; Times: 6
+	Query: "genus:Physalaemus specificepithet:cuvieri" ; Times: 1
+	Query: "genus:Nyctimantis specificepithet:rugiceps" ; Times: 5
+	Query: "genus:Ptychadena specificepithet:oxyrhynchus" ; Times: 6
+	Query: "Hypsiboas faber mappable:1" ; Times: 1
+	Query: "genus:Atelopus specificepithet:longirostris" ; Times: 6
+	Query: "genus:Wolterstorffina specificepithet:parvipalmata" ; Times: 5
+	Query: "bufo vertebralis" ; Times: 2
+	Query: "scientificname:Osteocephalus taurinus " ; Times: 2
+	Query: "genus:Chiromantis specificepithet:rufescens" ; Times: 5
+	Query: "chiromantis rufescens" ; Times: 1
+	Query: "genus=Pristimantis " ; Times: 10
+	Query: "Lepidobatrachus" ; Times: 1
+	Query: "2544 MHNG Epicrionops" ; Times: 1
+	Query: "genus:Poyntonophrynus specificepithet:vertebralis" ; Times: 10
+	Query: "Hypsiboas pardalis mappable:1" ; Times: 1
+	Query: "genus:Rhinella specificepithet:crucifer" ; Times: 5
+	Query: "pseudoeurycea" ; Times: 1
+	Query: "genus:Cochranella specificepithet:granulosa" ; Times: 9
+	Query: "specificepithet:nanay}" ; Times: 1
+	Query: "genus:Scotobleps specificepithet:gabonicus" ; Times: 6
+	Query: "genus:Breviceps specificepithet:poweri" ; Times: 5
+	Query: "genus:Petropedetes specificepithet:palmipes" ; Times: 10
+	Query: "Alsodes" ; Times: 1
+	Query: "noblella vntype:specimen" ; Times: 8
+	Query: "genus:Capensibufo specificepithet:rosei" ; Times: 11
+	Query: "genus:Pristimantis " ; Times: 1
+	Query: "lepidobatrachus" ; Times: 2
+	Query: "genus:Conraua specificepithet:crassipes" ; Times: 5
+	Query: "genus:Leptodactylodon specificepithet:ovatus" ; Times: 5
+	Query: "genus:Leptopelis specificepithet:notatus" ; Times: 5
+	Query: "genus:Eupsophus specificepithet:roseus" ; Times: 5
+	Query: "genus:Odontophrynus specificepithet:americanus" ; Times: 5
+	Query: "genus:Rheobates specificepithet:palmatus" ; Times: 5
+	Query: "specificepithet:nanay " ; Times: 7
+	Query: "genus:Leptopelis specificepithet:brevirostris" ; Times: 6
+	Query: "genus:Proceratophrys specificepithet:boiei" ; Times: 5
+	Query: "Pseudopaludicola pusilla" ; Times: 3
+	Query: "genus:Schismaderma specificepithet:carens" ; Times: 5
+	Query: "shimba kenya" ; Times: 1
+	Query: "genus:Hadromophryne specificepithet:natalensis" ; Times: 5
+	Query: "genus:Chiasmocleis specificepithet:albopunctata" ; Times: 9
+	Query: "Hypsiboas punctatus mappable:1" ; Times: 1
+	Query: "genus:Afrixalus specificepithet:orophilus" ; Times: 5
+	Query: "genus:Lepidobatrachus specificepithet:laevis" ; Times: 5
+	Query: "MHNG 249" ; Times: 1
+	Query: "genus:Anomaloglossus" ; Times: 3
+	Query: "genus:Dendrobates specificepithet:tinctorius" ; Times: 2
+	Query: "order:caudata country:&#34;mexico&#34; (cueva)" ; Times: 2
+	Query: "genus:Tomopterna specificepithet:marmorata" ; Times: 5
+	Query: "genus:Werneria specificepithet:tandyi" ; Times: 1
+	Query: "genus:Astylosternus specificepithet:diadematus" ; Times: 5
+	Query: "genus:Tomopterna specificepithet:tuberculosa" ; Times: 5
+	Query: "genus:Alsodes specificepithet:nodosus" ; Times: 5
+	Query: "genus:Cacosternum specificepithet:boettgeri" ; Times: 5
+	Query: "genus:Capensibufo" ; Times: 1
+	Query: "specificepithet=taurinus " ; Times: 24
+	Query: "genus:Ceratophrys specificepithet:ornata" ; Times: 1
+	Query: "genus:Bufo specificepithet:mauritanicus" ; Times: 6
+	Query: "Cosanga" ; Times: 1
+	Query: "Ceratophrys calcarata" ; Times: 3
+	Query: "pipa pipa" ; Times: 1
+	Query: "specificepithet=nanay " ; Times: 15
+	Query: "genus:Phyllomedusa specificepithet:azurea" ; Times: 6
+	Query: "genus:Centrolene specificepithet:prosoblepon" ; Times: 6
+	Query: "genus:Thoropa specificepithet:miliaris" ; Times: 5
+	Query: "genus:Oophaga specificepithet:pumilio" ; Times: 5
+	Query: "genus:Hemiphractus specificepithet:proboscideus" ; Times: 9
+	Query: "Rhinella marinus" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:bicolor" ; Times: 5
+	Query: "scientificname:Osteocephalus planiceps " ; Times: 2
+	Query: "genus:Melanophryniscus specificepithet:moreirae" ; Times: 1
+	Query: "genus:Kassina specificepithet:senegalensis" ; Times: 5
+	Query: "genus:Strabomantis specificepithet:anomalus" ; Times: 5
+	Query: "2544 Caecilia" ; Times: 1
+	Query: "genus:Acanthixalus specificepithet:spinosus" ; Times: 5
+	Query: "genus:Leptodactylodon specificepithet:axillaris" ; Times: 6
+	Query: "genus:Centrolene specificepithet:buckleyi" ; Times: 5
+	Query: "specificepithet=taeniata " ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1284 download events in this period)
+Total number of records downloaded: 121
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Belgium ; Times: 2
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-23 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Lepidobatrachus" ; Times: 1
+	Query: "Cosanga" ; Times: 1
+	Query: "chiromantis rufescens" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "specificepithet:quinquefasciatus genus:Scinax" ; Times: 1
+
+
+End of report.
