@@ -1,0 +1,288 @@
+Report for Institution Code MHNG, Resource mhng_amphibians
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 417
+Number of records retrieved in searches: 13580
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: United States ; Times: 353
+	Country: Chile ; Times: 5
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 13
+	Country: Mexico ; Times: 8
+	Country: Costa Rica ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 2
+	Date: 2018-05-29 ; Times: 8
+	Date: 2018-05-21 ; Times: 1
+	Date: 2018-05-22 ; Times: 6
+	Date: 2018-05-23 ; Times: 120
+	Date: 2018-05-24 ; Times: 109
+	Date: 2018-05-06 ; Times: 2
+	Date: 2018-05-07 ; Times: 5
+	Date: 2018-05-04 ; Times: 3
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-02 ; Times: 6
+	Date: 2018-05-03 ; Times: 4
+	Date: 2018-05-01 ; Times: 4
+	Date: 2018-05-08 ; Times: 7
+	Date: 2018-05-09 ; Times: 2
+	Date: 2018-05-31 ; Times: 12
+	Date: 2018-05-30 ; Times: 9
+	Date: 2018-05-15 ; Times: 4
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-17 ; Times: 6
+	Date: 2018-05-16 ; Times: 85
+	Date: 2018-05-11 ; Times: 12
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-12 ; Times: 2
+	Date: 2018-05-18 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Bolitoglossa palmata" ; Times: 1
+	Query: "CM 9036" ; Times: 1
+	Query: "specificepithet:lindae genus:Hyloscirtus institutioncode:MHNG" ; Times: 3
+	Query: "Alsodes nodosus" ; Times: 1
+	Query: "genus:Scinax specificepithet:catharinae" ; Times: 1
+	Query: "Discoglossus pictus" ; Times: 1
+	Query: "specificepithet:melanonotus genus:Leptodactylus institutioncode:MHNG" ; Times: 3
+	Query: "specificepithet:subsigillata genus:Aubria institutioncode:MHNG" ; Times: 3
+	Query: "genus:Hyla specificepithet:arborea" ; Times: 1
+	Query: "Lepidobatrachus laevis" ; Times: 1
+	Query: "class:amphibia country:&#34;Panama&#34;" ; Times: 1
+	Query: "Hymenochirus boettgeri" ; Times: 1
+	Query: "specificepithet:reverberii genus:Atelognathus institutioncode:MHNG" ; Times: 3
+	Query: "Rhinoderma darwinii" ; Times: 3
+	Query: "Discoglossidae pictus" ; Times: 1
+	Query: "specificepithet:taurinus genus:Osteocephalus institutioncode:MHNG" ; Times: 3
+	Query: "Afrixalus dorsalis" ; Times: 4
+	Query: "Pseudopaludicola mystacalis mappable:1" ; Times: 1
+	Query: "genus:Nectophryne specificepithet:afra" ; Times: 1
+	Query: "Chiasmocleis ventrimaculata" ; Times: 2
+	Query: "Pseudoeurycea bellii" ; Times: 1
+	Query: "Hypsiboas fasciatus" ; Times: 3
+	Query: "Caecilia" ; Times: 1
+	Query: "genus:Rhinoderma specificepithet:darwinii" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 2
+	Query: "Dendropsophus parviceps" ; Times: 3
+	Query: "specificepithet:glaberrimus genus:Rhaebo institutioncode:MHNG" ; Times: 3
+	Query: "Batrachyla leptopus" ; Times: 3
+	Query: "Hyloxalus toachi" ; Times: 8
+	Query: "specificepithet:gabonicus genus:Scotobleps institutioncode:MHNG" ; Times: 3
+	Query: "specificepithet:ovatus genus:Leptodactylodon institutioncode:MHNG" ; Times: 3
+	Query: "specificepithet:natalensis genus:Phrynobatrachus institutioncode:MHNG" ; Times: 3
+	Query: "CM 9029" ; Times: 1
+	Query: "specificepithet:laevis genus:Lepidobatrachus institutioncode:MHNG" ; Times: 3
+	Query: "specificepithet:fitzingeri genus:Craugastor institutioncode:MHNG" ; Times: 3
+	Query: "azurea" ; Times: 1
+	Query: "Cardioglossa leucomystax" ; Times: 1
+	Query: "specificepithet:taeniata genus:Batrachyla institutioncode:MHNG" ; Times: 3
+	Query: "genus:Xenopus specificepithet:longipes" ; Times: 1
+	Query: "specificepithet:ovalis genus:Elachistocleis institutioncode:MHNG" ; Times: 3
+	Query: "locality:salamanca country:&#34;chile&#34;" ; Times: 1
+	Query: "specificepithet:variabilis genus:Arthroleptis institutioncode:MHNG" ; Times: 4
+	Query: "specificepithet:pipa genus:Pipa institutioncode:MHNG" ; Times: 3
+	Query: "7799" ; Times: 1
+	Query: "specificepithet:auratus genus:Dendrobates institutioncode:MHNG" ; Times: 3
+	Query: "Leptodactylus rhodonotus" ; Times: 1
+	Query: "Ceratophrys ornata" ; Times: 4
+	Query: "genus:Leptodactylus specificepithet:laticeps" ; Times: 1
+	Query: "Breviceps adspersus" ; Times: 1
+	Query: "Herpele squalostoma" ; Times: 1
+	Query: "specificepithet:callidryas genus:Agalychnis institutioncode:MHNG" ; Times: 5
+	Query: "Bolitoglossa chica" ; Times: 1
+	Query: "Thoropa miliaris" ; Times: 5
+	Query: "specificepithet:pustulosus genus:Engystomops institutioncode:MHNG" ; Times: 3
+	Query: "Hemiphractus scutatus" ; Times: 1
+	Query: "specificepithet:granulosa genus:Cochranella institutioncode:MHNG" ; Times: 3
+	Query: "specificepithet:tomopterna genus:Phyllomedusa institutioncode:MHNG" ; Times: 3
+	Query: "Rhaebo glaberrimus" ; Times: 3
+	Query: "specificepithet:africanus genus:Phrynobatrachus institutioncode:MHNG" ; Times: 3
+	Query: "specificepithet:oxyrhynchus genus:Ptychadena institutioncode:MHNG" ; Times: 3
+	Query: "Oreobates cruralis" ; Times: 1
+	Query: "(Phrynopus OR Psychrophrynella OR Bryophryne OR Microkayla)" ; Times: 1
+	Query: "alsodes nodosus" ; Times: 3
+	Query: "specificepithet:mossambicus genus:Breviceps institutioncode:MHNG" ; Times: 3
+	Query: "Afrixalus lacteus" ; Times: 1
+	Query: "Hyloscirtus lindae" ; Times: 3
+	Query: "specificepithet:vellardi genus:Telmatobius institutioncode:MHNG" ; Times: 3
+	Query: "Craugastor podiciferus" ; Times: 3
+	Query: "specificepithet:leptopus genus:Batrachyla institutioncode:MHNG" ; Times: 3
+	Query: "Bolitoglossa colonnea" ; Times: 1
+	Query: "Nymphargus griffithsi" ; Times: 1
+	Query: "Hyloxalus awa" ; Times: 4
+	Query: "genus:Pristimantis specificepithet:achatinus" ; Times: 1
+	Query: "Strabomantis sulcatus" ; Times: 3
+	Query: "Hemiphractus proboscideus" ; Times: 1
+	Query: "Atelognathus reverberii" ; Times: 3
+	Query: "specificepithet:rosei family:Bufonidae" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Afrixalus institutioncode:MHNG" ; Times: 5
+	Query: "Hyperolius ocellatus" ; Times: 1
+	Query: "specificepithet:ruber genus:Scinax institutioncode:MHNG" ; Times: 3
+	Query: "specificepithet:ocellatus genus:Leptodactylus institutioncode:MHNG" ; Times: 3
+	Query: "specificepithet:diadematus genus:Astylosternus institutioncode:MHNG" ; Times: 3
+	Query: "Phyllomedusa azurea mappable:1" ; Times: 1
+	Query: "CM 11690" ; Times: 2
+	Query: "tabasco" ; Times: 3
+	Query: "specificepithet:femoralis genus:Allobates institutioncode:MHNG" ; Times: 4
+	Query: "Leptodactylus mystaceus" ; Times: 1
+	Query: "capensibufo" ; Times: 1
+	Query: "specificepithet:parviceps genus:Dendropsophus institutioncode:MHNG" ; Times: 3
+	Query: "Epipedobates machalilla" ; Times: 3
+	Query: "specificepithet:fasciatus genus:Hypsiboas institutioncode:MHNG" ; Times: 3
+	Query: "specificepithet:pulcher genus:Barycholos institutioncode:MHNG" ; Times: 3
+	Query: "Craugastor fitzingeri" ; Times: 10
+	Query: "genus:Thoropa specificepithet:miliaris" ; Times: 1
+	Query: "Batrachyla taeniata" ; Times: 4
+	Query: "genus:Pleurodema specificepithet:diplolister" ; Times: 1
+	Query: "Hyalinobatrachium fleischmanni" ; Times: 1
+	Query: "Scinax nasicus mappable:1" ; Times: 1
+	Query: "genus:Caecilia" ; Times: 3
+	Query: "specificepithet:bufo genus:Bufo institutioncode:MHNG" ; Times: 3
+	Query: "specificepithet:maculatus genus:Amietophrynus institutioncode:MHNG" ; Times: 4
+	Query: "Hyloxalus vertebralis" ; Times: 4
+	Query: "Trichobatrachus robustus" ; Times: 1
+	Query: "Hypsiboas punctatus" ; Times: 2
+	Query: "specificepithet:thaul genus:Pleurodema institutioncode:MHNG" ; Times: 3
+	Query: "specificepithet:couchii genus:Scaphiopus institutioncode:MHNG" ; Times: 3
+	Query: "specificepithet:ventrimaculata genus:Chiasmocleis institutioncode:MHNG" ; Times: 3
+	Query: "Eleutherodactylus crenunguis" ; Times: 1
+	Query: "specificepithet:biporcatus genus:Strabomantis institutioncode:MHNG" ; Times: 3
+	Query: "Ceratophrys cornuta" ; Times: 3
+	Query: "class:amphibia country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "specificepithet:lanthanites " ; Times: 3
+	Query: "Pristimantis achatinus" ; Times: 1
+	Query: "specificepithet:poecilonotus genus:Arthroleptis institutioncode:MHNG" ; Times: 4
+	Query: "locality:Lita " ; Times: 1
+	Query: "specificepithet:podiciferus genus:Craugastor institutioncode:MHNG" ; Times: 3
+	Query: "specificepithet:pseustes genus:Gastrotheca institutioncode:MHNG" ; Times: 3
+	Query: "Dendrobates sylvaticus" ; Times: 2
+	Query: "specificepithet:bubalus genus:Hemiphractus institutioncode:MHNG" ; Times: 3
+	Query: "genus:Atelopus specificepithet:zeteki" ; Times: 1
+	Query: "specificepithet:cornuta genus:Ceratophrys institutioncode:MHNG" ; Times: 3
+	Query: "specificepithet:stelzneri genus:Melanophryniscus institutioncode:MHNG" ; Times: 3
+	Query: "Epipedobates tricolor" ; Times: 4
+	Query: "specificepithet:mascareniensis genus:Ptychadena institutioncode:MHNG" ; Times: 3
+	Query: "Hypsiboas lanciformis" ; Times: 3
+	Query: "specificepithet:bolifambae genus:Hyperolius institutioncode:MHNG" ; Times: 3
+	Query: "specificepithet:carens genus:Schismaderma institutioncode:MHNG" ; Times: 3
+	Query: "specificepithet:fraseri genus:Xenopus institutioncode:MHNG" ; Times: 3
+	Query: "Melanophryniscus moreirae" ; Times: 1
+	Query: "genus:Siphonops specificepithet:paulensis" ; Times: 3
+	Query: "cm 3257" ; Times: 1
+	Query: "specificepithet:boiei genus:Proceratophrys institutioncode:MHNG" ; Times: 3
+	Query: "Odontophrynus americanus" ; Times: 1
+	Query: "hemiphractidae" ; Times: 1
+	Query: "Hyloxalus pulchellus" ; Times: 4
+	Query: "Dendrobates auratus" ; Times: 1
+	Query: "specificepithet:albilabris genus:Leptodactylus institutioncode:MHNG" ; Times: 3
+	Query: "specificepithet:rosei genus:capensibufo" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:cornuta" ; Times: 1
+	Query: "specificepithet:parkeri genus:Petropedetes institutioncode:MHNG" ; Times: 3
+	Query: "specificepithet:cuvieri genus:Physalaemus institutioncode:MHNG" ; Times: 3
+	Query: "Amietophrynus maculatus" ; Times: 4
+	Query: "palliata" ; Times: 2
+	Query: "CM 9306" ; Times: 2
+	Query: "Gastrotheca pseustes" ; Times: 1
+	Query: "Pleurodeles poireti" ; Times: 1
+	Query: "Colostethus jacobuspetersi" ; Times: 3
+	Query: "Bolitoglossa peruviana" ; Times: 1
+	Query: "specificepithet:viridiflavus genus:Hyperolius institutioncode:MHNG" ; Times: 3
+	Query: "ignescens" ; Times: 1
+	Query: "Osteocephalus taurinus" ; Times: 1
+	Query: "Nyctibates corrugatus" ; Times: 3
+	Query: "Epipedobates boulengeri" ; Times: 1
+	Query: "Bolitoglossa adspersa" ; Times: 1
+	Query: "specificepithet:nasus genus:Hylodes institutioncode:MHNG" ; Times: 3
+	Query: "specificepithet:corrugatus genus:Nyctibates institutioncode:MHNG" ; Times: 3
+	Query: "subpunctatus" ; Times: 1
+	Query: "specificepithet:crassipes genus:Conraua institutioncode:MHNG" ; Times: 3
+	Query: "specificepithet:sulcatus genus:Strabomantis institutioncode:MHNG" ; Times: 3
+	Query: "Dermatonotus muelleri mappable:1" ; Times: 1
+	Query: "genus:Oophaga specificepithet:pumilio" ; Times: 1
+	Query: "specificepithet:jacobuspetersi genus:Colostethus institutioncode:MHNG" ; Times: 3
+	Query: "Scinax catharinae" ; Times: 1
+	Query: "Hyla arborea" ; Times: 2
+	Query: "specificepithet:tricolor genus:Epipedobates institutioncode:MHNG" ; Times: 3
+	Query: "genus:Phyllomedusa specificepithet:bicolor" ; Times: 1
+	Query: "specificepithet:pictus genus:Discoglossus institutioncode:MHNG" ; Times: 3
+	Query: "specificepithet:valliceps genus:Incilius institutioncode:MHNG" ; Times: 3
+	Query: "Atelopus longirostris" ; Times: 1
+	Query: "Dendrobates tinctorius" ; Times: 1
+	Query: "Strabomantis biporcatus" ; Times: 3
+	Query: "Allobates femoralis" ; Times: 4
+	Query: "specificepithet:macrops genus:Breviceps institutioncode:MHNG" ; Times: 3
+	Query: "Phrynopus" ; Times: 1
+	Query: "specificepithet:vittatus genus:Phyllobates institutioncode:MHNG" ; Times: 3
+	Query: "specificepithet:darwinii genus:Rhinoderma institutioncode:MHNG" ; Times: 3
+	Query: "specificepithet:robustus genus:Trichobatrachus institutioncode:MHNG" ; Times: 3
+	Query: "Breviceps macrops" ; Times: 1
+	Query: "Siphonops annulatus" ; Times: 1
+	Query: "specificepithet:ornata genus:Ceratophrys institutioncode:MHNG" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1178 download events in this period)
+Total number of records downloaded: 490
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Spain ; Times: 14
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-07 ; Times: 3
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-12 ; Times: 4
+	Date: 2018-05-19 ; Times: 1
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 2
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-21 ; Times: 1
+	Date: 2018-05-23 ; Times: 4
+	Date: 2018-05-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Bolitoglossa palmata" ; Times: 1
+	Query: "Lithobates pipiens (Lithobates pipiens Rana)" ; Times: 1
+	Query: "palliata" ; Times: 2
+	Query: "Bolitoglossa chica" ; Times: 1
+	Query: "Bolitoglossa peruviana" ; Times: 1
+	Query: "Pleurodeles poireti" ; Times: 1
+	Query: "class:amphibia country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "class:amphibia country:&#34;Panama&#34;" ; Times: 1
+	Query: "class:amphibia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Gastrophryne usta" ; Times: 1
+	Query: "Eurycea bislineata" ; Times: 1
+	Query: "Bolitoglossa equatoriana" ; Times: 1
+	Query: "(Phrynopus OR Psychrophrynella OR Bryophryne OR Microkayla)" ; Times: 1
+	Query: "Pseudoeurycea bellii" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 1
+	Query: "Bolitoglossa colonnea" ; Times: 1
+	Query: "Atelopus longirostris" ; Times: 1
+	Query: "Leptodactylus rhodonotus" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "Bolitoglossa subpalmata" ; Times: 1
+	Query: "Bolitoglossa adspersa" ; Times: 1
+	Query: "Bolitoglossa platydactyla" ; Times: 2
+
+
+End of report.
