@@ -1,0 +1,266 @@
+Report for Institution Code MHNG, Resource mhng_amphibians
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 128
+Number of records retrieved in searches: 1947
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: United States ; Times: 35
+	Country: Italy ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 29
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 36
+	Country: Belgium ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 1
+	Date: 2018-07-12 ; Times: 3
+	Date: 2018-07-11 ; Times: 8
+	Date: 2018-07-10 ; Times: 12
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-09 ; Times: 1
+	Date: 2018-07-14 ; Times: 1
+	Date: 2018-07-04 ; Times: 9
+	Date: 2018-07-05 ; Times: 6
+	Date: 2018-07-06 ; Times: 4
+	Date: 2018-07-26 ; Times: 9
+	Date: 2018-07-27 ; Times: 8
+	Date: 2018-07-02 ; Times: 4
+	Date: 2018-07-03 ; Times: 2
+	Date: 2018-07-31 ; Times: 39
+	Date: 2018-07-24 ; Times: 3
+	Date: 2018-07-23 ; Times: 1
+	Date: 2018-07-25 ; Times: 5
+	Date: 2018-07-19 ; Times: 9
+	Date: 2018-07-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "7815" ; Times: 2
+	Query: "Scinax rostratus" ; Times: 1
+	Query: "Rana vaillanti" ; Times: 1
+	Query: "conraua" ; Times: 1
+	Query: "Ceratophrys cornuta" ; Times: 2
+	Query: "Pristimantis fenestratus" ; Times: 1
+	Query: "Rana warszewitschii" ; Times: 1
+	Query: "nanay atelopus" ; Times: 1
+	Query: "cruziohyla craspedopus" ; Times: 1
+	Query: "Dendropsophus parviceps" ; Times: 1
+	Query: "OAXACA institutioncode:MHNG" ; Times: 4
+	Query: "&#34;nanay&#34; &#34;azuay&#34;" ; Times: 1
+	Query: "Atelopus zeteki" ; Times: 1
+	Query: "order:anura (robusta)" ; Times: 1
+	Query: "&#34;Bufonidae&#34; &#34;Atelopus Nanay&#34;" ; Times: 1
+	Query: "Scinax wandae" ; Times: 1
+	Query: "Dendropsophus sarayacuensis" ; Times: 1
+	Query: "agalychnis cruziohyla" ; Times: 2
+	Query: "Lithobates vaillanti" ; Times: 1
+	Query: "Scinax ruber" ; Times: 1
+	Query: "agalychnis litodryas" ; Times: 2
+	Query: "genus:Rhinella specificepithet:arenarum" ; Times: 1
+	Query: "Leptodactylus melanonotus" ; Times: 1
+	Query: "atelopus cuenca" ; Times: 1
+	Query: "cm 4597" ; Times: 1
+	Query: "Hypsiboas boans" ; Times: 1
+	Query: "Bufo paracnemis" ; Times: 3
+	Query: "Rana palmipes" ; Times: 1
+	Query: "Typhlonectes natans" ; Times: 1
+	Query: "genus:Pseudopaludicola specificepithet:mystacalis" ; Times: 1
+	Query: "9524" ; Times: 1
+	Query: "rhinoderma" ; Times: 1
+	Query: "Leptodactylus pentadactylus" ; Times: 1
+	Query: "ceratophrys" ; Times: 1
+	Query: "genus:Rhinella" ; Times: 1
+	Query: "Scinax cruentommus" ; Times: 1
+	Query: "Agalychnis craspedopus" ; Times: 2
+	Query: "Phyllomedusa tomopterna" ; Times: 1
+	Query: "Dendropsophus microcephalus" ; Times: 1
+	Query: "Leptodactylus poecilochilus" ; Times: 2
+	Query: "Craugastor fitzingeri" ; Times: 1
+	Query: "Atelopus elegans" ; Times: 1
+	Query: "Batrachyla taeniata" ; Times: 1
+	Query: "Hypsiboas pardalis" ; Times: 1
+	Query: "pristimantis quito" ; Times: 1
+	Query: "agalychnis craspedopus" ; Times: 2
+	Query: "7931" ; Times: 1
+	Query: "Hypsiboas crepitans" ; Times: 1
+	Query: "genus:Incilius specificepithet:valliceps" ; Times: 1
+	Query: "elachistocleis ovalis" ; Times: 1
+	Query: "Craugastor longirostris" ; Times: 1
+	Query: "Rhinella paracnemis" ; Times: 2
+	Query: "&#34;Atelopus Nanay&#34; &#34;Bufonidae&#34;" ; Times: 1
+	Query: "Dendropsophus brevifrons" ; Times: 1
+	Query: "genus:Caecilia " ; Times: 1
+	Query: "order:anura (pulcher)" ; Times: 1
+	Query: "Dendropsophus triangulum" ; Times: 1
+	Query: "Epipedobates tricolor" ; Times: 4
+	Query: "pristimantis fenestratus" ; Times: 1
+	Query: "Hypsiboas faber" ; Times: 1
+	Query: "Platyceps" ; Times: 2
+	Query: "&#34;Atelopus Nanay&#34;" ; Times: 4
+	Query: "nanay atelopus cuenca" ; Times: 1
+	Query: "Leptodactylus bolivianus" ; Times: 1
+	Query: "c 5862" ; Times: 1
+	Query: "elachistocleis" ; Times: 1
+	Query: "Craugastor crassidigitus" ; Times: 1
+	Query: "Agalychnis litodryas" ; Times: 1
+	Query: "atelopus nanay" ; Times: 1
+	Query: "Hypsiboas pellucens" ; Times: 1
+	Query: "8933" ; Times: 1
+	Query: "Capensibufo rosei" ; Times: 1
+	Query: "Batrachyla leptopus" ; Times: 1
+	Query: "Scinax sugillatus" ; Times: 1
+	Query: "nanay ecuador" ; Times: 1
+	Query: "hypopachus" ; Times: 1
+	Query: "atelopus varius" ; Times: 3
+	Query: "genus:Atelopus specificepithet:balios" ; Times: 1
+	Query: "scinax squalirostris" ; Times: 1
+	Query: "Osteocephalus taurinus" ; Times: 1
+	Query: "Hypsiboas geographicus" ; Times: 1
+	Query: "Elachistocleis bicolor" ; Times: 1
+	Query: "Rana bwana" ; Times: 1
+	Query: "nanay cuenca" ; Times: 2
+	Query: "Bufo diptychus" ; Times: 3
+	Query: "genus:Hyperolius specificepithet:riggenbachi" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:mystacinus" ; Times: 1
+	Query: "Cardioglossa gracilis" ; Times: 1
+	Query: "Lithobates bwana" ; Times: 1
+	Query: "elachistocleis bicolor" ; Times: 1
+	Query: "Elachistocleis" ; Times: 1
+	Query: "&#34;Atelopus Nanay&#34; &#34;Ecuador&#34;" ; Times: 1
+	Query: "Scinax nebulosus" ; Times: 1
+	Query: "genus:Pleurodema specificepithet:diplolister" ; Times: 2
+	Query: "Leptodactylus fuscus" ; Times: 2
+	Query: "Lithobates warszewitschii" ; Times: 1
+	Query: "agalychnis callidryas" ; Times: 1
+	Query: "Allobates femoralis" ; Times: 1
+	Query: "Hypsiboas rosenbergi" ; Times: 1
+	Query: "Scinax squalirostris" ; Times: 1
+	Query: "Lithobates palmipes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 95 (out of 977 download events in this period)
+Total number of records downloaded: 5138
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: Unknown ; Times: 54
+	Country: Colombia ; Times: 39
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-23 ; Times: 1
+	Date: 2018-07-19 ; Times: 19
+	Date: 2018-07-25 ; Times: 31
+	Date: 2018-07-31 ; Times: 39
+	Date: 2018-07-20 ; Times: 3
+	Date: 2018-07-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Scinax rostratus" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "specificepithet:bubalus genus:Hemiphractus" ; Times: 1
+	Query: "specificepithet:toachi genus:Hyloxalus" ; Times: 1
+	Query: "Rana vaillanti" ; Times: 1
+	Query: "specificepithet:bocagei genus:Hyloxalus" ; Times: 1
+	Query: "specificepithet:munozorum genus:Hyalinobatrachium" ; Times: 1
+	Query: "specificepithet:haematiticus genus:Rhaebo" ; Times: 1
+	Query: "specificepithet:guentheri genus:Gastrotheca" ; Times: 1
+	Query: "specificepithet:espinosai genus:Epipedobates" ; Times: 1
+	Query: "specificepithet:vertebralis genus:Hyloxalus" ; Times: 1
+	Query: "Leptodactylus pentadactylus" ; Times: 1
+	Query: "Scinax x-signatus" ; Times: 1
+	Query: "Rana warszewitschii" ; Times: 1
+	Query: "specificepithet:gemmatum genus:Centrolene" ; Times: 1
+	Query: "specificepithet:nepiozomus genus:Atelopus" ; Times: 1
+	Query: "Dendropsophus parviceps" ; Times: 2
+	Query: "Scinax wandae" ; Times: 1
+	Query: "specificepithet:riobambae genus:Gastrotheca" ; Times: 1
+	Query: "specificepithet:mindoensis genus:Atelopus" ; Times: 1
+	Query: "Dendropsophus sarayacuensis" ; Times: 1
+	Query: "specificepithet:lehmanni genus:Hyloxalus" ; Times: 1
+	Query: "Lithobates vaillanti" ; Times: 1
+	Query: "Scinax ruber" ; Times: 1
+	Query: "specificepithet:coniferus genus:Incilius" ; Times: 2
+	Query: "specificepithet:scutatus genus:Hemiphractus" ; Times: 1
+	Query: "Leptodactylus wagneri" ; Times: 1
+	Query: "Leptodactylus melanonotus" ; Times: 1
+	Query: "specificepithet:longirostris genus:Craugastor" ; Times: 1
+	Query: "specificepithet:infraguttatus genus:Hyloxalus" ; Times: 1
+	Query: "specificepithet:talamancae genus:Allobates" ; Times: 1
+	Query: "specificepithet:gularis genus:Diasporus" ; Times: 1
+	Query: "Hypsiboas boans" ; Times: 1
+	Query: "specificepithet:lynchi genus:Atelopus" ; Times: 1
+	Query: "Rana palmipes" ; Times: 1
+	Query: "specificepithet:nanay genus:Atelopus" ; Times: 1
+	Query: "specificepithet:elachyhistus genus:Hyloxalus" ; Times: 1
+	Query: "specificepithet:machalilla genus:Epipedobates" ; Times: 1
+	Query: "specificepithet:sauli genus:Hyloxalus" ; Times: 1
+	Query: "Scinax cruentommus" ; Times: 1
+	Query: "Smilisca phaeota" ; Times: 1
+	Query: "specificepithet:coynei genus:Atelopus" ; Times: 1
+	Query: "Dendropsophus microcephalus" ; Times: 1
+	Query: "Leptodactylus poecilochilus" ; Times: 1
+	Query: "specificepithet:longirostris genus:Atelopus" ; Times: 1
+	Query: "Craugastor fitzingeri" ; Times: 1
+	Query: "specificepithet:planispina genus:Atelopus" ; Times: 1
+	Query: "specificepithet:arthuri genus:Atelopus" ; Times: 1
+	Query: "specificepithet:tricolor genus:Epipedobates" ; Times: 1
+	Query: "specificepithet:awa genus:Hyloxalus" ; Times: 1
+	Query: "Hypsiboas crepitans" ; Times: 1
+	Query: "specificepithet:griffithsi genus:Nymphargus" ; Times: 1
+	Query: "specificepithet:plumbea genus:Gastrotheca" ; Times: 1
+	Query: "specificepithet:proboscideus genus:Hemiphractus" ; Times: 1
+	Query: "Craugastor longirostris" ; Times: 1
+	Query: "specificepithet:ignescens genus:Atelopus" ; Times: 2
+	Query: "Dendropsophus brevifrons" ; Times: 1
+	Query: "specificepithet:psychrophila genus:Gastrotheca" ; Times: 1
+	Query: "specificepithet:elegans genus:Atelopus" ; Times: 1
+	Query: "Hypsiboas faber" ; Times: 1
+	Query: "Leptodactylus bolivianus" ; Times: 1
+	Query: "specificepithet:fallax genus:Hyloxalus" ; Times: 1
+	Query: "specificepithet:pulchellus genus:Hyloxalus" ; Times: 1
+	Query: "specificepithet:angustifrons genus:Gastrotheca" ; Times: 1
+	Query: "specificepithet:bilinguis genus:Ameerega" ; Times: 1
+	Query: "Craugastor crassidigitus" ; Times: 1
+	Query: "specificepithet:exiguus genus:Atelopus" ; Times: 1
+	Query: "specificepithet:balios genus:Atelopus" ; Times: 1
+	Query: "Hypsiboas pellucens" ; Times: 1
+	Query: "specificepithet:kingsburyi genus:Allobates" ; Times: 1
+	Query: "Dendropsophus triangulum" ; Times: 1
+	Query: "Scinax sugillatus" ; Times: 1
+	Query: "atelopus varius" ; Times: 1
+	Query: "Hypsiboas geographicus" ; Times: 1
+	Query: "Rana bwana" ; Times: 1
+	Query: "specificepithet:palmatus genus:Atelopus" ; Times: 1
+	Query: "Lithobates bwana" ; Times: 1
+	Query: "specificepithet:cornuta genus:Gastrotheca" ; Times: 1
+	Query: "Scinax nebulosus" ; Times: 1
+	Query: "specificepithet:femoralis genus:Allobates" ; Times: 1
+	Query: "Hypsiboas pardalis" ; Times: 1
+	Query: "Leptodactylus fuscus" ; Times: 1
+	Query: "Lithobates warszewitschii" ; Times: 1
+	Query: "specificepithet:pseustes genus:Gastrotheca" ; Times: 1
+	Query: "specificepithet:guanujo genus:Atelopus" ; Times: 1
+	Query: "specificepithet:espeletia genus:Gastrotheca" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Hemiphractus" ; Times: 1
+	Query: "Hypsiboas rosenbergi" ; Times: 1
+	Query: "Scinax squalirostris" ; Times: 1
+	Query: "specificepithet:cornuta genus:Ceratophrys" ; Times: 1
+	Query: "Lithobates palmipes" ; Times: 1
+	Query: "specificepithet:pachydermus genus:Atelopus" ; Times: 1
+
+
+End of report.
