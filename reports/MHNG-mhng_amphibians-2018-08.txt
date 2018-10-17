@@ -1,0 +1,318 @@
+Report for Institution Code MHNG, Resource mhng_amphibians
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 149
+Number of records retrieved in searches: 4795
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 13
+	Country: Netherlands ; Times: 3
+	Country: Colombia ; Times: 7
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 1
+	Country: India ; Times: 2
+	Country: United States ; Times: 26
+	Country: Guatemala ; Times: 2
+	Country: Germany ; Times: 55
+	Country: Chile ; Times: 2
+	Country: Argentina ; Times: 19
+	Country: Cameroon ; Times: 1
+	Country: Taiwan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 4
+	Date: 2018-08-31 ; Times: 1
+	Date: 2018-08-19 ; Times: 5
+	Date: 2018-08-16 ; Times: 5
+	Date: 2018-08-09 ; Times: 4
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-15 ; Times: 1
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-10 ; Times: 1
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-02 ; Times: 12
+	Date: 2018-08-08 ; Times: 20
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-27 ; Times: 9
+	Date: 2018-08-26 ; Times: 7
+	Date: 2018-08-24 ; Times: 2
+	Date: 2018-08-23 ; Times: 2
+	Date: 2018-08-22 ; Times: 11
+	Date: 2018-08-21 ; Times: 39
+	Date: 2018-08-20 ; Times: 2
+	Date: 2018-08-05 ; Times: 2
+	Date: 2018-08-07 ; Times: 5
+	Date: 2018-08-06 ; Times: 1
+	Date: 2018-08-01 ; Times: 6
+	Date: 2018-08-29 ; Times: 5
+	Date: 2018-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:poweri genus:Breviceps" ; Times: 2
+	Query: "phrynopus" ; Times: 1
+	Query: "anomaloglossus institutioncode:MHNG" ; Times: 2
+	Query: "odontophrynus" ; Times: 2
+	Query: "Craugastor rhodopis mappable:1" ; Times: 1
+	Query: "Leptodactylus pentadactylus mappable:1" ; Times: 1
+	Query: "9832" ; Times: 1
+	Query: "Rheobates palmatus" ; Times: 1
+	Query: "Oophaga pumilio mappable:1" ; Times: 1
+	Query: "genus:Rhinoderma specificepithet:darwinii" ; Times: 2
+	Query: "Hypopachus variolosus" ; Times: 1
+	Query: "genus:Atelopus specificepithet:varius" ; Times: 1
+	Query: "genus:Hadromophryne" ; Times: 1
+	Query: "pseudoeurycea bellii" ; Times: 1
+	Query: "order:anura (Phrynopus peruvianus)" ; Times: 2
+	Query: "Hypsiboas picturata" ; Times: 7
+	Query: "Phrynobatrachus calcaratus mappable:1" ; Times: 1
+	Query: "Agalychnis callidryas year &gt;= 1930 year &lt;= 1999" ; Times: 2
+	Query: "CM 9631" ; Times: 1
+	Query: "colostethus institutioncode:MHNG" ; Times: 1
+	Query: "Hypodactylus elassodiscus order:anura" ; Times: 1
+	Query: "genus:Discoglossus specificepithet:pictus" ; Times: 1
+	Query: "Scinax ruber mappable:1" ; Times: 1
+	Query: "allobates femoralis institutioncode:MHNG" ; Times: 1
+	Query: "genus:craugastor" ; Times: 1
+	Query: "genus:Caecilia specificepithet:nigricans" ; Times: 1
+	Query: "Engystomops pustulosus" ; Times: 1
+	Query: "hyloxalus vertebralis institutioncode:MHNG" ; Times: 1
+	Query: "Dendropsophus bokermanni" ; Times: 1
+	Query: "hyloxalus lehmanni institutioncode:MHNG" ; Times: 2
+	Query: "epipedobates tricolor institutioncode:MHNG" ; Times: 3
+	Query: "Leptodactylus melanonotus" ; Times: 2
+	Query: "Ecnomiohyla" ; Times: 2
+	Query: "MBO 1558" ; Times: 1
+	Query: "Lithobates vaillanti" ; Times: 1
+	Query: "legleri family:hylidae" ; Times: 1
+	Query: "Epipedobates bilinguis institutioncode:MHNG" ; Times: 2
+	Query: "genus:Phyllomedusa specificepithet:sauvagii" ; Times: 1
+	Query: "Hypsiboas boans" ; Times: 1
+	Query: "order:anura (Eleutherodactylus peruvianus)" ; Times: 1
+	Query: "genus:Eupemphix specificepithet:nattereri" ; Times: 1
+	Query: "Pristimantis ridens mappable:1" ; Times: 1
+	Query: "colostethus stepheni" ; Times: 2
+	Query: "Rhaebo haematiticus mappable:1" ; Times: 1
+	Query: "Dendropsophus microcephalus" ; Times: 2
+	Query: "Epipedobates institutioncode:MHNG" ; Times: 1
+	Query: "craugastor rhodopis" ; Times: 1
+	Query: "allobates institutioncode:MHNG" ; Times: 3
+	Query: "Hyalinobatrachium fleischmanni" ; Times: 1
+	Query: "colostethus stepheni institutioncode:MHNG" ; Times: 2
+	Query: "specificepithet:pumilio genus:oophaga" ; Times: 1
+	Query: "Osteocephalus Peru" ; Times: 1
+	Query: "epipedobates machalilla institutioncode:MHNG" ; Times: 1
+	Query: "nubicola institutioncode:MHNG" ; Times: 2
+	Query: "Huila class:Amphibia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Hypopachus variolosus mappable:1" ; Times: 1
+	Query: "oophaga histrionica" ; Times: 1
+	Query: "locality:savane" ; Times: 1
+	Query: "jacobuspetersi" ; Times: 2
+	Query: "Leptodactylus mystaceus mappable:1" ; Times: 1
+	Query: "genus:Leptodactylodon specificepithet:ovatus" ; Times: 1
+	Query: "order:anura (myrmecoides)" ; Times: 1
+	Query: "Phyllobates vittatus" ; Times: 2
+	Query: "oaxaca and amphibia" ; Times: 3
+	Query: "order:anura (lynchi)" ; Times: 1
+	Query: "hyloxalus institutioncode:MHNG" ; Times: 2
+	Query: "pleurodema brachyops" ; Times: 1
+	Query: "Agalychnis callidryas" ; Times: 4
+	Query: "Oreobates Peru" ; Times: 1
+	Query: "3449" ; Times: 1
+	Query: "Craugastor fitzingeri mappable:1" ; Times: 1
+	Query: "epipedobates pictus institutioncode:MHNG" ; Times: 2
+	Query: "genus:Dendrobates specificepithet:tinctorius" ; Times: 1
+	Query: "Physalaemus cuvieri mappable:1" ; Times: 1
+	Query: "Cauca class:Amphibia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Hyalinobatrachium fleischmanni mappable:1" ; Times: 1
+	Query: "Oophaga histrionica" ; Times: 1
+	Query: "Lithobates vaillanti mappable:1" ; Times: 1
+	Query: "hyloxalus infraguttatus institutioncode:MHNG" ; Times: 1
+	Query: "Amietophrynus maculatus mappable:1" ; Times: 2
+	Query: "genus:hyalinobatrachium" ; Times: 1
+	Query: "genus:Elachistocleis" ; Times: 1
+	Query: "ameerega institutioncode:MHNG" ; Times: 4
+	Query: "class:amphibia country:&#34;México&#34;" ; Times: 1
+	Query: "colostethus machalilla institutioncode:MHNG" ; Times: 3
+	Query: "Craugastor bransfordii mappable:1" ; Times: 1
+	Query: "institutioncode:MHNG" ; Times: 4
+	Query: "Anomaloglossus" ; Times: 1
+	Query: "talamancae institutioncode:MHNG" ; Times: 1
+	Query: "recordedby:Zingg" ; Times: 1
+	Query: "ameerega bilinguis institutioncode:MHNG" ; Times: 2
+	Query: "Osteocephalus" ; Times: 2
+	Query: "ameerega macero institutioncode:MHNG" ; Times: 1
+	Query: "telmatobius marmoratus" ; Times: 2
+	Query: "epipedobates institutioncode:MHNG" ; Times: 1
+	Query: "Phrynobatrachus latifrons mappable:1" ; Times: 1
+	Query: "dendropsophus labialis" ; Times: 2
+	Query: "Leptodactylus fuscus mappable:1" ; Times: 1
+	Query: "petropedetes cameronensis" ; Times: 1
+	Query: "Incilius valliceps mappable:1" ; Times: 1
+	Query: "stepheni institutioncode:MHNG" ; Times: 1
+	Query: "ameerega macero" ; Times: 1
+	Query: "immaculatus order:anura" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 124 (out of 1416 download events in this period)
+Total number of records downloaded: 20392
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 16
+	Country: Unknown ; Times: 91
+	Country: Peru ; Times: 1
+	Country: United States ; Times: 4
+	Country: Germany ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-02 ; Times: 2
+	Date: 2018-08-27 ; Times: 2
+	Date: 2018-08-10 ; Times: 1
+	Date: 2018-08-30 ; Times: 2
+	Date: 2018-08-26 ; Times: 37
+	Date: 2018-08-25 ; Times: 22
+	Date: 2018-08-24 ; Times: 30
+	Date: 2018-08-23 ; Times: 2
+	Date: 2018-08-22 ; Times: 2
+	Date: 2018-08-21 ; Times: 4
+	Date: 2018-08-19 ; Times: 11
+	Date: 2018-08-07 ; Times: 2
+	Date: 2018-08-15 ; Times: 2
+	Date: 2018-08-29 ; Times: 2
+	Date: 2018-08-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:palliata genus:Phyllomedusa" ; Times: 1
+	Query: "specificepithet:appendiculatus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:carneus genus:Sphaenorhynchus" ; Times: 1
+	Query: "Bolitoglossa" ; Times: 1
+	Query: "specificepithet:equatoriana genus:Bolitoglossa" ; Times: 1
+	Query: "odontophrynus" ; Times: 1
+	Query: "specificepithet:quinquefasciatus genus:Scinax" ; Times: 1
+	Query: "specificepithet:surdus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:phaeota genus:Smilisca" ; Times: 1
+	Query: "specificepithet:vertebralis genus:Pristimantis" ; Times: 1
+	Query: "Rheobates palmatus" ; Times: 1
+	Query: "specificepithet:nyctophylax genus:Pristimantis" ; Times: 1
+	Query: "Agalychnis callidryas" ; Times: 2
+	Query: "specificepithet:cruentommus genus:Scinax" ; Times: 1
+	Query: "country:&#34;Peru&#34;" ; Times: 1
+	Query: "Incilius valliceps" ; Times: 1
+	Query: "specificepithet:altamazonica genus:Bolitoglossa" ; Times: 1
+	Query: "specificepithet:acuminatus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:brevifrons genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:subsigillatus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:sugillatus genus:Scinax" ; Times: 1
+	Query: "specificepithet:ptychodactylus genus:Hyloscirtus" ; Times: 1
+	Query: "specificepithet:parviceps genus:Dendropsophus" ; Times: 1
+	Query: "Agalychnis callidryas year &gt;= 1930 year &lt;= 1999" ; Times: 1
+	Query: "family:Bufonidae continent:Africa AND (NOT bufo)" ; Times: 1
+	Query: "specificepithet:w-nigrum genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:peruviana genus:Bolitoglossa" ; Times: 1
+	Query: "specificepithet:muricatus genus:Pristimantis" ; Times: 1
+	Query: "colostethus institutioncode:MHNG" ; Times: 1
+	Query: "specificepithet:acerus genus:Pristimantis" ; Times: 1
+	Query: "Lithobates vaillanti" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "specificepithet:carnifex genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:vellardi genus:Telmatobius" ; Times: 1
+	Query: "specificepithet:riveroi genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:anomalus genus:Strabomantis" ; Times: 1
+	Query: "specificepithet:paululus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:alytolylax genus:Hyloscirtus" ; Times: 1
+	Query: "specificepithet:garbei genus:Scinax" ; Times: 2
+	Query: "specificepithet:ventrimaculatus genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:caprifer genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:lindae genus:Hyloscirtus" ; Times: 1
+	Query: "specificepithet:achatinus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:truebae genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:sobetes genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:quaquaversus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:pyrrhomerus genus:Pristimantis" ; Times: 1
+	Query: "Ecuador" ; Times: 1
+	Query: "specificepithet:crenunguis genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:chica genus:Bolitoglossa" ; Times: 1
+	Query: "specificepithet:latidiscus genus:Pristimantis" ; Times: 1
+	Query: "oophaga histrionica" ; Times: 1
+	Query: "specificepithet:lacrimosus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:nigricans genus:Caecilia" ; Times: 1
+	Query: "specificepithet:mystaceus genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:ornatissimus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:jordani genus:Trachycephalus" ; Times: 1
+	Query: "specificepithet:chalceus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:pulcher genus:Barycholos" ; Times: 1
+	Query: "Anaxyrus compactilis" ; Times: 1
+	Query: "specificepithet:phoxocephalus genus:Pristimantis" ; Times: 1
+	Query: "Dendropsophus microcephalus" ; Times: 1
+	Query: "specificepithet:verruciger genus:Osteocephalus" ; Times: 1
+	Query: "specificepithet:funereus genus:Scinax" ; Times: 1
+	Query: "specificepithet:sarayacuensis genus:Dendropsophus" ; Times: 1
+	Query: "craugastor rhodopis" ; Times: 1
+	Query: "specificepithet:lanthanites genus:Pristimantis" ; Times: 1
+	Query: "Ecnomiohyla miotympanum" ; Times: 1
+	Query: "Hyalinobatrachium fleischmanni" ; Times: 1
+	Query: "specificepithet:tarsius genus:Phyllomedusa" ; Times: 1
+	Query: "order:Anura" ; Times: 1
+	Query: "specificepithet:simonbolivari genus:Pristimantis" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 2
+	Query: "specificepithet:crucifer genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:ruber genus:Scinax" ; Times: 1
+	Query: "specificepithet:curtipes genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:bokermanni genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:pseudoacuminatus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:croceoinguinis genus:Pristimantis" ; Times: 1
+	Query: "oaxaca and amphibia" ; Times: 1
+	Query: "Incilius marmoreus" ; Times: 1
+	Query: "specificepithet:bassleri genus:Chiasmocleis" ; Times: 1
+	Query: "specificepithet:perezi genus:Edalorhina" ; Times: 1
+	Query: "specificepithet:melanonotus genus:Leptodactylus" ; Times: 1
+	Query: "proceratophrys" ; Times: 1
+	Query: "specificepithet:duellmani genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:variabilis genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:necerus genus:Strabomantis" ; Times: 1
+	Query: "hyloxalus institutioncode:MHNG" ; Times: 1
+	Query: "specificepithet:conspicillatus genus:Pristimantis" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "specificepithet:sulcatus genus:Strabomantis" ; Times: 1
+	Query: "specificepithet:petersi genus:Epicrionops" ; Times: 1
+	Query: "specificepithet:onorei genus:Chthonerpeton" ; Times: 1
+	Query: "specificepithet:dunni genus:Caecilia" ; Times: 1
+	Query: "specificepithet:orphnolaimus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:labrosus genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:abitaguae genus:Caecilia" ; Times: 1
+	Query: "specificepithet:petersi genus:Engystomops" ; Times: 1
+	Query: "order:Caudata" ; Times: 1
+	Query: "dendropsophus labialis" ; Times: 1
+	Query: "specificepithet:thymalopsoides genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:eremitus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:tomopterna genus:Phyllomedusa" ; Times: 1
+	Query: "specificepithet:actites genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:modipeplus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:wagneri genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:triangulum genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:vaillantii genus:Phyllomedusa" ; Times: 1
+	Query: "specificepithet:unistrigatus genus:Pristimantis" ; Times: 1
+	Query: "telmatobius marmoratus" ; Times: 1
+	Query: "specificepithet:femoralis genus:Allobates" ; Times: 1
+	Query: "epipedobates institutioncode:MHNG" ; Times: 1
+	Query: "specificepithet:palmata genus:Bolitoglossa" ; Times: 1
+	Query: "specificepithet:peruvianus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:diadematus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:walkeri genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:parvillus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:taurinus genus:Osteocephalus" ; Times: 1
+	Query: "specificepithet:quinquagesimus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:lymani genus:Pristimantis" ; Times: 1
+
+
+End of report.
