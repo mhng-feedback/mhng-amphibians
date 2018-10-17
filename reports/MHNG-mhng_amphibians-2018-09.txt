@@ -1,0 +1,124 @@
+Report for Institution Code MHNG, Resource mhng_amphibians
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 80
+Number of records retrieved in searches: 2220
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Ivory Coast ; Times: 1
+	Country: Mexico ; Times: 18
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 28
+	Country: Germany ; Times: 3
+	Country: Ecuador ; Times: 20
+	Country: Colombia ; Times: 4
+	Country: Belgium ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 2
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-03 ; Times: 1
+	Date: 2018-09-27 ; Times: 4
+	Date: 2018-09-30 ; Times: 2
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-26 ; Times: 4
+	Date: 2018-09-12 ; Times: 3
+	Date: 2018-09-06 ; Times: 5
+	Date: 2018-09-14 ; Times: 8
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-19 ; Times: 3
+	Date: 2018-09-18 ; Times: 11
+	Date: 2018-09-20 ; Times: 2
+	Date: 2018-09-28 ; Times: 2
+	Date: 2018-09-04 ; Times: 10
+	Date: 2018-09-21 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "Dendrobates truncatus" ; Times: 1
+	Query: "leptodactylus poecilochilus" ; Times: 4
+	Query: "&#34;Telmatobius ceiorum&#34;" ; Times: 4
+	Query: "Plectrohyla institutioncode:MHNG" ; Times: 1
+	Query: "specificepithet:altamazonica genus:Bolitoglossa" ; Times: 4
+	Query: "genus:Osteocephalus" ; Times: 1
+	Query: "hyloxalus" ; Times: 1
+	Query: "genus:Pristimantis specificepithet:unistrigatus" ; Times: 1
+	Query: "lynchi" ; Times: 1
+	Query: "genus:Ptychadena specificepithet:aequiplicata" ; Times: 1
+	Query: "Leptopelis notatus mappable:1" ; Times: 1
+	Query: "Atelopus arthuri" ; Times: 1
+	Query: "specificepithet:microcephalus genus:dendropsophus" ; Times: 1
+	Query: "Noblella" ; Times: 1
+	Query: "institutioncode:MHNG" ; Times: 1
+	Query: "genus:Conraua" ; Times: 3
+	Query: "PRISTIMANTIS" ; Times: 1
+	Query: "dendropsophus parviceps" ; Times: 6
+	Query: "Pleurodema brachyops" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 1
+	Query: "genus:Engystomops specificepithet:pustulosus" ; Times: 2
+	Query: "Atelopus balios" ; Times: 2
+	Query: "country:Ecuador scientificname:Bolitoglossa altamazonica " ; Times: 1
+	Query: "oreobates cruralis" ; Times: 1
+	Query: "Atelopus ignescens" ; Times: 6
+	Query: "Atelopus lynchi" ; Times: 2
+	Query: "Atelopus coynei" ; Times: 1
+	Query: "Noblella myrmecoides" ; Times: 1
+	Query: "Leptodactylus melanonotus" ; Times: 1
+	Query: "Atelopus longirostris" ; Times: 4
+	Query: "Leptopelis boulengeri mappable:1" ; Times: 1
+	Query: "Oaxaca Amphibia" ; Times: 1
+	Query: "La Joya" ; Times: 2
+	Query: "Leptopelis calcaratus mappable:1" ; Times: 3
+	Query: "Leptopelis rufus mappable:1" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:tinctorius" ; Times: 1
+	Query: "hemiphractus proboscideus" ; Times: 2
+	Query: "leptodactylus poecilochilus vntype:specimen" ; Times: 1
+	Query: "Atelopus guanujo" ; Times: 1
+	Query: "Colombia risaralda" ; Times: 2
+	Query: "Leptodactylus poecilochilus" ; Times: 1
+	Query: "Veracruz Amphibia" ; Times: 1
+	Query: "Atelopus elegans" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:cornuta" ; Times: 1
+	Query: "elassodiscus" ; Times: 1
+	Query: "Engystomops pustulosus" ; Times: 1
+	Query: "003-95" ; Times: 1
+	Query: "j 808" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 846 download events in this period)
+Total number of records downloaded: 4741
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-06 ; Times: 3
+	Date: 2018-09-04 ; Times: 2
+	Date: 2018-09-18 ; Times: 2
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cinereus genus:plethodon" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "eleutherodactylus" ; Times: 1
+	Query: "genus:Conraua" ; Times: 1
+	Query: "rana draytonii vntype:specimen" ; Times: 1
+	Query: "continent:South America" ; Times: 1
+	Query: "Engystomops pustulosus" ; Times: 1
+	Query: "dendropsophus parviceps" ; Times: 2
+	Query: "Leptodactylus melanonotus" ; Times: 1
+
+
+End of report.
