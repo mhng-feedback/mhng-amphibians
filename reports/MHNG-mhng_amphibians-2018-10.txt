@@ -1,0 +1,185 @@
+Report for Institution Code MHNG, Resource mhng_amphibians
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 139
+Number of records retrieved in searches: 3634
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 17
+	Country: United Kingdom ; Times: 4
+	Country: Slovakia ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 31
+	Country: Germany ; Times: 17
+	Country: Colombia ; Times: 47
+	Country: Kenya ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Nicaragua ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 3
+	Date: 2018-10-04 ; Times: 3
+	Date: 2018-10-05 ; Times: 5
+	Date: 2018-10-07 ; Times: 1
+	Date: 2018-10-01 ; Times: 3
+	Date: 2018-10-03 ; Times: 2
+	Date: 2018-10-30 ; Times: 3
+	Date: 2018-10-22 ; Times: 2
+	Date: 2018-10-23 ; Times: 51
+	Date: 2018-10-06 ; Times: 1
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-26 ; Times: 6
+	Date: 2018-10-27 ; Times: 1
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-25 ; Times: 2
+	Date: 2018-10-28 ; Times: 1
+	Date: 2018-10-29 ; Times: 3
+	Date: 2018-10-08 ; Times: 5
+	Date: 2018-10-09 ; Times: 7
+	Date: 2018-10-19 ; Times: 2
+	Date: 2018-10-18 ; Times: 2
+	Date: 2018-10-13 ; Times: 9
+	Date: 2018-10-11 ; Times: 1
+	Date: 2018-10-10 ; Times: 4
+	Date: 2018-10-17 ; Times: 2
+	Date: 2018-10-16 ; Times: 6
+	Date: 2018-10-15 ; Times: 10
+	Date: 2018-10-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Lithobates warszewitschii" ; Times: 2
+	Query: "DENDROPSOPHUS BOKERMANNI" ; Times: 1
+	Query: "Craugastor" ; Times: 1
+	Query: "Hypsiboas punctatus" ; Times: 2
+	Query: "genus:Pristimantis specificepithet:ridens" ; Times: 1
+	Query: "Hyalinobatrachium fleischmanni" ; Times: 2
+	Query: "genus:Hyalinobatrachium specificepithet:fleischmanni" ; Times: 1
+	Query: "Phyllomedusa bicolor" ; Times: 9
+	Query: "Cardioglossa pulchra" ; Times: 1
+	Query: "leptodactylus chaquensis" ; Times: 1
+	Query: "genus:Hyloxalus institutioncode:MHNG basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Scinax specificepithet:squalirostris" ; Times: 1
+	Query: "Rhaebo haematiticus" ; Times: 2
+	Query: "Hamptophryne boliviana" ; Times: 1
+	Query: "DENDROPSOPHUS" ; Times: 3
+	Query: "hyloxalus" ; Times: 3
+	Query: "bufo americanus vntype:specimen (anaxyrus americanus)" ; Times: 1
+	Query: "callidryas" ; Times: 1
+	Query: "CM 9263" ; Times: 3
+	Query: "6006" ; Times: 1
+	Query: "la joya" ; Times: 1
+	Query: "Afrixalus osorioi mappable:1" ; Times: 1
+	Query: "dendropsophus microcephalus country:&#34;colombia&#34;" ; Times: 1
+	Query: "Leptopelis aubryi mappable:1" ; Times: 1
+	Query: "dendropsophus bokermanni" ; Times: 1
+	Query: "Rana warszewitschii" ; Times: 2
+	Query: "Bolitoglossa altamazonica" ; Times: 3
+	Query: "Allobates marchesianus" ; Times: 2
+	Query: "Leptopelis viridis mappable:1" ; Times: 1
+	Query: "Pristimantis cruentus" ; Times: 1
+	Query: "Dendropsophus brevifrons" ; Times: 1
+	Query: "Scinax cruentommus" ; Times: 1
+	Query: "petropedetes" ; Times: 1
+	Query: "oaxaca and amphibia" ; Times: 1
+	Query: "Elachistocleis" ; Times: 1
+	Query: "Leptopelis nordequatorialis mappable:1" ; Times: 1
+	Query: "Dendropsophus parviceps" ; Times: 6
+	Query: "oaxaca institutioncode:MHNG" ; Times: 1
+	Query: "locality:bonda country:&#34;colombia&#34;" ; Times: 3
+	Query: "Bolitoglossa colonnea" ; Times: 1
+	Query: "genus:Trachycephalus specificepithet:nigromaculatus" ; Times: 1
+	Query: "genus:Oophaga specificepithet:pumilio" ; Times: 1
+	Query: "Hypsiboas faber" ; Times: 1
+	Query: "genus:Conraua" ; Times: 1
+	Query: "genus:Siphonops specificepithet:annulatus" ; Times: 1
+	Query: "Atelopus zeteki" ; Times: 1
+	Query: "melanophryniscus moreirae" ; Times: 7
+	Query: "Telmatobius vellardi" ; Times: 1
+	Query: "Eleutherodactylus sulcatus" ; Times: 9
+	Query: "Hemiphractus scutatus" ; Times: 2
+	Query: "dendropsophus brevifrons" ; Times: 1
+	Query: "phrynobatrachus auritus" ; Times: 1
+	Query: "Hypsiboas" ; Times: 1
+	Query: "Leptopelis brevirostris mappable:1" ; Times: 1
+	Query: "caecilia" ; Times: 1
+	Query: "Hyperolius ocellatus mappable:1" ; Times: 1
+	Query: "Noblella myrmecoides" ; Times: 1
+	Query: "recordedby:Köhler" ; Times: 1
+	Query: "genus:Physalaemus specificepithet:albonotatus" ; Times: 2
+	Query: "Astylosternus batesi mappable:1" ; Times: 1
+	Query: "Leptopelis millsoni mappable:1" ; Times: 5
+	Query: "Pristimantis croceoinguinis" ; Times: 2
+	Query: "Chiasmocleis bassleri" ; Times: 1
+	Query: "Leptopelis calcaratus mappable:1" ; Times: 3
+	Query: "Craugastor crassidigitus" ; Times: 1
+	Query: "incilius coniferus" ; Times: 1
+	Query: "Pristimantis acuminatus" ; Times: 2
+	Query: "Acanthixalus spinosus mappable:1" ; Times: 1
+	Query: "platyceps" ; Times: 1
+	Query: "Afrixalus equatorialis mappable:1" ; Times: 1
+	Query: "Atelopus varius" ; Times: 1
+	Query: "Eleutherodactylus acuminatus" ; Times: 1
+	Query: "Strabomantis sulcatus" ; Times: 1
+	Query: "Oreobates quixensis" ; Times: 6
+	Query: "Xenopus andrei" ; Times: 1
+	Query: "Hyloxalus" ; Times: 2
+	Query: "hypsiboas balzani" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:podicipinus" ; Times: 1
+	Query: "j 808" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1300 download events in this period)
+Total number of records downloaded: 1429
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 2
+	Country: Germany ; Times: 7
+	Country: Colombia ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-30 ; Times: 1
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-29 ; Times: 2
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-13 ; Times: 7
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-15 ; Times: 1
+	Date: 2018-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Amphibia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "country:&#34;COLOMBIA&#34;" ; Times: 1
+	Query: "Bolitoglossa colonnea" ; Times: 1
+	Query: "dendropsophus microcephalus country:&#34;colombia&#34;" ; Times: 1
+	Query: "Craugastor crassidigitus" ; Times: 1
+	Query: "Rhaebo haematiticus" ; Times: 1
+	Query: "Atelopus varius" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "country:&#34;Venezuela&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pristimantis cruentus" ; Times: 1
+	Query: "Rana warszewitschii" ; Times: 1
+	Query: "Hypsiboas" ; Times: 1
+	Query: "Lithobates warszewitschii" ; Times: 1
+	Query: "Hyalinobatrachium fleischmanni" ; Times: 2
+	Query: "Craugastor" ; Times: 1
+	Query: "Dendropsophus parviceps" ; Times: 1
+
+
+End of report.
