@@ -1,0 +1,148 @@
+Report for Institution Code MHNG, Resource mhng_amphibians
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 93
+Number of records retrieved in searches: 804
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 27
+	Country: Canada ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: El Salvador ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 4
+	Country: Germany ; Times: 6
+	Country: Spain ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Slovakia ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: United States ; Times: 29
+	Country: Ecuador ; Times: 5
+	Country: Nicaragua ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-18 ; Times: 2
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-07 ; Times: 3
+	Date: 2018-12-15 ; Times: 3
+	Date: 2018-12-14 ; Times: 2
+	Date: 2018-12-17 ; Times: 12
+	Date: 2018-12-16 ; Times: 6
+	Date: 2018-12-11 ; Times: 8
+	Date: 2018-12-10 ; Times: 5
+	Date: 2018-12-13 ; Times: 1
+	Date: 2018-12-12 ; Times: 7
+	Date: 2018-12-20 ; Times: 3
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-22 ; Times: 1
+	Date: 2018-12-23 ; Times: 1
+	Date: 2018-12-08 ; Times: 2
+	Date: 2018-12-06 ; Times: 6
+	Date: 2018-12-29 ; Times: 1
+	Date: 2018-12-04 ; Times: 4
+	Date: 2018-12-05 ; Times: 15
+	Date: 2018-12-02 ; Times: 2
+	Date: 2018-12-03 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "country:Ecuador scientificname:Bolitoglossa altamazonica " ; Times: 1
+	Query: "genus:Typhlonectes specificepithet:compressicauda" ; Times: 1
+	Query: "genus:Phyllobates specificepithet:vittatus" ; Times: 1
+	Query: "Rhaebo haematiticus" ; Times: 1
+	Query: "Cryptothylax" ; Times: 1
+	Query: "leptodactylus poecilochilus" ; Times: 1
+	Query: "MHNG 2447" ; Times: 1
+	Query: "genus:Trachycephalus specificepithet:jordani" ; Times: 1
+	Query: "herpele squalostoma" ; Times: 1
+	Query: "Gastrotheca cornuta" ; Times: 1
+	Query: "appendiculatus" ; Times: 1
+	Query: "genus:Allobates country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:Pyxicephalus specificepithet:adspersus" ; Times: 1
+	Query: "5271" ; Times: 1
+	Query: "pristimantis appendiculatus" ; Times: 1
+	Query: "Ptychadena aequiplicata mappable:1" ; Times: 1
+	Query: "genus:Breviceps specificepithet:macrops" ; Times: 1
+	Query: "Rheobates palmatus" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:iheringii" ; Times: 1
+	Query: "country:Ecuador scientificname:Bolitoglossa chica " ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "dendropsophus" ; Times: 1
+	Query: "Cruziohyla year &gt;= 1980 year &lt;= 2018" ; Times: 3
+	Query: "Eupsophus vertebralis" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:poecilochilus" ; Times: 2
+	Query: "genus:Dendrobates specificepithet:auratus" ; Times: 1
+	Query: "genus:Oophaga specificepithet:pumilio" ; Times: 1
+	Query: "Thoropa" ; Times: 1
+	Query: "scientificname:Epipedobates boulengeri " ; Times: 1
+	Query: "Haddadus binotatus mappable:1" ; Times: 21
+	Query: "Atelopus zeteki" ; Times: 3
+	Query: "genus:Pelophylax specificepithet:perezi" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "genus:Thoropa" ; Times: 1
+	Query: "order:anura (hypodactylus elassodiscus)" ; Times: 3
+	Query: "Leptodactylus labyrinthicus" ; Times: 1
+	Query: "atelopus nepiozomus" ; Times: 1
+	Query: "Leptodactylus fuscus" ; Times: 1
+	Query: "Allobates talamancae" ; Times: 2
+	Query: "hyalinobatrachium" ; Times: 1
+	Query: "Hypsiboas" ; Times: 1
+	Query: "Phyllomedusa bicolor" ; Times: 1
+	Query: "genus:Atelopus specificepithet:zeteki" ; Times: 2
+	Query: "Epipedobates tricolor" ; Times: 1
+	Query: "schillukorum" ; Times: 1
+	Query: "Diasporus year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "genus:Arthroleptis specificepithet:wahlbergii" ; Times: 1
+	Query: "Hyloscirtus phyllognathus" ; Times: 2
+	Query: "specificepithet:granulosa genus:Cochranella" ; Times: 1
+	Query: "Conraua goliath" ; Times: 1
+	Query: "genus:Typhlonectes specificepithet:natans" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:laticeps" ; Times: 2
+	Query: "genus:craugastor" ; Times: 1
+	Query: "ceratophrys" ; Times: 1
+	Query: "atelopus coynei" ; Times: 1
+	Query: "kassina senegalensis" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:bicolor" ; Times: 2
+	Query: "HYALINOBATRACHIUM FLEISCHMANNI" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:tinctorius" ; Times: 1
+	Query: "Pristimantis riveti" ; Times: 1
+	Query: "genus:Scinax specificepithet:ruber" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 809 download events in this period)
+Total number of records downloaded: 373
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Peru ; Times: 2
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-07 ; Times: 3
+	Date: 2018-12-17 ; Times: 1
+	Date: 2018-12-05 ; Times: 6
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Allobates country:&#34;Peru&#34;" ; Times: 1
+	Query: "gastrotheca" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 3
+	Query: "genus:Colostethus country:&#34;Peru&#34;" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "appendiculatus" ; Times: 1
+	Query: "country:&#34;Mexico&#34; continent:America" ; Times: 3
+
+
+End of report.
