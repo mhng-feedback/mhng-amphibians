@@ -1,0 +1,171 @@
+Report for Institution Code MHNG, Resource mhng_amphibians
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 114
+Number of records retrieved in searches: 1805
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 32
+	Country: Peru ; Times: 4
+	Country: Mexico ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Cambodia ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Sweden ; Times: 2
+	Country: Rwanda ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Ecuador ; Times: 11
+	Country: Colombia ; Times: 6
+	Country: Belgium ; Times: 32
+	Country: Brazil ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-08 ; Times: 12
+	Date: 2019-01-18 ; Times: 6
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-14 ; Times: 5
+	Date: 2019-01-15 ; Times: 2
+	Date: 2019-01-30 ; Times: 11
+	Date: 2019-01-17 ; Times: 7
+	Date: 2019-01-10 ; Times: 9
+	Date: 2019-01-23 ; Times: 5
+	Date: 2019-01-12 ; Times: 2
+	Date: 2019-01-03 ; Times: 4
+	Date: 2019-01-02 ; Times: 3
+	Date: 2019-01-29 ; Times: 1
+	Date: 2019-01-28 ; Times: 5
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-07 ; Times: 10
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-04 ; Times: 4
+	Date: 2019-01-21 ; Times: 1
+	Date: 2019-01-20 ; Times: 1
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-22 ; Times: 9
+	Date: 2019-01-24 ; Times: 4
+	Date: 2019-01-16 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "ameerega peru" ; Times: 1
+	Query: "amphibians AND Peru AND Loreto AND marañon" ; Times: 1
+	Query: "amphibia AND Peru AND Loreto AND marañon" ; Times: 1
+	Query: "1452.067" ; Times: 1
+	Query: "hemiphractus" ; Times: 1
+	Query: "Hyperolius bolifambae" ; Times: 2
+	Query: "8745" ; Times: 1
+	Query: "ameerega" ; Times: 7
+	Query: "genus:Pristimantis" ; Times: 1
+	Query: "Pristimantis truebae" ; Times: 1
+	Query: "ceratophrys ornata" ; Times: 7
+	Query: "tarsius" ; Times: 1
+	Query: "Geotrypetes seraphini" ; Times: 1
+	Query: "Siphonops" ; Times: 2
+	Query: "herpele squalostoma" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:auratus" ; Times: 1
+	Query: "729 ornata" ; Times: 1
+	Query: "Allobates" ; Times: 1
+	Query: "pseudoeurycea" ; Times: 1
+	Query: "pseudoacuminatus" ; Times: 1
+	Query: "genus:Ecnomiohyla country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Hemiphractidae" ; Times: 2
+	Query: "Ceratophrys cornuta" ; Times: 5
+	Query: "Ceratophrys calcarata" ; Times: 1
+	Query: "CM-9029" ; Times: 1
+	Query: "order:anura (cochranae)" ; Times: 1
+	Query: "genus:Ptychadena continent:Africa year &gt;= 1990" ; Times: 1
+	Query: "1452 ornata" ; Times: 1
+	Query: "specificepithet:superciliaris family:Bufonidae country:&#34;congo&#34;" ; Times: 1
+	Query: "genus:Hyperolius specificepithet:ocellatus" ; Times: 1
+	Query: "Pristimantis unistrigatus" ; Times: 1
+	Query: "Ceratophrys" ; Times: 4
+	Query: "MHNG 677.033" ; Times: 1
+	Query: "Eleutherodactylus elegans" ; Times: 1
+	Query: "dendropsophus labialis" ; Times: 1
+	Query: "(noblella myrmecoides)" ; Times: 2
+	Query: "ecnomiohyla" ; Times: 2
+	Query: "Epicrionops" ; Times: 3
+	Query: "ceratophrys cornuta" ; Times: 3
+	Query: "Atelopus balios" ; Times: 1
+	Query: "order:anura (myrmecoides)" ; Times: 1
+	Query: "locality:Reserva forestal" ; Times: 3
+	Query: "ceratophrys" ; Times: 1
+	Query: "Atelopus ignescens" ; Times: 2
+	Query: "Haddadus binotatus mappable:1" ; Times: 1
+	Query: "Atelopus zeteki" ; Times: 1
+	Query: "CM 9029" ; Times: 1
+	Query: "genus:Pipa specificepithet:pipa" ; Times: 1
+	Query: "Pristimantis peruvianus" ; Times: 1
+	Query: "Pristimantis curtipes" ; Times: 1
+	Query: "Atelopus lynchi" ; Times: 1
+	Query: "genus:Eupemphix specificepithet:nattereri" ; Times: 1
+	Query: "Pristimantis cryophilius" ; Times: 1
+	Query: "Switzerland" ; Times: 1
+	Query: "Atelopus mindoensis" ; Times: 1
+	Query: "2252.062" ; Times: 1
+	Query: "Atelopus arthuri" ; Times: 2
+	Query: "Atelopus longirostris" ; Times: 1
+	Query: "Pristimantis actites" ; Times: 2
+	Query: "genus:Leptopelis specificepithet:bocagii" ; Times: 1
+	Query: "Pristimantis elegans" ; Times: 1
+	Query: "837 ornata" ; Times: 1
+	Query: "hyperolius argus" ; Times: 1
+	Query: "genus:Oophaga specificepithet:histrionica" ; Times: 1
+	Query: "Atelopus varius" ; Times: 1
+	Query: "Ceratophrys ornata" ; Times: 1
+	Query: "1067 calcarata" ; Times: 1
+	Query: "2252 cornuta" ; Times: 1
+	Query: "specificepithet:superciliaris family:Bufonidae" ; Times: 2
+	Query: "Ucayali AND Peru AND Loreto" ; Times: 1
+	Query: "cryophilius" ; Times: 1
+	Query: "Herpele squalostoma" ; Times: 1
+	Query: "729.052" ; Times: 1
+	Query: "Hyloscirtus" ; Times: 1
+	Query: "lagunas" ; Times: 1
+	Query: "Hyalinobatrachium fleischmanni" ; Times: 1
+	Query: "837.056" ; Times: 1
+	Query: "Atelopus pachydermus" ; Times: 1
+	Query: "Scinax wandae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 962 download events in this period)
+Total number of records downloaded: 691
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: United Kingdom ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-02 ; Times: 3
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-16 ; Times: 2
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-11 ; Times: 1
+	Date: 2019-01-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Epicrionops" ; Times: 1
+	Query: "Geotrypetes seraphini" ; Times: 1
+	Query: "Gymnophiona" ; Times: 1
+	Query: "herpele squalostoma" ; Times: 1
+	Query: "Marañon" ; Times: 1
+	Query: "Hemiphractidae" ; Times: 1
+	Query: "specificepithet:bislineata genus:Eurycea" ; Times: 1
+	Query: "Herpele squalostoma" ; Times: 1
+	Query: "class:Amphibia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "country:&#34;uruguay&#34;" ; Times: 1
+	Query: "Allobates" ; Times: 1
+
+
+End of report.
