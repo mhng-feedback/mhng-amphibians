@@ -1,0 +1,187 @@
+Report for Institution Code MHNG, Resource mhng_amphibians
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 211
+Number of records retrieved in searches: 4678
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 76
+	Country: United Kingdom ; Times: 5
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: Costa Rica ; Times: 1
+	Country: Malta ; Times: 1
+	Country: United States ; Times: 33
+	Country: Slovenia ; Times: 2
+	Country: Germany ; Times: 11
+	Country: Spain ; Times: 2
+	Country: Colombia ; Times: 5
+	Country: Japan ; Times: 2
+	Country: Argentina ; Times: 63
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-09 ; Times: 1
+	Date: 2019-03-27 ; Times: 17
+	Date: 2019-03-26 ; Times: 26
+	Date: 2019-03-25 ; Times: 8
+	Date: 2019-03-24 ; Times: 4
+	Date: 2019-03-23 ; Times: 2
+	Date: 2019-03-08 ; Times: 15
+	Date: 2019-03-20 ; Times: 3
+	Date: 2019-03-05 ; Times: 4
+	Date: 2019-03-04 ; Times: 3
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-06 ; Times: 1
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-29 ; Times: 63
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-15 ; Times: 1
+	Date: 2019-03-30 ; Times: 13
+	Date: 2019-03-31 ; Times: 5
+	Date: 2019-03-03 ; Times: 2
+	Date: 2019-03-18 ; Times: 4
+	Date: 2019-03-19 ; Times: 2
+	Date: 2019-03-17 ; Times: 1
+	Date: 2019-03-14 ; Times: 3
+	Date: 2019-03-28 ; Times: 17
+	Date: 2019-03-13 ; Times: 3
+	Date: 2019-03-10 ; Times: 7
+	Date: 2019-03-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Dendropsophus labialis" ; Times: 4
+	Query: "Phrynobatrachus parvulus mappable:1" ; Times: 1
+	Query: "Discoglossus pictus" ; Times: 1
+	Query: "Atelopus exiguus" ; Times: 1
+	Query: "Hymenochirus" ; Times: 2
+	Query: "Phyllomedusa bicolor" ; Times: 1
+	Query: "genus:Hyla specificepithet:arborea" ; Times: 2
+	Query: "Caecilia nigricans mappable:1" ; Times: 1
+	Query: "odontophrynus" ; Times: 1
+	Query: "Diasporus gularis mappable:1" ; Times: 1
+	Query: "Leptodactylus pentadactylus mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:talamancae genus:Allobates institutioncode:MHNG" ; Times: 2
+	Query: "Pristimantis walkeri mappable:1" ; Times: 1
+	Query: "Elachistocleis ovalis mappable:1" ; Times: 1
+	Query: "Pseudopaludicola mystacalis mappable:1" ; Times: 1
+	Query: "Scinax fuscomarginatus mappable:1" ; Times: 1
+	Query: "Pristimantis subsigillatus mappable:1" ; Times: 1
+	Query: "Physalaemus santafecinus mappable:1" ; Times: 1
+	Query: "Leptodactylus labyrinthicus mappable:1" ; Times: 1
+	Query: "Hyloxalus subpunctatus" ; Times: 2
+	Query: "bufo angola" ; Times: 1
+	Query: "vntype:specimen institutioncode:MHNG" ; Times: 1
+	Query: "Atelopus zeteki" ; Times: 2
+	Query: "Typhlonectes compressicauda compressicauda mappable:1" ; Times: 7
+	Query: "Craugastor longirostris mappable:1" ; Times: 1
+	Query: "Chiasmocleis bassleri mappable:1" ; Times: 1
+	Query: "Phrynobatrachus calcaratus mappable:1" ; Times: 1
+	Query: "Ranitomeya ecuador" ; Times: 4
+	Query: "Physalaemus nattereri mappable:1" ; Times: 1
+	Query: "Leptopelis millsoni mappable:1" ; Times: 1
+	Query: "haddadus binotatus mappable:1" ; Times: 1
+	Query: "Agalychnis callidryas mappable:1" ; Times: 1
+	Query: "Adenomera andreae mappable:1" ; Times: 2
+	Query: "specificepithet:acerus genus:Pristimantis" ; Times: 1
+	Query: "Smilisca phaeota mappable:1" ; Times: 1
+	Query: "genus:Elachistocleis specificepithet:bicolor" ; Times: 1
+	Query: "genus:Pristimantis specificepithet:elegans" ; Times: 1
+	Query: "Scotobleps gabonicus" ; Times: 6
+	Query: "Elachistocleis bicolor mappable:1" ; Times: 1
+	Query: "CM 6855" ; Times: 1
+	Query: "Leptodactylus mystacinus mappable:1" ; Times: 1
+	Query: "Craugastor rhodopis mappable:1" ; Times: 1
+	Query: "Hyperolius concolor mappable:1" ; Times: 1
+	Query: "tota" ; Times: 1
+	Query: "Hypsiboas rosenbergi mappable:1" ; Times: 1
+	Query: "Amphibia ventrimaculatus" ; Times: 2
+	Query: "ventrimaculatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:femoralis genus:Allobates institutioncode:MHNG" ; Times: 1
+	Query: "bassleri" ; Times: 1
+	Query: "specificepithet:talamancae institutioncode:MHNG" ; Times: 1
+	Query: "Leptodactylus gracilis mappable:1" ; Times: 1
+	Query: "Leptodactylus chaquensis mappable:1" ; Times: 1
+	Query: "Pristimantis ridens mappable:1" ; Times: 1
+	Query: "genus:Atelopus specificepithet:zeteki" ; Times: 1
+	Query: "Epipedobates vntype:specimen institutioncode:MHNG" ; Times: 1
+	Query: "Siphonops paulensis mappable:1" ; Times: 2
+	Query: "Pristimantis latidiscus mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:boulengeri genus:Epipedobates institutioncode:MHNG" ; Times: 1
+	Query: "genus:Atelopus specificepithet:longirostris" ; Times: 1
+	Query: "Scinax nasicus mappable:1" ; Times: 1
+	Query: "Epipedobates boulengeri mappable:1" ; Times: 1
+	Query: "Allobates talamancae mappable:1" ; Times: 1
+	Query: "Oophaga histrionica mappable:1" ; Times: 1
+	Query: "Physalaemus albonotatus mappable:1" ; Times: 1
+	Query: "Allobates marchesianus mappable:1" ; Times: 1
+	Query: "Rhinella fernandezae mappable:1" ; Times: 1
+	Query: "Lithodytes lineatus mappable:1" ; Times: 1
+	Query: "ranitomeya" ; Times: 1
+	Query: "Rhaebo haematiticus mappable:1" ; Times: 2
+	Query: "specificepithet:actites genus:Pristimantis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Leptodactylus mystaceus mappable:1" ; Times: 1
+	Query: "Pristimantis unistrigatus" ; Times: 2
+	Query: "order:anura country:&#34;panama&#34;" ; Times: 1
+	Query: "Hemisus perreti mappable:1" ; Times: 1
+	Query: "Hyperolius lateralis mappable:1" ; Times: 1
+	Query: "Pristimantis parvillus mappable:1" ; Times: 1
+	Query: "Haddadus binotatus mappable:1" ; Times: 49
+	Query: "Engystomops petersi mappable:1" ; Times: 1
+	Query: "genus:Agalychnis specificepithet:callidryas" ; Times: 1
+	Query: "hemiphractus" ; Times: 1
+	Query: "Physalaemus biligonigerus mappable:1" ; Times: 1
+	Query: "Phrynobatrachus hylaios mappable:1" ; Times: 1
+	Query: "Hyperolius cinnamomeoventris mappable:1" ; Times: 1
+	Query: "Ameerega vntype:specimen institutioncode:MHNG" ; Times: 1
+	Query: "Physalaemus cuvieri mappable:1" ; Times: 2
+	Query: "Ptychadena aequiplicata mappable:1" ; Times: 1
+	Query: "Typhlonectes compressicauda mappable:1" ; Times: 7
+	Query: "Chiasmocleis albopunctata mappable:1" ; Times: 1
+	Query: "Hyloxalus awa mappable:1" ; Times: 1
+	Query: "Scinax nebulosus mappable:1" ; Times: 1
+	Query: "98-047" ; Times: 1
+	Query: "Lithobates vaillanti mappable:1" ; Times: 1
+	Query: "family:Heleophrynidae" ; Times: 3
+	Query: "Pristimantis achatinus mappable:1" ; Times: 1
+	Query: "Leptodactylus labrosus mappable:1" ; Times: 1
+	Query: "exiguus" ; Times: 2
+	Query: "Dendropsophus sanborni mappable:1" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:pentadactylus" ; Times: 2
+	Query: "specificepithet:acerus genus:Pristimantis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Leptodactylus bolivianus mappable:1" ; Times: 1
+	Query: "Ptychadena anchietae mappable:1" ; Times: 1
+	Query: "Siphonops annulatus mappable:1" ; Times: 2
+	Query: "Odontophrynus americanus mappable:1" ; Times: 1
+	Query: "Siphonops leucoderus mappable:1" ; Times: 2
+	Query: "Leptodactylus albilabris" ; Times: 1
+	Query: "Phrynobatrachus latifrons mappable:1" ; Times: 1
+	Query: "Leptodactylus podicipinus mappable:1" ; Times: 1
+	Query: "pleurodema thaul" ; Times: 1
+	Query: "CM 3119" ; Times: 1
+	Query: "CM 5906" ; Times: 2
+	Query: "genus:Phyllomedusa specificepithet:vaillantii" ; Times: 2
+	Query: "genus:Bolitoglossa country:&#34;Colombia&#34;" ; Times: 2
+	Query: "genus:Leptodactylus specificepithet:labyrinthicus" ; Times: 1
+	Query: "Rhinella marinus" ; Times: 1
+	Query: "Ptychadena perreti mappable:1" ; Times: 1
+	Query: "ranitomeya ecuador" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1281 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
