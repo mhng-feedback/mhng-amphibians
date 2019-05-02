@@ -1,0 +1,191 @@
+Report for Institution Code MHNG, Resource mhng_amphibians
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 140
+Number of records retrieved in searches: 2466
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United Kingdom ; Times: 5
+	Country: Bangladesh ; Times: 3
+	Country: Mexico ; Times: 11
+	Country: Indonesia ; Times: 1
+	Country: Costa Rica ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 51
+	Country: Sweden ; Times: 2
+	Country: China ; Times: 6
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 8
+	Country: Paraguay ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Argentina ; Times: 3
+	Country: Brazil ; Times: 41
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 2
+	Date: 2019-04-19 ; Times: 2
+	Date: 2019-04-18 ; Times: 3
+	Date: 2019-04-23 ; Times: 4
+	Date: 2019-04-12 ; Times: 14
+	Date: 2019-04-11 ; Times: 2
+	Date: 2019-04-10 ; Times: 4
+	Date: 2019-04-17 ; Times: 7
+	Date: 2019-04-16 ; Times: 3
+	Date: 2019-04-15 ; Times: 8
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-30 ; Times: 25
+	Date: 2019-04-02 ; Times: 3
+	Date: 2019-04-03 ; Times: 3
+	Date: 2019-04-22 ; Times: 9
+	Date: 2019-04-05 ; Times: 1
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-21 ; Times: 5
+	Date: 2019-04-26 ; Times: 3
+	Date: 2019-04-27 ; Times: 9
+	Date: 2019-04-24 ; Times: 5
+	Date: 2019-04-25 ; Times: 7
+	Date: 2019-04-28 ; Times: 2
+	Date: 2019-04-29 ; Times: 13
+	Date: 2019-04-08 ; Times: 3
+	Date: 2019-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:adelphus genus:Arthroleptis institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "Rhinodermatidae" ; Times: 1
+	Query: "specificepithet:modestus genus:Leptopelis institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "specificepithet:bicolor genus:Leptodactylodon institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "country:&#34;Uruguay&#34;" ; Times: 1
+	Query: "genus:Dendropsophus specificepithet:sanborni" ; Times: 1
+	Query: "Hyperolius platyceps mappable:1" ; Times: 2
+	Query: "specificepithet:camerunensis genus:Amietophrynus institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "specificepithet:schioetzi genus:Cardioglossa institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "specificepithet:pulchra genus:Cardioglossa institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "genus:Dermatonotus specificepithet:muelleri" ; Times: 1
+	Query: "Alexteroon obstetricans mappable:1" ; Times: 1
+	Query: "Opisthothylax immaculatus mappable:1" ; Times: 1
+	Query: "specificepithet:tuberosus genus:Amietophrynus institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Arthroleptis institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "Leptopelis flavomaculatus" ; Times: 1
+	Query: "Hyperolius bolifambae mappable:1" ; Times: 1
+	Query: "specificepithet:bambutensis genus:Werneria institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "specificepithet:corrugatus genus:Nyctibates institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "specificepithet:gracilipes genus:Amietophrynus institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "genus:Phyllobates specificepithet:vittatus" ; Times: 1
+	Query: "Scotobleps gabonicus" ; Times: 1
+	Query: "genus:Siphonops specificepithet:annulatus" ; Times: 1
+	Query: "genus:Scinax specificepithet:squalirostris" ; Times: 1
+	Query: "specificepithet:parvipalmata genus:Wolterstorffina institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "genus:Breviceps specificepithet:mossambicus" ; Times: 1
+	Query: "specificepithet:adolfifriederici genus:Arthroleptis institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "Leptodactylus melanonotus" ; Times: 1
+	Query: "Atelopus palmatus" ; Times: 1
+	Query: "genus:Xenopus specificepithet:fraseri" ; Times: 1
+	Query: "Ceratophrys" ; Times: 2
+	Query: "specificepithet:schioetzi genus:Astylosternus institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "specificepithet:melanogaster genus:Cardioglossa institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "Hyperolius mosaicus mappable:1" ; Times: 3
+	Query: "genus:Scinax specificepithet:quinquefasciatus" ; Times: 1
+	Query: "specificepithet:pulchella family:hylidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "cruziohyla" ; Times: 1
+	Query: "genus:Eupemphix specificepithet:nattereri" ; Times: 1
+	Query: "Dendropsophus microcephalus" ; Times: 2
+	Query: "specificepithet:gratiosa genus:Cardioglossa institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "locality:Para Mus" ; Times: 1
+	Query: "genus:Thoropa specificepithet:miliaris" ; Times: 1
+	Query: "genus:Typhlonectes specificepithet:natans" ; Times: 1
+	Query: "specificepithet:millsoni genus:Leptopelis institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "Arthroleptis poecilonotus" ; Times: 6
+	Query: "Lepidobatrachus" ; Times: 2
+	Query: "genus:Pelophylax specificepithet:grafi" ; Times: 1
+	Query: "PARA MUS" ; Times: 1
+	Query: "Eupsophus" ; Times: 1
+	Query: "ranitomeya" ; Times: 1
+	Query: "Alsodes" ; Times: 1
+	Query: "dendrobates truncatus" ; Times: 1
+	Query: "Phyllobates vittatus" ; Times: 1
+	Query: "Batrachyla" ; Times: 1
+	Query: "Hyperolius phantasticus mappable:1" ; Times: 2
+	Query: "Haddadus binotatus mappable:1" ; Times: 15
+	Query: "genus:Chiasmocleis specificepithet:albopunctata" ; Times: 1
+	Query: "genus:Agalychnis specificepithet:callidryas" ; Times: 1
+	Query: "Atelognathus" ; Times: 1
+	Query: "Leptodactylus latinasus" ; Times: 1
+	Query: "genus:Siphonops specificepithet:paulensis" ; Times: 1
+	Query: "Amietophrynus regularis" ; Times: 1
+	Query: "Hyperolius tuberculatus mappable:1" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:tinctorius" ; Times: 1
+	Query: "genus:Oophaga specificepithet:histrionica" ; Times: 2
+	Query: "Ceratophrys ornata" ; Times: 1
+	Query: "leptodactylus fuscus" ; Times: 1
+	Query: "Hyperolius pardalis mappable:1" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:cornuta" ; Times: 1
+	Query: "specificepithet:tandyi genus:Werneria institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "hyla granosa" ; Times: 2
+	Query: "Ranitomeya" ; Times: 1
+	Query: "specificepithet:parviceps " ; Times: 1
+	Query: "specificepithet:afra genus:Nectophryne institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "specificepithet:mertensiana genus:Werneria institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:ornata" ; Times: 1
+	Query: "scientificname:Atelopus coynei " ; Times: 1
+	Query: "hyalinobatrachium fleischmanni" ; Times: 8
+	Query: "specificepithet:steindachneri genus:Amietophrynus institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "Haddadus binotatus" ; Times: 1
+	Query: "Cardioglossa escalerae mappable:1" ; Times: 1
+	Query: "genus:Physalaemus specificepithet:cuvieri" ; Times: 1
+	Query: "hemiphractus bubalus" ; Times: 4
+	Query: "Leptopelis viridis" ; Times: 2
+	Query: "specificepithet:oreas genus:Cardioglossa institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "oophaga pumilio" ; Times: 1
+	Query: "genus:Cruziohyla specificepithet:craspedopus" ; Times: 3
+	Query: "recordedby:wellman year &gt;= 1960 year &lt;= 1960 month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "Leptodactylus fuscus" ; Times: 2
+	Query: "Rhinoderma" ; Times: 1
+	Query: "genus:Craugastor specificepithet:fitzingeri" ; Times: 1
+	Query: "leptodactylus melaNONOTUS" ; Times: 1
+	Query: "specificepithet:robustus genus:Trichobatrachus institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "specificepithet:batesii genus:Nectophryne institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "specificepithet:elegans genus:Cardioglossa institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "genus:Pleurodema specificepithet:nebulosum" ; Times: 1
+	Query: "Odontophrynus" ; Times: 1
+	Query: "hemiphractus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1263 download events in this period)
+Total number of records downloaded: 340
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-12 ; Times: 10
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-17 ; Times: 2
+	Date: 2019-04-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Batrachyla" ; Times: 1
+	Query: "Proceratophrys" ; Times: 1
+	Query: "Alsodes" ; Times: 1
+	Query: "Eupsophus" ; Times: 1
+	Query: "class:AMPHIBIA country:&#34;Perú&#34;" ; Times: 1
+	Query: "Rhinodermatidae" ; Times: 1
+	Query: "dendrobates truncatus" ; Times: 1
+	Query: "Lepidobatrachus" ; Times: 1
+	Query: "Odontophrynus" ; Times: 1
+	Query: "Atelognathus" ; Times: 1
+	Query: "Leptodactylus latinasus" ; Times: 1
+	Query: "Rhinoderma" ; Times: 1
+	Query: "country:&#34;Uruguay&#34;" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "vntype:specimen class:Amphibia country:&#34;Perú&#34;" ; Times: 1
+
+
+End of report.
