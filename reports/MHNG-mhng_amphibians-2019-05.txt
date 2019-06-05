@@ -1,0 +1,198 @@
+Report for Institution Code MHNG, Resource mhng_amphibians
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 262
+Number of records retrieved in searches: 4333
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 143
+	Country: United States ; Times: 35
+	Country: Italy ; Times: 1
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 14
+	Country: Panama ; Times: 1
+	Country: Finland ; Times: 2
+	Country: Czechia ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Paraguay ; Times: 1
+	Country: Croatia ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Gabon ; Times: 11
+	Country: Colombia ; Times: 2
+	Country: Germany ; Times: 32
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 3
+	Date: 2019-05-31 ; Times: 1
+	Date: 2019-05-09 ; Times: 8
+	Date: 2019-05-08 ; Times: 101
+	Date: 2019-05-07 ; Times: 6
+	Date: 2019-05-06 ; Times: 17
+	Date: 2019-05-05 ; Times: 7
+	Date: 2019-05-04 ; Times: 1
+	Date: 2019-05-03 ; Times: 5
+	Date: 2019-05-02 ; Times: 5
+	Date: 2019-05-01 ; Times: 2
+	Date: 2019-05-24 ; Times: 2
+	Date: 2019-05-27 ; Times: 6
+	Date: 2019-05-26 ; Times: 4
+	Date: 2019-05-21 ; Times: 11
+	Date: 2019-05-20 ; Times: 6
+	Date: 2019-05-23 ; Times: 10
+	Date: 2019-05-22 ; Times: 6
+	Date: 2019-05-29 ; Times: 8
+	Date: 2019-05-28 ; Times: 7
+	Date: 2019-05-18 ; Times: 1
+	Date: 2019-05-10 ; Times: 7
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-12 ; Times: 1
+	Date: 2019-05-14 ; Times: 8
+	Date: 2019-05-15 ; Times: 8
+	Date: 2019-05-16 ; Times: 14
+	Date: 2019-05-17 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "allobates femoralis" ; Times: 1
+	Query: "genus:Hymenochirus specificepithet:boettgeri" ; Times: 1
+	Query: "ameerega" ; Times: 2
+	Query: "genus:odorrana" ; Times: 1
+	Query: "Cardioglossa elegans mappable:1" ; Times: 2
+	Query: "Physalaemus albonotatus" ; Times: 1
+	Query: "Scotobleps gabonicus" ; Times: 1
+	Query: "hyloxalus. institutioncode:MHNG" ; Times: 1
+	Query: "specificepithet:bellii genus:Pseudoeurycea" ; Times: 2
+	Query: "MHNG-AMP/ERPI-2500.051" ; Times: 1
+	Query: "dendrobates auratus" ; Times: 5
+	Query: "20 PERU" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 1
+	Query: "specificepithet:colonnea genus:Bolitoglossa" ; Times: 1
+	Query: "genus:Conraua specificepithet:robusta" ; Times: 1
+	Query: "scientificname:Atelopus guanujo " ; Times: 1
+	Query: "floresta" ; Times: 1
+	Query: "scientificname:Atelopus exiguus " ; Times: 1
+	Query: "scientificname:Atelopus ignescens " ; Times: 1
+	Query: "17485" ; Times: 1
+	Query: "Scinax ruber Peru" ; Times: 1
+	Query: "colostethus machalilla MHNG" ; Times: 1
+	Query: "hyloxalus toachi" ; Times: 3
+	Query: "scientificname:Atelopus arthuri " ; Times: 1
+	Query: "prolatus" ; Times: 1
+	Query: "Leptopelis notatus mappable:1" ; Times: 1
+	Query: "allobates talamancae MHNG" ; Times: 1
+	Query: "genus:Scinax specificepithet:nasicus" ; Times: 1
+	Query: "18 PERU" ; Times: 1
+	Query: "genus:Atelognathus specificepithet:praebasalticus" ; Times: 1
+	Query: "genus:Phrynobatrachus country:&#34;Cameroon&#34;" ; Times: 2
+	Query: "genus:Pristimantis specificepithet:elegans" ; Times: 1
+	Query: "genus:Hyalinobatrachium specificepithet:fleischmanni" ; Times: 1
+	Query: "lithobates vaillanti" ; Times: 1
+	Query: "17 PERU" ; Times: 1
+	Query: "specificepithet:adolfifriederici genus:Arthroleptis institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "genus:Pseudopaludicola specificepithet:falcipes" ; Times: 2
+	Query: "Xenopus laevis" ; Times: 1
+	Query: "Thoropa miliaris mappable:1" ; Times: 4
+	Query: "Pleurodema bufoninum" ; Times: 2
+	Query: "Hypsiboas boans" ; Times: 2
+	Query: "genus:Xenopus specificepithet:gilli" ; Times: 1
+	Query: "Arthroleptis variabilis mappable:1" ; Times: 1
+	Query: "ceratophrys" ; Times: 1
+	Query: "Leptopelis brevirostris mappable:1" ; Times: 1
+	Query: "rhinella crucifer" ; Times: 3
+	Query: "genus:Atelopus specificepithet:zeteki" ; Times: 1
+	Query: "scientificname:Atelopus elegans " ; Times: 1
+	Query: "Allobates femoralis MHNG" ; Times: 1
+	Query: "allobates talamancae" ; Times: 1
+	Query: "biolat" ; Times: 1
+	Query: "Atelopus varius" ; Times: 2
+	Query: "genus:Scinax specificepithet:acuminatus" ; Times: 2
+	Query: "genus:Phyllomedusa specificepithet:bicolor" ; Times: 2
+	Query: "rheobates" ; Times: 1
+	Query: "Arthroleptis adolfifriederici" ; Times: 1
+	Query: "Hypsiboas punctatus" ; Times: 13
+	Query: "Arthroleptis poecilonotus" ; Times: 4
+	Query: "Pristimantis duellmani" ; Times: 1
+	Query: "ranitomeya" ; Times: 1
+	Query: "colostethus stepheni MHNG" ; Times: 1
+	Query: "dendrophryniscus" ; Times: 2
+	Query: "Phrynobatrachus auritus" ; Times: 4
+	Query: "allobates kingsburyi" ; Times: 3
+	Query: "allobates. institutioncode:MHNG" ; Times: 1
+	Query: "hyloxalus toachi. institutioncode:MHNG" ; Times: 1
+	Query: "Haddadus binotatus mappable:1" ; Times: 114
+	Query: "scientificname:Atelopus balios " ; Times: 1
+	Query: "anomaloglossus" ; Times: 1
+	Query: "specificepithet:BOLIVIANUS genus:LEPTODACTYLUS" ; Times: 1
+	Query: "hypopachus variolosus" ; Times: 1
+	Query: "Astylosternus diadematus mappable:1" ; Times: 3
+	Query: "Astylosternus fallax" ; Times: 1
+	Query: "craugastor rugulosus" ; Times: 1
+	Query: "country:Ecuador scientificname:Caecilia orientalis " ; Times: 1
+	Query: "Ameerega macero" ; Times: 2
+	Query: "genus:Afrixalus specificepithet:vittiger" ; Times: 1
+	Query: "Arthroleptis adelphus" ; Times: 1
+	Query: "scientificname:Atelopus coynei " ; Times: 1
+	Query: "engystomops pustulosus" ; Times: 2
+	Query: "genus:Leptodactylus specificepithet:melanonotus" ; Times: 1
+	Query: "Haddadus binotatus" ; Times: 1
+	Query: "Telmatobius marmoratus" ; Times: 2
+	Query: "colostethus MHNG" ; Times: 4
+	Query: "hymenochirus" ; Times: 1
+	Query: "institutioncode:MHNG" ; Times: 1
+	Query: "Arthroleptis taeniatus mappable:1" ; Times: 1
+	Query: "genus:Phrynobatrachus auritus country:&#34;Cameroon&#34;" ; Times: 1
+	Query: "ameerega. institutioncode:MHNG" ; Times: 1
+	Query: "allobates" ; Times: 1
+	Query: "Leptodactylus fuscus" ; Times: 1
+	Query: "rana perezi" ; Times: 1
+	Query: "garbei" ; Times: 1
+	Query: "Cardioglossa nigromaculata mappable:1" ; Times: 2
+	Query: "epipedobates boulengeri MHNG" ; Times: 1
+	Query: "genus:Dendropsophus specificepithet:labialis" ; Times: 1
+	Query: "15 PERU" ; Times: 1
+	Query: "Siphonops annulatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 940 download events in this period)
+Total number of records downloaded: 6630
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-27 ; Times: 2
+	Date: 2019-05-26 ; Times: 1
+	Date: 2019-05-21 ; Times: 3
+	Date: 2019-05-28 ; Times: 2
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-14 ; Times: 3
+	Date: 2019-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Anura" ; Times: 1
+	Query: "Atelopus varius" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:subpalmata genus:Bolitoglossa" ; Times: 1
+	Query: "class:Amphibia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Rana draytonii vntype:specimen" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Phrynobatrachus natalensis" ; Times: 1
+	Query: "Rana aurora draytonii vntype:specimen" ; Times: 1
+	Query: "specificepithet:platydactyla genus:Bolitoglossa" ; Times: 1
+	Query: "Siphonops annulatus" ; Times: 1
+	Query: "specificepithet:bellii genus:Pseudoeurycea" ; Times: 1
+	Query: "Hypsiboas punctatus" ; Times: 1
+
+
+End of report.
