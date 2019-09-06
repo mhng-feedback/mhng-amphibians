@@ -1,0 +1,201 @@
+Report for Institution Code MHNG, Resource mhng_amphibians
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 156
+Number of records retrieved in searches: 3713
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 35
+	Country: Canada ; Times: 1
+	Country: Uruguay ; Times: 1
+	Country: Poland ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 33
+	Country: Germany ; Times: 12
+	Country: Colombia ; Times: 12
+	Country: Argentina ; Times: 26
+	Country: United States ; Times: 27
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-09 ; Times: 3
+	Date: 2019-08-08 ; Times: 8
+	Date: 2019-08-01 ; Times: 3
+	Date: 2019-08-07 ; Times: 2
+	Date: 2019-08-19 ; Times: 3
+	Date: 2019-08-02 ; Times: 3
+	Date: 2019-08-23 ; Times: 17
+	Date: 2019-08-17 ; Times: 1
+	Date: 2019-08-16 ; Times: 3
+	Date: 2019-08-15 ; Times: 10
+	Date: 2019-08-14 ; Times: 1
+	Date: 2019-08-13 ; Times: 5
+	Date: 2019-08-05 ; Times: 34
+	Date: 2019-08-06 ; Times: 1
+	Date: 2019-08-29 ; Times: 23
+	Date: 2019-08-26 ; Times: 7
+	Date: 2019-08-27 ; Times: 11
+	Date: 2019-08-25 ; Times: 2
+	Date: 2019-08-22 ; Times: 11
+	Date: 2019-08-30 ; Times: 4
+	Date: 2019-08-20 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Bolitoglossa palmata" ; Times: 2
+	Query: "genus:Hyla specificepithet:arborea" ; Times: 1
+	Query: "Rana alticola" ; Times: 1
+	Query: "Osteocephalus fuscifacies" ; Times: 1
+	Query: "Acanthixalus" ; Times: 1
+	Query: "Centrolene lynchi" ; Times: 1
+	Query: "Pristimantis subsigillatus" ; Times: 1
+	Query: "Caecilia nigricans mappable:1" ; Times: 1
+	Query: "specificepithet:latifrons genus:Phrynobatrachus" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "Pristimantis fenestratus" ; Times: 1
+	Query: "Oophaga pumilio mappable:1" ; Times: 1
+	Query: "Scinax squalirostris mappable:1" ; Times: 1
+	Query: "Pleurodema nebulosum" ; Times: 1
+	Query: "Hyla armata institutioncode:MHNG" ; Times: 2
+	Query: "Nyctimantis rugiceps" ; Times: 1
+	Query: "Leptodactylus podicipinus" ; Times: 1
+	Query: "Incilius coniferus" ; Times: 1
+	Query: "Typhlonectes compressicauda compressicauda mappable:1" ; Times: 1
+	Query: "Opisthothylax" ; Times: 1
+	Query: "Cryptothylax greshoffii" ; Times: 1
+	Query: "Chiasmocleis bassleri mappable:1" ; Times: 1
+	Query: "Siphonops paulensis mappable:1" ; Times: 1
+	Query: "Leptodactylus ocellatus" ; Times: 1
+	Query: "Rana warszewitschii mappable:1" ; Times: 1
+	Query: "Osteocephalus mutabor" ; Times: 1
+	Query: "Pristimantis toftae" ; Times: 1
+	Query: "Pristimantis ridens" ; Times: 1
+	Query: "Bufo funereus" ; Times: 1
+	Query: "Scinax ruber" ; Times: 1
+	Query: "Pristimantis ockendeni" ; Times: 1
+	Query: "genus:Ranitomeya  specificepithet:reticulatus" ; Times: 1
+	Query: "genus:Geotrypetes specificepithet:seraphini" ; Times: 1
+	Query: "phrynopus peruvianus" ; Times: 1
+	Query: "ventrimaculatus" ; Times: 1
+	Query: "genus:Rhaebo hypomelas" ; Times: 1
+	Query: "Hyloscirtus lindae" ; Times: 1
+	Query: "Cochranella granulosa" ; Times: 1
+	Query: "Rana draytonii" ; Times: 3
+	Query: "Nymphargus griffithsi" ; Times: 1
+	Query: "Rana aurora" ; Times: 3
+	Query: "Ceratophrys cornuta mappable:1" ; Times: 1
+	Query: "Osteocephalus leprieurii" ; Times: 2
+	Query: "Monard" ; Times: 1
+	Query: "Telmatobius" ; Times: 1
+	Query: "Hyla armata" ; Times: 2
+	Query: "Nyctibates" ; Times: 1
+	Query: "Leptodactylus labrosus" ; Times: 1
+	Query: "Hyalinobatrachium bergeri" ; Times: 2
+	Query: "Rana aurora draytonii" ; Times: 6
+	Query: "genus:Atelopus specificepithet:longirostris" ; Times: 1
+	Query: "genus:Typhlonectes specificepithet:natans" ; Times: 1
+	Query: "specificepithet:hylaios genus:Phrynobatrachus" ; Times: 2
+	Query: "Engystomops" ; Times: 1
+	Query: "Centrolene prosoblepon" ; Times: 1
+	Query: "Trichobatrachus robustus" ; Times: 1
+	Query: "genus:Pristimantis specificepithet:ridens" ; Times: 2
+	Query: "Dendrobates azureus" ; Times: 2
+	Query: "genus:Allobates specificepithet:femoralis" ; Times: 1
+	Query: "pseudoeurycea" ; Times: 1
+	Query: "Oophaga pumilio" ; Times: 1
+	Query: "Amietophrynus funereus mappable:1" ; Times: 2
+	Query: "Leptodactylus poecilochilus mappable:1" ; Times: 1
+	Query: "Hyloscirtus ptychodactylus" ; Times: 2
+	Query: "Cardioglossa" ; Times: 3
+	Query: "Leptodactylodon" ; Times: 1
+	Query: "dendrophryniscus" ; Times: 2
+	Query: "Hemisus perreti mappable:1" ; Times: 1
+	Query: "Osteocephalus taurinus mappable:1" ; Times: 1
+	Query: "Dendropsophus triangulum" ; Times: 1
+	Query: "Geotrypetes seraphini" ; Times: 1
+	Query: "Haddadus binotatus mappable:1" ; Times: 1
+	Query: "genus:Agalychnis specificepithet:callidryas" ; Times: 1
+	Query: "Acanthixalus spinosus" ; Times: 1
+	Query: "Astylosternus" ; Times: 1
+	Query: "3541" ; Times: 2
+	Query: "Phrynobatrachus hylaios mappable:1" ; Times: 1
+	Query: "Craugastor fitzingeri mappable:1" ; Times: 1
+	Query: "Agalychnis litodryas" ; Times: 1
+	Query: "Typhlonectes compressicauda mappable:1" ; Times: 1
+	Query: "Trichobatrachus" ; Times: 1
+	Query: "leptodactylus fuscus" ; Times: 2
+	Query: "genus:Silverstoneia specificepithet:nubicola" ; Times: 1
+	Query: "Centrolene buckleyi" ; Times: 2
+	Query: "Osteocephalus planiceps" ; Times: 1
+	Query: "Hyloxalus" ; Times: 1
+	Query: "Leptodactylus petersii mappable:1" ; Times: 1
+	Query: "Hypsiboas raniceps" ; Times: 5
+	Query: "Sphaenorhynchus carneus" ; Times: 1
+	Query: "Chiasmocleis albopunctata" ; Times: 3
+	Query: "genus:Rhinella specificepithet:arenarum" ; Times: 2
+	Query: "Siphonops annulatus mappable:1" ; Times: 1
+	Query: "Hyloscirtus" ; Times: 4
+	Query: "Trachycephalus nigromaculatus" ; Times: 1
+	Query: "Trachycephalus jordani" ; Times: 1
+	Query: "Osteocephalus taurinus" ; Times: 1
+	Query: "Leptodactylus petersii" ; Times: 1
+	Query: "Craugastor bransfordii mappable:1" ; Times: 1
+	Query: "Pristimantis diadematus" ; Times: 1
+	Query: "Clinotarsus" ; Times: 1
+	Query: "Pristimantis fenestratus mappable:1" ; Times: 1
+	Query: "Lithobates bwana" ; Times: 1
+	Query: "Leptodactylus albilabris mappable:1" ; Times: 1
+	Query: "Siphonops leucoderus mappable:1" ; Times: 1
+	Query: "Scinax catharinae" ; Times: 1
+	Query: "Leptodactylus albilabris" ; Times: 1
+	Query: "Lithobates warszewitschii mappable:1" ; Times: 2
+	Query: "Ameerega simulans" ; Times: 1
+	Query: "Lithodytes lineatus mappable:1" ; Times: 1
+	Query: "Allobates femoralis mappable:1" ; Times: 1
+	Query: "Engystomops petersi" ; Times: 3
+	Query: "agalychnis callidryas" ; Times: 1
+	Query: "Hyloxalus chocoensis" ; Times: 1
+	Query: "Boyacá" ; Times: 1
+	Query: "Leptodactylus bolivianus" ; Times: 1
+	Query: "telmatobius" ; Times: 1
+	Query: "Dendropsophus leucophyllatus mappable:1" ; Times: 1
+	Query: "genus:Dendropsophus specificepithet:leucophyllatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1034 download events in this period)
+Total number of records downloaded: 3999
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: France ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-01 ; Times: 1
+	Date: 2019-08-03 ; Times: 1
+	Date: 2019-08-05 ; Times: 1
+	Date: 2019-08-29 ; Times: 1
+	Date: 2019-08-09 ; Times: 2
+	Date: 2019-08-31 ; Times: 1
+	Date: 2019-08-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Boyacá" ; Times: 1
+	Query: "Santander" ; Times: 1
+	Query: "class:amphibia continent:South America" ; Times: 1
+	Query: "class:Amphibia country:&#34;Colombia&#34; continent:América" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "dendrophryniscus" ; Times: 1
+	Query: "Lithobates bwana" ; Times: 1
+	Query: "agalychnis callidryas" ; Times: 1
+
+
+End of report.
