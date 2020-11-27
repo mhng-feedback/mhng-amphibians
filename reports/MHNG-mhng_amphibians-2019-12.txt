@@ -1,0 +1,204 @@
+Report for Institution Code MHNG, Resource mhng_amphibians
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 214
+Number of records retrieved in searches: 6641
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 111
+	Country: United States ; Times: 45
+	Country: Russia ; Times: 3
+	Country: Netherlands ; Times: 4
+	Country: Italy ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Poland ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Germany ; Times: 5
+	Country: Ecuador ; Times: 8
+	Country: Peru ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 102
+	Date: 2019-12-27 ; Times: 1
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-20 ; Times: 3
+	Date: 2019-12-23 ; Times: 4
+	Date: 2019-12-22 ; Times: 8
+	Date: 2019-12-28 ; Times: 4
+	Date: 2019-12-18 ; Times: 4
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-10 ; Times: 12
+	Date: 2019-12-11 ; Times: 8
+	Date: 2019-12-12 ; Times: 29
+	Date: 2019-12-13 ; Times: 5
+	Date: 2019-12-14 ; Times: 2
+	Date: 2019-12-16 ; Times: 4
+	Date: 2019-12-17 ; Times: 3
+	Date: 2019-12-30 ; Times: 1
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-08 ; Times: 2
+	Date: 2019-12-07 ; Times: 2
+	Date: 2019-12-06 ; Times: 2
+	Date: 2019-12-05 ; Times: 4
+	Date: 2019-12-04 ; Times: 1
+	Date: 2019-12-03 ; Times: 8
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:ameerega country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "specificepithet:rosei genus:Capensibufo" ; Times: 2
+	Query: "specificepithet:moreirae genus:Melanophryniscus" ; Times: 2
+	Query: "genus:Hyperolius specificepithet:riggenbachi" ; Times: 1
+	Query: "specificepithet:haematiticus genus:Rhaebo" ; Times: 2
+	Query: "Conraua crassipes mappable:1" ; Times: 2
+	Query: "Phrynobatrachus auritus mappable:1" ; Times: 3
+	Query: "Ceratophrys cornuta" ; Times: 2
+	Query: "genus:Breviceps specificepithet:macrops" ; Times: 1
+	Query: "arlequinus" ; Times: 1
+	Query: "specificepithet:dorbignyi genus:Rhinella" ; Times: 2
+	Query: "hyla riveroi" ; Times: 1
+	Query: "Bufo gracilipes mappable:1" ; Times: 1
+	Query: "genus:Conraua specificepithet:robusta" ; Times: 2
+	Query: "genus:Dermatonotus specificepithet:muelleri" ; Times: 1
+	Query: "genus:Breviceps specificepithet:adspersus" ; Times: 2
+	Query: "Wolterstorffina parvipalmata" ; Times: 11
+	Query: "Gastrotheca angustifrons" ; Times: 7
+	Query: "Dendropsophus riveroi" ; Times: 1
+	Query: "specificepithet:stelzneri genus:Melanophryniscus" ; Times: 2
+	Query: "genus:Pipa specificepithet:carvalhoi" ; Times: 1
+	Query: "scientificname:Leptodactylus ventrimaculatus " ; Times: 1
+	Query: "specificepithet:afra genus:Nectophryne" ; Times: 2
+	Query: "Amietophrynus camerunensis mappable:1" ; Times: 3
+	Query: "Astylosternus batesi mappable:1" ; Times: 1
+	Query: "specificepithet:bambutensis genus:Werneria" ; Times: 2
+	Query: "specificepithet:tandyi genus:Werneria" ; Times: 2
+	Query: "specificepithet:mindoensis genus:Atelopus" ; Times: 2
+	Query: "Leptopelis millsoni mappable:1" ; Times: 1
+	Query: "Leptopelis calcaratus mappable:1" ; Times: 2
+	Query: "specificepithet:rugiceps genus:Nyctimantis" ; Times: 1
+	Query: "Leptopelis notatus mappable:1" ; Times: 1
+	Query: "genus:Scinax specificepithet:nasicus" ; Times: 1
+	Query: "specificepithet:bufo genus:Bufo" ; Times: 1
+	Query: "genus:Melanophryniscus specificepithet:stelzneri" ; Times: 2
+	Query: "Trichobatrachus robustus mappable:1" ; Times: 1
+	Query: "genus:Elachistocleis specificepithet:bicolor" ; Times: 1
+	Query: "Phrynobatrachus africanus mappable:1" ; Times: 1
+	Query: "specificepithet:valliceps genus:Incilius" ; Times: 2
+	Query: "specificepithet:coniferus genus:Incilius" ; Times: 2
+	Query: "hemiphractus johnsoni" ; Times: 1
+	Query: "leptopus" ; Times: 1
+	Query: "Scotobleps gabonicus mappable:1" ; Times: 1
+	Query: "specificepithet:vertebralis genus:Poyntonophrynus" ; Times: 2
+	Query: "genus:Pleurodema specificepithet:brachyops" ; Times: 3
+	Query: "specificepithet:atacamensis genus:Rhinella" ; Times: 2
+	Query: "Xenopus longipes" ; Times: 1
+	Query: "specificepithet:lynchi genus:Atelopus" ; Times: 2
+	Query: "specificepithet:varius genus:Atelopus" ; Times: 1
+	Query: "specificepithet:nanay genus:Atelopus" ; Times: 2
+	Query: "23496" ; Times: 1
+	Query: "specificepithet:mertensiana genus:Werneria" ; Times: 2
+	Query: "genus:Dendropsophus specificepithet:sanborni" ; Times: 2
+	Query: "Arthroleptis variabilis mappable:1" ; Times: 1
+	Query: "Leptopelis ocellatus mappable:1" ; Times: 1
+	Query: "specificepithet:veraguensis genus:Rhinella" ; Times: 2
+	Query: "Amietophrynus gracilipes mappable:1" ; Times: 1
+	Query: "specificepithet:preussi genus:Werneria" ; Times: 2
+	Query: "Epipedobates tricolor" ; Times: 1
+	Query: "specificepithet:marmoreus genus:Incilius" ; Times: 2
+	Query: "specificepithet:coynei genus:Atelopus" ; Times: 2
+	Query: "specificepithet:longirostris genus:Atelopus" ; Times: 2
+	Query: "Bufo camerunensis mappable:1" ; Times: 1
+	Query: "specificepithet:planispina genus:Atelopus" ; Times: 2
+	Query: "specificepithet:arthuri genus:Atelopus" ; Times: 2
+	Query: "genus:Typhlonectes specificepithet:natans" ; Times: 1
+	Query: "genus:Ameerega specificepithet:macero" ; Times: 1
+	Query: "specificepithet:carens genus:Schismaderma" ; Times: 2
+	Query: "Nectophryne batesii" ; Times: 1
+	Query: "pseudopaludicola" ; Times: 1
+	Query: "specificepithet:hypomelas genus:Rhaebo" ; Times: 2
+	Query: "specificepithet:fernandezae genus:Rhinella" ; Times: 2
+	Query: "specificepithet:mirei genus:Wolterstorffina" ; Times: 2
+	Query: "country:&#34;Colombia&#34; institutioncode:MHNG" ; Times: 1
+	Query: "Pristimantis orphnolaimus" ; Times: 1
+	Query: "specificepithet:ignescens genus:Atelopus" ; Times: 2
+	Query: "Cryptobatrachus" ; Times: 1
+	Query: "Rhinella crucifer" ; Times: 1
+	Query: "genus:Atelopus specificepithet:guanujo" ; Times: 1
+	Query: "specificepithet:elegans genus:Atelopus" ; Times: 2
+	Query: "specificepithet:balzani order:Anura" ; Times: 1
+	Query: "specificepithet:nepiozomus genus:Atelopus" ; Times: 2
+	Query: "Pseudopaludicola pusilla" ; Times: 2
+	Query: "alexteroon" ; Times: 1
+	Query: "hemiphractus" ; Times: 2
+	Query: "Xenopus laevis mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 4
+	Query: "genus:Lepidobatrachus specificepithet:laevis" ; Times: 1
+	Query: "Leptopelis rufus mappable:1" ; Times: 5
+	Query: "Agalychnis litodryas" ; Times: 1
+	Query: "specificepithet:exiguus genus:Atelopus" ; Times: 2
+	Query: "Ptychadena aequiplicata mappable:1" ; Times: 1
+	Query: "specificepithet:crucifer genus:Rhinella" ; Times: 2
+	Query: "specificepithet:balios genus:Atelopus" ; Times: 2
+	Query: "specificepithet:arenarum genus:Rhinella" ; Times: 2
+	Query: "Cardioglossa gracilis mappable:1" ; Times: 3
+	Query: "Chiromantis rufescens mappable:1" ; Times: 1
+	Query: "specificepithet:americanus genus:Anaxyrus" ; Times: 2
+	Query: "genus:Pristimantis specificepithet:altamazonicus" ; Times: 1
+	Query: "specificepithet:parvipalmata genus:Wolterstorffina" ; Times: 2
+	Query: "specificepithet:arunco genus:Rhinella" ; Times: 2
+	Query: "specificepithet:glaberrimus genus:Rhaebo" ; Times: 2
+	Query: "specificepithet:palmatus genus:Atelopus" ; Times: 2
+	Query: "Cardioglossa nigromaculata" ; Times: 4
+	Query: "specificepithet:fasciatus genus:Hypsiboas" ; Times: 2
+	Query: "specificepithet:batesii genus:Nectophryne" ; Times: 2
+	Query: "oophaga pumilio" ; Times: 1
+	Query: "papallacta" ; Times: 1
+	Query: "Scinax nebulosus" ; Times: 1
+	Query: "specificepithet:zeteki genus:Atelopus" ; Times: 2
+	Query: "specificepithet:gariepensis genus:Vandijkophrynus" ; Times: 2
+	Query: "Dimorphognathus africanus mappable:1" ; Times: 1
+	Query: "Hyperolius kuligae" ; Times: 5
+	Query: "specificepithet:guanujo genus:Atelopus" ; Times: 2
+	Query: "Leptopelis boulengeri mappable:1" ; Times: 1
+	Query: "Nectophryne afra" ; Times: 1
+	Query: "craugastor rhodopis mexico" ; Times: 1
+	Query: "RIVEROI" ; Times: 1
+	Query: "Scinax squalirostris" ; Times: 1
+	Query: "specificepithet:compactilis genus:Anaxyrus" ; Times: 2
+	Query: "atelopus mindoensis" ; Times: 1
+	Query: "specificepithet:pachydermus genus:Atelopus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 596 download events in this period)
+Total number of records downloaded: 2556
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-10 ; Times: 2
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:marmoreus genus:Incilius country:&#34;México&#34;" ; Times: 1
+	Query: "atelopus mindoensis" ; Times: 1
+	Query: "genus:Pleurodema specificepithet:brachyops" ; Times: 1
+	Query: "class:Amphibia OR Reptilia country:&#34;Cameroon&#34;" ; Times: 1
+
+
+End of report.
