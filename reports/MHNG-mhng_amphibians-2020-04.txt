@@ -1,0 +1,139 @@
+Report for Institution Code MHNG, Resource mhng_amphibians
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 233
+Number of records retrieved in searches: 4506
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: United Kingdom ; Times: 148
+	Country: South Africa ; Times: 5
+	Country: Panama ; Times: 11
+	Country: Mexico ; Times: 14
+	Country: France ; Times: 1
+	Country: United States ; Times: 28
+	Country: Togo ; Times: 2
+	Country: Puerto Rico ; Times: 1
+	Country: Argentina ; Times: 8
+	Country: Dominican Republic ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-18 ; Times: 11
+	Date: 2020-04-02 ; Times: 1
+	Date: 2020-04-12 ; Times: 4
+	Date: 2020-04-10 ; Times: 2
+	Date: 2020-04-17 ; Times: 9
+	Date: 2020-04-16 ; Times: 6
+	Date: 2020-04-15 ; Times: 3
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-22 ; Times: 2
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-20 ; Times: 2
+	Date: 2020-04-07 ; Times: 71
+	Date: 2020-04-01 ; Times: 5
+	Date: 2020-04-24 ; Times: 2
+	Date: 2020-04-03 ; Times: 18
+	Date: 2020-04-21 ; Times: 61
+	Date: 2020-04-08 ; Times: 13
+	Date: 2020-04-28 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Elachistocleis specificepithet:bicolor" ; Times: 1
+	Query: "johnsoni" ; Times: 1
+	Query: "genus:Hyla specificepithet:arborea" ; Times: 1
+	Query: "Hyperolius tuberilinguis" ; Times: 6
+	Query: "Hyperolius viridiflavus" ; Times: 2
+	Query: "ameerega" ; Times: 1
+	Query: "genus:Physalaemus specificepithet:albonotatus" ; Times: 3
+	Query: "Ptychadena porosissima" ; Times: 1
+	Query: "Afrixalus fornasini" ; Times: 6
+	Query: "Physalaemus albonotatus" ; Times: 1
+	Query: "Colostethus jacobuspetersi" ; Times: 3
+	Query: "Ameerega bilinguis" ; Times: 3
+	Query: "vntype:specimen (Physalaemus albonotatus )" ; Times: 1
+	Query: "herpele squalostoma" ; Times: 4
+	Query: "genus:Rhinella specificepithet:arenarum" ; Times: 2
+	Query: "Osteocephalus planiceps" ; Times: 7
+	Query: "class:Amphibia locality:Bahia" ; Times: 1
+	Query: "Rhinella paracnemis" ; Times: 3
+	Query: "Osteocephalus taurinus" ; Times: 7
+	Query: "genus:Cardioglossa class:Amphibia" ; Times: 1
+	Query: "Diasporus gularis" ; Times: 1
+	Query: "Allobates" ; Times: 1
+	Query: "Rheobates palmatus" ; Times: 2
+	Query: "Xenopus longipes" ; Times: 6
+	Query: "Xenopus laevis" ; Times: 7
+	Query: "hypsiboas rosenbergi country:&#34;Panama&#34;" ; Times: 1
+	Query: "Rhinella arenarum" ; Times: 3
+	Query: "Afrixalus knysnae" ; Times: 6
+	Query: "Ceratophrys" ; Times: 1
+	Query: "Silurana epitropicalis" ; Times: 4
+	Query: "Agalychnis callidryas" ; Times: 4
+	Query: "Rhinella crucifer" ; Times: 3
+	Query: "Batrachyla leptopus" ; Times: 3
+	Query: "Incilius valliceps" ; Times: 10
+	Query: "Xenopus muelleri" ; Times: 6
+	Query: "Strabomantis sulcatus" ; Times: 2
+	Query: "Hoplobatrachus occipitalis" ; Times: 4
+	Query: "Phrynobatrachus latifrons" ; Times: 4
+	Query: "Osteocephalus leprieurii" ; Times: 3
+	Query: "Lithodytes lineatus" ; Times: 9
+	Query: "Poyntonophrynus vertebralis" ; Times: 10
+	Query: "5290" ; Times: 1
+	Query: "genus:Arthroleptis specificepithet:poecilonotus" ; Times: 2
+	Query: "Cruziohyla" ; Times: 4
+	Query: "Nyctibates corrugatus" ; Times: 2
+	Query: "genus:Craugastor specificepithet:rhodopis" ; Times: 1
+	Query: "Rhinella dorbignyi" ; Times: 4
+	Query: "Ameerega macero" ; Times: 3
+	Query: "Lithobates palmipes" ; Times: 8
+	Query: "Osteocephalus mutabor" ; Times: 4
+	Query: "Agalychnis litodryas" ; Times: 10
+	Query: "Silurana tropicalis" ; Times: 4
+	Query: "genus:Scinax specificepithet:acuminatus" ; Times: 1
+	Query: "Diasporus" ; Times: 1
+	Query: "Xenopus andrei" ; Times: 6
+	Query: "Osteocephalus verruciger" ; Times: 6
+	Query: "Lepidobatrachus laevis" ; Times: 2
+	Query: "Craugastor fitzingeri" ; Times: 3
+	Query: "institutioncode:MHNG" ; Times: 1
+	Query: "Ptychadena grandisonae" ; Times: 4
+	Query: "Batrachyla taeniata" ; Times: 3
+	Query: "Rhinella fernandezae" ; Times: 7
+	Query: "Siphonops paulensis" ; Times: 2
+	Query: "Hyalinobatrachium fleischmanni" ; Times: 6
+	Query: "Epipedobates tricolor" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1171 download events in this period)
+Total number of records downloaded: 3354
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Panama ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-21 ; Times: 1
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-18 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Eleutherodactylus" ; Times: 2
+	Query: "ameerega" ; Times: 1
+	Query: "hypsiboas rosenbergi country:&#34;Panama&#34;" ; Times: 1
+	Query: "herpele squalostoma" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "Diasporus" ; Times: 1
+
+
+End of report.
