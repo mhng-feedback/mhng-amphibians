@@ -1,0 +1,156 @@
+Report for Institution Code MHNG, Resource mhng_amphibians
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 140
+Number of records retrieved in searches: 2090
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 31
+	Country: Colombia ; Times: 8
+	Country: Mexico ; Times: 56
+	Country: Panama ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Paraguay ; Times: 25
+	Country: Vietnam ; Times: 1
+	Country: Slovakia ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Dominican Republic ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-08 ; Times: 3
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-19 ; Times: 10
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-25 ; Times: 13
+	Date: 2020-10-22 ; Times: 3
+	Date: 2020-10-12 ; Times: 3
+	Date: 2020-10-05 ; Times: 3
+	Date: 2020-10-03 ; Times: 2
+	Date: 2020-10-11 ; Times: 2
+	Date: 2020-10-30 ; Times: 45
+	Date: 2020-10-31 ; Times: 1
+	Date: 2020-10-07 ; Times: 2
+	Date: 2020-10-17 ; Times: 3
+	Date: 2020-10-24 ; Times: 4
+	Date: 2020-10-20 ; Times: 22
+	Date: 2020-10-14 ; Times: 5
+	Date: 2020-10-15 ; Times: 2
+	Date: 2020-10-06 ; Times: 1
+	Date: 2020-10-29 ; Times: 13
+	Date: 2020-10-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "epipedobates tricolor" ; Times: 12
+	Query: "Breviceps macrops" ; Times: 5
+	Query: "Leptodactylus latinasus" ; Times: 1
+	Query: "Phyllomedusa sauvagii" ; Times: 1
+	Query: "Craugastoridae" ; Times: 1
+	Query: "genus:Physalaemus specificepithet:biligonigerus" ; Times: 1
+	Query: "Hemiphractus scutatus" ; Times: 1
+	Query: "Hyalinobatrachium fleischmanni" ; Times: 9
+	Query: "Leptodactylus bufonius" ; Times: 1
+	Query: "Chiasmocleis albopunctata" ; Times: 4
+	Query: "Telmatobius" ; Times: 1
+	Query: "Leptodactylus elenae" ; Times: 1
+	Query: "Physalaemus albonotatus" ; Times: 2
+	Query: "Lepidobatrachus laevis" ; Times: 2
+	Query: "genus:Trichobatrachus specificepithet:robustus" ; Times: 1
+	Query: "Espeletia" ; Times: 2
+	Query: "Pseudopaludicola mystacalis" ; Times: 1
+	Query: "pseudoeurycea" ; Times: 1
+	Query: "Leptodactylus melanonotus" ; Times: 2
+	Query: "genus:Scotobleps specificepithet:gabonicus" ; Times: 1
+	Query: "Physalaemus biligonigerus" ; Times: 1
+	Query: "Tarapaca" ; Times: 1
+	Query: "genus:Hypopachus specificepithet:variolosus" ; Times: 1
+	Query: "Leptodactylus laticeps" ; Times: 1
+	Query: "Atelopus palmatus" ; Times: 2
+	Query: "country:Ecuador scientificname:Bolitoglossa palmata " ; Times: 1
+	Query: "Rhinella arenarum" ; Times: 1
+	Query: "Scinax squalirostris" ; Times: 1
+	Query: "genus:Osteocephalus specificepithet:leprieurii" ; Times: 1
+	Query: "Odorrana" ; Times: 1
+	Query: "espeletia" ; Times: 2
+	Query: "Agalychnis callidryas" ; Times: 10
+	Query: "Hypopachus variolosus" ; Times: 3
+	Query: "Rhinella crucifer" ; Times: 2
+	Query: "Physalaemus nattereri" ; Times: 1
+	Query: "mappable:1 scientificname:Eleutherodactylus binotatus" ; Times: 1
+	Query: "Indotyphlidae" ; Times: 1
+	Query: "Afrixalus equatorialis" ; Times: 1
+	Query: "genus:Agalychnis specificepithet:callidryas" ; Times: 2
+	Query: "Craugastor rhodopis" ; Times: 12
+	Query: "locality:angola" ; Times: 3
+	Query: "Pleurodema bibroni" ; Times: 2
+	Query: "5046" ; Times: 1
+	Query: "7904" ; Times: 1
+	Query: "Leptodactylus gracilis" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:vaillantii" ; Times: 1
+	Query: "Adenomera andreae" ; Times: 1
+	Query: "Hypsiboas pulchella" ; Times: 1
+	Query: "Odontophrynus americanus" ; Times: 1
+	Query: "Dendropsophus microcephalus" ; Times: 6
+	Query: "Physalaemus santafecinus" ; Times: 1
+	Query: "Lithobates vaillanti" ; Times: 3
+	Query: "trichobatrachus" ; Times: 2
+	Query: "Scinax acuminatus" ; Times: 1
+	Query: "genus:Caecilia specificepithet:nigricans" ; Times: 1
+	Query: "Siphonops paulensis" ; Times: 1
+	Query: "Hyloscirtus" ; Times: 1
+	Query: "Engystomops pustulosus" ; Times: 13
+	Query: "Dermatonotus muelleri" ; Times: 1
+	Query: "genus:Melanophryniscus specificepithet:stelzneri" ; Times: 1
+	Query: "Trachycephalus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 1521 download events in this period)
+Total number of records downloaded: 1022
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 34
+	Country: Unknown ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: United States ; Times: 3
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 2
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-25 ; Times: 3
+	Date: 2020-10-22 ; Times: 25
+	Date: 2020-10-29 ; Times: 1
+	Date: 2020-10-28 ; Times: 3
+	Date: 2020-10-30 ; Times: 1
+	Date: 2020-10-14 ; Times: 1
+	Date: 2020-10-06 ; Times: 1
+	Date: 2020-10-23 ; Times: 2
+	Date: 2020-10-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "epipedobates tricolor" ; Times: 1
+	Query: "Centrolenidae" ; Times: 1
+	Query: "Adenomera" ; Times: 1
+	Query: "ECNOMIOHYLA MIOTYMPANUM" ; Times: 1
+	Query: "Pachymedusa dacnicolor" ; Times: 2
+	Query: "Indotyphlidae" ; Times: 1
+	Query: "Espeletia" ; Times: 1
+	Query: "ecnomiohyla miotympanum" ; Times: 1
+	Query: "Ecnomiohyla miotympanum" ; Times: 30
+	Query: "Hylarana" ; Times: 1
+	Query: "Bolitoglossa platydactyla" ; Times: 1
+	Query: "vntype:specimen specificepithet:pipiens genus:Lithobates" ; Times: 1
+
+
+End of report.
