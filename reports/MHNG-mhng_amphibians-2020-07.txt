@@ -1,0 +1,186 @@
+Report for Institution Code MHNG, Resource mhng_amphibians
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 148
+Number of records retrieved in searches: 3604
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 10
+	Country: Ireland ; Times: 1
+	Country: Mexico ; Times: 25
+	Country: Unknown ; Times: 16
+	Country: Peru ; Times: 3
+	Country: United States ; Times: 59
+	Country: Guatemala ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Ecuador ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 18
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 2
+	Date: 2020-07-08 ; Times: 4
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-27 ; Times: 7
+	Date: 2020-07-26 ; Times: 6
+	Date: 2020-07-25 ; Times: 22
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-03 ; Times: 12
+	Date: 2020-07-02 ; Times: 5
+	Date: 2020-07-05 ; Times: 5
+	Date: 2020-07-04 ; Times: 7
+	Date: 2020-07-07 ; Times: 2
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-24 ; Times: 2
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-29 ; Times: 19
+	Date: 2020-07-28 ; Times: 3
+	Date: 2020-07-12 ; Times: 2
+	Date: 2020-07-13 ; Times: 2
+	Date: 2020-07-11 ; Times: 5
+	Date: 2020-07-30 ; Times: 9
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-14 ; Times: 5
+	Date: 2020-07-17 ; Times: 2
+	Date: 2020-07-15 ; Times: 5
+	Date: 2020-07-16 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "Afrixalus paradorsalis mappable:1" ; Times: 1
+	Query: "Bolitoglossa palmata" ; Times: 3
+	Query: "genus:Xenopus specificepithet:muelleri" ; Times: 1
+	Query: "Telmatobius" ; Times: 1
+	Query: "genus:Breviceps country:&#34;Botswana&#34;" ; Times: 1
+	Query: "mappable:1 year&gt;=1990 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Dentata jalisco" ; Times: 2
+	Query: "Hyperolius fusciventris mappable:1" ; Times: 1
+	Query: "Afrixalus laevis mappable:1" ; Times: 1
+	Query: "genus:Siphonops specificepithet:annulatus" ; Times: 2
+	Query: "alticola" ; Times: 1
+	Query: "Phyllomedusa bicolor" ; Times: 1
+	Query: "atelopus varius" ; Times: 3
+	Query: "Cardioglossa elegans mappable:1" ; Times: 3
+	Query: "Ecuador Manabi chone" ; Times: 1
+	Query: "Arthroleptis xenochirus mappable:1" ; Times: 1
+	Query: "Bolitoglossa peruviana" ; Times: 3
+	Query: "specificepithet:melanonotus genus:Leptodactylus" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 3
+	Query: "Eurycea bislineata" ; Times: 1
+	Query: "Leptopelis bocagii mappable:1" ; Times: 1
+	Query: "Hyperolius concolor mappable:1" ; Times: 1
+	Query: "Bolitoglossa equatoriana" ; Times: 4
+	Query: "class:Amphibia brevirostris" ; Times: 1
+	Query: "Bolitoglossa subpalmata" ; Times: 1
+	Query: "Adenomera hylaedactyla" ; Times: 1
+	Query: "class:Amphibia country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Phyllomedusa sauvagii" ; Times: 1
+	Query: "(abernathy)" ; Times: 2
+	Query: "genus:Dendrobates specificepithet:truncatus" ; Times: 1
+	Query: "Leptopelis viridis mappable:1" ; Times: 4
+	Query: "craugastor" ; Times: 2
+	Query: "Colombia Bonda" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "class:Amphibia country:&#34;Panama&#34;" ; Times: 1
+	Query: "Dendropsophus brevifrons" ; Times: 1
+	Query: "MHNG 2072" ; Times: 1
+	Query: "Astylosternus diadematus mappable:1" ; Times: 2
+	Query: "Afrixalus fulvovittatus mappable:1" ; Times: 2
+	Query: "Afrixalus wittei mappable:1" ; Times: 1
+	Query: "Arthroleptis poecilonotus mappable:1" ; Times: 1
+	Query: "specificepithet:varius genus:Atelopus" ; Times: 3
+	Query: "Bolitoglossa colonnea" ; Times: 5
+	Query: "Hyperolius phantasticus mappable:1" ; Times: 1
+	Query: "class:Amphibia country:&#34;Panamá&#34;" ; Times: 4
+	Query: "Elachistocleis" ; Times: 1
+	Query: "Ecuador Alamor" ; Times: 1
+	Query: "Alsodes barrioi" ; Times: 1
+	Query: "Haddadus binotatus mappable:1" ; Times: 2
+	Query: "MHNG" ; Times: 1
+	Query: "Ecuador Papallacta" ; Times: 1
+	Query: "Leptodactylus labyrinthicus" ; Times: 1
+	Query: "vntype:specimen class:Amphibia country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "genus:Physalaemus specificepithet:cuvieri" ; Times: 2
+	Query: "Arthroleptis variabilis mappable:1" ; Times: 1
+	Query: "nymphargus" ; Times: 1
+	Query: "genus:Physalaemus specificepithet:biligonigerus" ; Times: 1
+	Query: "Afrixalus equatorialis mappable:1" ; Times: 2
+	Query: "Hyperolius ocellatus mappable:1" ; Times: 1
+	Query: "Clinotarsus" ; Times: 1
+	Query: "specificepithet:bellii genus:Pseudoeurycea" ; Times: 1
+	Query: "15110" ; Times: 1
+	Query: "genus:Leptopelis specificepithet: Aubryi" ; Times: 1
+	Query: "Kassina senegalensis mappable:1" ; Times: 1
+	Query: "genus:Atelopus country:&#34;Panama&#34;" ; Times: 2
+	Query: "rhinoderma darwinii" ; Times: 17
+	Query: "Pseudopaludicola pusilla" ; Times: 1
+	Query: "Hyperolius tuberculatus mappable:1" ; Times: 1
+	Query: "specificepithet:adspersus genus:Breviceps" ; Times: 4
+	Query: "hemiphractus fasciatus" ; Times: 1
+	Query: "San Domingo San Domingo" ; Times: 1
+	Query: "Cryptothylax greshoffii mappable:1" ; Times: 1
+	Query: "Hyperolius balfouri mappable:1" ; Times: 1
+	Query: "Pseustes" ; Times: 1
+	Query: "Leptopelis notatus mappable:1" ; Times: 1
+	Query: "Bolitoglossa adspersa" ; Times: 5
+	Query: "class:Amphibia country:&#34;Guatemala&#34;" ; Times: 3
+	Query: "Laja" ; Times: 2
+	Query: "specificepithet:coniferus family:bufonidae" ; Times: 1
+	Query: "genus:Silverstoneia specificepithet:nubicola" ; Times: 1
+	Query: "Cardioglossa leucomystax mappable:1" ; Times: 2
+	Query: "Bolitoglossa platydactyla" ; Times: 3
+	Query: "5867 ecuador" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 940 download events in this period)
+Total number of records downloaded: 1397
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Brazil ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Guatemala ; Times: 1
+	Country: Mexico ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-08 ; Times: 2
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-25 ; Times: 3
+	Date: 2020-07-03 ; Times: 9
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-06 ; Times: 4
+	Date: 2020-07-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Amphibia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Atelopus country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:coniferus family:bufonidae" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "specificepithet:melanonotus genus:Leptodactylus" ; Times: 1
+	Query: "class:Amphibia country:&#34;Peru&#34;" ; Times: 2
+	Query: "Elachistocleis" ; Times: 1
+	Query: "class:Amphibia country:&#34;Panamá&#34;" ; Times: 4
+	Query: "class:Amphibia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "class:Amphibia country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Gastrotheca marsupiata" ; Times: 1
+	Query: "specificepithet:marmoreus family:bufonidae" ; Times: 1
+	Query: "class:Amphibia country:&#34;Guatemala&#34;" ; Times: 2
+	Query: "class:Amphibia country:&#34;Panama&#34;" ; Times: 1
+	Query: "class:Amphibia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "class:Amphibia country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "rhinoderma darwinii" ; Times: 3
+	Query: "genus:Incilius" ; Times: 1
+	Query: "specificepithet:valliceps family:bufonidae" ; Times: 1
+
+
+End of report.
