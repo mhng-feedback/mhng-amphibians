@@ -1,0 +1,117 @@
+Report for Institution Code MHNG, Resource mhng_amphibians
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 77
+Number of records retrieved in searches: 2506
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 8
+	Country: Gabon ; Times: 1
+	Country: Ecuador ; Times: 4
+	Country: Colombia ; Times: 8
+	Country: Argentina ; Times: 42
+	Country: Cameroon ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-10 ; Times: 3
+	Date: 2020-09-11 ; Times: 3
+	Date: 2020-09-27 ; Times: 3
+	Date: 2020-09-13 ; Times: 1
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-18 ; Times: 1
+	Date: 2020-09-19 ; Times: 5
+	Date: 2020-09-08 ; Times: 1
+	Date: 2020-09-02 ; Times: 1
+	Date: 2020-09-03 ; Times: 2
+	Date: 2020-09-25 ; Times: 1
+	Date: 2020-09-01 ; Times: 3
+	Date: 2020-09-07 ; Times: 3
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-30 ; Times: 40
+	Date: 2020-09-04 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "mappable:1 scientificname:Leptodactylus elenae" ; Times: 3
+	Query: "genus:Hyla specificepithet:arborea" ; Times: 1
+	Query: "genus:Hymenochirus specificepithet:boettgeri" ; Times: 1
+	Query: "scientificname:Dendrobates auratus" ; Times: 1
+	Query: "Phyllomedusa bicolor" ; Times: 1
+	Query: "atelopus varius" ; Times: 2
+	Query: "Dendropsophus labialis" ; Times: 2
+	Query: "Leptodactylus mystacinus" ; Times: 2
+	Query: "Pseudopaludicola mystacalis" ; Times: 1
+	Query: "mappable:1 scientificname:Leptodactylus chaquensis" ; Times: 3
+	Query: "mappable:1 scientificname:Scinax nasicus" ; Times: 2
+	Query: "mappable:1 scientificname:Phyllomedusa sauvagii" ; Times: 2
+	Query: "mappable:1 scientificname:Scinax acuminatus" ; Times: 2
+	Query: "genus:Xenopus specificepithet:fraseri" ; Times: 1
+	Query: "mappable:1 scientificname:Lepidobatrachus laevis" ; Times: 3
+	Query: "Rheobates palmatus" ; Times: 3
+	Query: "Cuyabeno" ; Times: 1
+	Query: "mappable:1 scientificname:Leptodactylus bufonius" ; Times: 3
+	Query: "Scinax ruber" ; Times: 2
+	Query: "Tabasco" ; Times: 2
+	Query: "mappable:1 scientificname:Elachistocleis bicolor" ; Times: 3
+	Query: "23496" ; Times: 1
+	Query: "mappable:1 scientificname:Leptodactylus latinasus" ; Times: 3
+	Query: "genus:Leptodactylus specificepithet:chaquensis" ; Times: 2
+	Query: "mappable:1 scientificname:Leptodactylus laticeps" ; Times: 3
+	Query: "mappable:1 scientificname:Dermatonotus muelleri" ; Times: 3
+	Query: "Lithodytes lineatus" ; Times: 2
+	Query: "cuyabeno" ; Times: 2
+	Query: "the amphibians" ; Times: 1
+	Query: "Leptodactylodon axillaris" ; Times: 1
+	Query: "mappable:1 scientificname:Leptodactylus fuscus" ; Times: 3
+	Query: "mappable:1 scientificname:Leptodactylus mystacinus" ; Times: 2
+	Query: "tabasco" ; Times: 3
+	Query: "mappable:1 scientificname:Physalaemus biligonigerus" ; Times: 2
+	Query: "atelopus zeteki" ; Times: 1
+	Query: "GEN 820" ; Times: 1
+	Query: "Trichobatrachus" ; Times: 2
+	Query: "mappable:1 scientificname:Leptodactylus gracilis" ; Times: 3
+	Query: "genus:Dendrobates specificepithet:tinctorius" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 976 download events in this period)
+Total number of records downloaded: 17772
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-15 ; Times: 3
+	Date: 2020-09-30 ; Times: 2
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-12 ; Times: 2
+	Date: 2020-09-02 ; Times: 1
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tabasco" ; Times: 1
+	Query: "atelopus varius" ; Times: 2
+	Query: "Proceratophrys" ; Times: 1
+	Query: "atelopus zeteki" ; Times: 1
+	Query: "Pachymedusa dacnicolor" ; Times: 2
+	Query: "Ambystoma tigrinum mexico" ; Times: 1
+	Query: "leptodactylidae" ; Times: 1
+	Query: "Amphibia" ; Times: 2
+
+
+End of report.
